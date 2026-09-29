@@ -1,0 +1,2541 @@
+student_id,pdf_page,department,degree,sr_no,result_status,sgpa,cgpa,failing_subjects
+STU00001,1,Management Sciences,Associate Degree in Business Administration,1,Promoted,2.43,2.64,
+STU00002,1,Management Sciences,Associate Degree in Business Administration,2,Promoted,2.47,2.64,
+STU00003,1,Management Sciences,Associate Degree in Business Administration,3,Promoted,2.79,2.67,
+STU00004,1,Management Sciences,Associate Degree in Business Administration,4,Promoted,2.82,2.79,
+STU00005,1,Management Sciences,Associate Degree in Business Administration,5,Promoted,2.49,2.2,
+STU00006,1,Management Sciences,Associate Degree in Business Administration,6,Promoted,1.7,1.65,MGT-327
+STU00007,1,Management Sciences,Associate Degree in Business Administration,7,Promoted,2.31,2.12,
+STU00008,1,Management Sciences,Associate Degree in Business Administration,8,Promoted,2.19,2.08,
+STU00009,1,Management Sciences,Associate Degree in Business Administration,9,Promoted,3.38,3.18,
+STU00010,1,Management Sciences,Associate Degree in Business Administration,10,Promoted,3.11,3.03,
+STU00011,1,Management Sciences,Associate Degree in Business Administration,11,Promoted,2.51,2.43,MGT-328
+STU00012,2,Management Sciences,Bachelor of Business Administration,1,Promoted,1.5,2.34,
+STU00013,2,Management Sciences,Bachelor of Business Administration,2,Promoted,2.5,2.18,
+STU00014,3,Management Sciences,Bachelor of Business Administration,1,Promoted,3.01,,
+STU00015,4,Management Sciences,Bachelor of Business Administration,1,Promoted,3.7,2.51,
+STU00016,5,Management Sciences,Bachelor of Business Administration,1,Promoted,3.0,2.75,
+STU00017,6,Management Sciences,Bachelor of Business Administration,1,Promoted,3.14,2.85,
+STU00018,6,Management Sciences,Bachelor of Business Administration,2,Promoted,3.14,2.96,
+STU00019,6,Management Sciences,Bachelor of Business Administration,3,Promoted,3.7,3.17,
+STU00020,6,Management Sciences,Bachelor of Business Administration,4,Promoted,3.18,3.06,
+STU00021,6,Management Sciences,Bachelor of Business Administration,5,Promoted,2.34,2.56,
+STU00022,6,Management Sciences,Bachelor of Business Administration,6,Promoted,3.08,2.62,
+STU00023,6,Management Sciences,Bachelor of Business Administration,7,Promoted,3.27,2.73,
+STU00024,6,Management Sciences,Bachelor of Business Administration,8,Promoted,3.94,3.72,
+STU00025,6,Management Sciences,Bachelor of Business Administration,9,Promoted,3.36,3.15,
+STU00026,6,Management Sciences,Bachelor of Business Administration,10,Promoted,3.56,3.07,
+STU00027,6,Management Sciences,Bachelor of Business Administration,11,Promoted,3.56,3.1,
+STU00028,6,Management Sciences,Bachelor of Business Administration,12,Promoted,3.36,3.3,
+STU00029,6,Management Sciences,Bachelor of Business Administration,13,Promoted,3.48,3.16,
+STU00030,6,Management Sciences,Bachelor of Business Administration,14,Promoted,3.64,3.36,
+STU00031,6,Management Sciences,Bachelor of Business Administration,15,Promoted,3.94,3.56,
+STU00032,6,Management Sciences,Bachelor of Business Administration,16,Promoted,2.9,3.1,
+STU00033,6,Management Sciences,Bachelor of Business Administration,17,Promoted,3.48,2.78,
+STU00034,6,Management Sciences,Bachelor of Business Administration,18,Promoted,3.48,3.32,
+STU00035,6,Management Sciences,Bachelor of Business Administration,19,Promoted,3.46,2.88,
+STU00036,6,Management Sciences,Bachelor of Business Administration,20,Promoted,3.08,2.99,
+STU00037,6,Management Sciences,Bachelor of Business Administration,21,Promoted,3.44,2.79,
+STU00038,6,Management Sciences,Bachelor of Business Administration,22,Promoted,2.98,2.69,
+STU00039,6,Management Sciences,Bachelor of Business Administration,23,Promoted,3.23,2.36,
+STU00040,6,Management Sciences,Bachelor of Business Administration,24,Promoted,3.54,3.27,
+STU00041,6,Management Sciences,Bachelor of Business Administration,25,Promoted,3.08,2.9,
+STU00042,6,Management Sciences,Bachelor of Business Administration,26,Promoted,3.94,3.7,
+STU00043,6,Management Sciences,Bachelor of Business Administration,27,Promoted,3.94,3.66,
+STU00044,6,Management Sciences,Bachelor of Business Administration,28,Promoted,2.77,2.36,
+STU00045,6,Management Sciences,Bachelor of Business Administration,29,Promoted,2.94,2.76,
+STU00046,6,Management Sciences,Bachelor of Business Administration,30,Promoted,3.3,2.58,
+STU00047,6,Management Sciences,Bachelor of Business Administration,31,Promoted,3.52,3.04,
+STU00048,6,Management Sciences,Bachelor of Business Administration,32,Promoted,3.08,2.67,
+STU00049,6,Management Sciences,Bachelor of Business Administration,33,Promoted,3.68,3.11,
+STU00050,7,Management Sciences,Bachelor of Business Administration,1,Promoted,3.2,2.55,
+STU00051,7,Management Sciences,Bachelor of Business Administration,2,Promoted,2.29,2.38,MGT-420
+STU00052,8,Management Sciences,Bachelor of Business Administration,1,Promoted,3.7,3.14,
+STU00053,8,Management Sciences,Bachelor of Business Administration,2,Promoted,3.78,3.62,
+STU00054,8,Management Sciences,Bachelor of Business Administration,3,Promoted,3.55,3.02,
+STU00055,8,Management Sciences,Bachelor of Business Administration,4,Promoted,3.7,3.4,
+STU00056,8,Management Sciences,Bachelor of Business Administration,5,Promoted,3.33,2.74,
+STU00057,8,Management Sciences,Bachelor of Business Administration,6,Promoted,3.18,2.7,
+STU00058,8,Management Sciences,Bachelor of Business Administration,7,Promoted,3.7,3.38,
+STU00059,8,Management Sciences,Bachelor of Business Administration,8,Promoted,3.85,3.38,
+STU00060,8,Management Sciences,Bachelor of Business Administration,9,Promoted,3.28,2.65,
+STU00061,8,Management Sciences,Bachelor of Business Administration,10,Promoted,3.7,3.23,
+STU00062,8,Management Sciences,Bachelor of Business Administration,11,Promoted,3.18,2.61,
+STU00063,8,Management Sciences,Bachelor of Business Administration,12,Promoted,3.33,2.87,
+STU00064,8,Management Sciences,Bachelor of Business Administration,13,Promoted,3.7,3.43,
+STU00065,8,Management Sciences,Bachelor of Business Administration,14,Promoted,3.78,3.31,
+STU00066,8,Management Sciences,Bachelor of Business Administration,15,Promoted,3.7,3.11,
+STU00067,8,Management Sciences,Bachelor of Business Administration,16,Promoted,3.7,3.32,
+STU00068,8,Management Sciences,Bachelor of Business Administration,17,Promoted,3.63,3.02,
+STU00069,8,Management Sciences,Bachelor of Business Administration,18,Promoted,3.45,3.07,
+STU00070,8,Management Sciences,Bachelor of Business Administration,19,Promoted,3.35,2.48,
+STU00071,8,Management Sciences,Bachelor of Business Administration,20,Promoted,3.63,2.74,
+STU00072,8,Management Sciences,Bachelor of Business Administration,21,Promoted,3.7,3.02,
+STU00073,8,Management Sciences,Bachelor of Business Administration,22,Promoted,3.38,2.76,
+STU00074,8,Management Sciences,Bachelor of Business Administration,23,Promoted,3.45,2.85,
+STU00075,8,Management Sciences,Bachelor of Business Administration,24,Promoted,3.38,2.97,
+STU00076,8,Management Sciences,Bachelor of Business Administration,25,Promoted,3.63,3.02,
+STU00077,8,Management Sciences,Bachelor of Business Administration,26,Promoted,2.88,2.64,
+STU00078,8,Management Sciences,Bachelor of Business Administration,27,Promoted,3.38,2.63,
+STU00079,8,Management Sciences,Bachelor of Business Administration,28,Promoted,3.7,2.75,
+STU00080,8,Management Sciences,Bachelor of Business Administration,29,Promoted,2.78,2.29,
+STU00081,8,Management Sciences,Bachelor of Business Administration,30,Promoted,3.6,2.83,
+STU00082,8,Management Sciences,Bachelor of Business Administration,31,Promoted,3.53,2.82,
+STU00083,8,Management Sciences,Bachelor of Business Administration,32,Promoted,3.33,2.54,
+STU00084,8,Management Sciences,Bachelor of Business Administration,33,Promoted,3.62,2.7,
+STU00085,9,Management Sciences,Bachelor of Business Administration,1,Promoted,2.88,2.27,
+STU00086,9,Management Sciences,Bachelor of Business Administration,2,Dropped,0.0,1.27,"GE-102, MGT-426, MGT-434, MGT-521, MGT-522, MKT-521, MKT-522"
+STU00087,10,Management Sciences,Bachelor of Business Administration,1,Promoted,3.88,3.63,
+STU00088,10,Management Sciences,Bachelor of Business Administration,2,Promoted,3.51,3.16,
+STU00089,10,Management Sciences,Bachelor of Business Administration,3,Promoted,3.24,2.98,
+STU00090,10,Management Sciences,Bachelor of Business Administration,4,Promoted,3.18,2.45,
+STU00091,10,Management Sciences,Bachelor of Business Administration,5,Promoted,3.89,3.68,
+STU00092,10,Management Sciences,Bachelor of Business Administration,6,Promoted,3.52,2.91,
+STU00093,10,Management Sciences,Bachelor of Business Administration,7,Promoted,3.58,3.02,
+STU00094,10,Management Sciences,Bachelor of Business Administration,8,Promoted,3.79,3.41,
+STU00095,10,Management Sciences,Bachelor of Business Administration,9,Promoted,3.39,2.72,
+STU00096,10,Management Sciences,Bachelor of Business Administration,10,Promoted,3.54,3.41,
+STU00097,10,Management Sciences,Bachelor of Business Administration,11,Promoted,3.49,2.95,
+STU00098,10,Management Sciences,Bachelor of Business Administration,12,Promoted,3.49,3.25,
+STU00099,10,Management Sciences,Bachelor of Business Administration,13,Promoted,3.62,3.61,
+STU00100,10,Management Sciences,Bachelor of Business Administration,14,Promoted,2.79,2.84,
+STU00101,10,Management Sciences,Bachelor of Business Administration,15,Promoted,3.79,3.25,
+STU00102,10,Management Sciences,Bachelor of Business Administration,16,Promoted,3.45,3.12,
+STU00103,10,Management Sciences,Bachelor of Business Administration,17,Promoted,2.89,2.61,
+STU00104,10,Management Sciences,Bachelor of Business Administration,18,Promoted,3.37,2.92,
+STU00105,10,Management Sciences,Bachelor of Business Administration,19,Promoted,3.61,2.97,
+STU00106,10,Management Sciences,Bachelor of Business Administration,20,Promoted,3.63,3.36,
+STU00107,10,Management Sciences,Bachelor of Business Administration,21,Promoted,3.56,3.25,
+STU00108,10,Management Sciences,Bachelor of Business Administration,22,Promoted,3.68,3.38,
+STU00109,10,Management Sciences,Bachelor of Business Administration,23,Promoted,3.59,3.16,
+STU00110,10,Management Sciences,Bachelor of Business Administration,24,Promoted,3.56,3.12,
+STU00111,10,Management Sciences,Bachelor of Business Administration,25,Promoted,3.54,3.02,
+STU00112,10,Management Sciences,Bachelor of Business Administration,26,Promoted,3.31,2.8,
+STU00113,10,Management Sciences,Bachelor of Business Administration,27,Promoted,3.06,2.47,
+STU00114,10,Management Sciences,Bachelor of Business Administration,28,Promoted,3.46,2.91,
+STU00115,10,Management Sciences,Bachelor of Business Administration,29,Promoted,3.52,3.06,
+STU00116,10,Management Sciences,Bachelor of Business Administration,30,Promoted,3.27,2.79,
+STU00117,10,Management Sciences,Bachelor of Business Administration,31,Promoted,3.54,3.05,
+STU00118,10,Management Sciences,Bachelor of Business Administration,32,Promoted,3.54,2.79,
+STU00119,10,Management Sciences,Bachelor of Business Administration,33,Promoted,3.38,2.9,
+STU00120,10,Management Sciences,Bachelor of Business Administration,34,Promoted,3.26,2.5,
+STU00121,10,Management Sciences,Bachelor of Business Administration,35,Promoted,3.27,2.55,
+STU00122,10,Management Sciences,Bachelor of Business Administration,36,Promoted,3.19,2.61,
+STU00123,10,Management Sciences,Bachelor of Business Administration,37,Promoted,3.38,3.04,
+STU00124,10,Management Sciences,Bachelor of Business Administration,38,Promoted,3.66,2.96,
+STU00125,10,Management Sciences,Bachelor of Business Administration,39,Promoted,3.38,2.73,
+STU00126,10,Management Sciences,Bachelor of Business Administration,40,Promoted,3.49,2.98,
+STU00127,10,Management Sciences,Bachelor of Business Administration,41,Promoted,3.49,2.67,
+STU00128,10,Management Sciences,Bachelor of Business Administration,42,Promoted,3.54,2.72,
+STU00129,10,Management Sciences,Bachelor of Business Administration,43,Promoted,3.79,3.23,
+STU00130,10,Management Sciences,Bachelor of Business Administration,44,Promoted,3.44,2.85,
+STU00131,12,Management Sciences,Bachelor of Business Administration,1,Promoted,3.88,3.87,
+STU00132,12,Management Sciences,Bachelor of Business Administration,2,Promoted,3.78,3.78,
+STU00133,12,Management Sciences,Bachelor of Business Administration,3,Promoted,1.98,2.41,MGT-324
+STU00134,12,Management Sciences,Bachelor of Business Administration,4,Promoted,3.57,3.73,
+STU00135,12,Management Sciences,Bachelor of Business Administration,5,Promoted,3.68,3.66,
+STU00136,12,Management Sciences,Bachelor of Business Administration,6,Promoted,3.42,3.51,
+STU00137,12,Management Sciences,Bachelor of Business Administration,7,Promoted,2.96,3.13,
+STU00138,12,Management Sciences,Bachelor of Business Administration,8,Promoted,3.56,3.45,
+STU00139,12,Management Sciences,Bachelor of Business Administration,9,Promoted,3.21,3.16,
+STU00140,12,Management Sciences,Bachelor of Business Administration,10,Promoted,2.88,2.84,
+STU00141,12,Management Sciences,Bachelor of Business Administration,11,Promoted,3.69,3.74,
+STU00142,12,Management Sciences,Bachelor of Business Administration,12,Promoted,2.81,2.5,GE-202
+STU00143,12,Management Sciences,Bachelor of Business Administration,13,Promoted,3.11,3.32,
+STU00144,12,Management Sciences,Bachelor of Business Administration,14,Promoted,3.84,3.91,
+STU00145,12,Management Sciences,Bachelor of Business Administration,15,Promoted,3.54,3.71,
+STU00146,12,Management Sciences,Bachelor of Business Administration,16,Promoted,3.43,3.56,
+STU00147,12,Management Sciences,Bachelor of Business Administration,17,Promoted,3.43,3.66,
+STU00148,12,Management Sciences,Bachelor of Business Administration,18,Promoted,2.91,3.26,
+STU00149,12,Management Sciences,Bachelor of Business Administration,19,Promoted,2.51,2.94,GE-205
+STU00150,12,Management Sciences,Bachelor of Business Administration,20,Promoted,3.38,3.42,
+STU00151,12,Management Sciences,Bachelor of Business Administration,21,Promoted,3.72,3.79,
+STU00152,12,Management Sciences,Bachelor of Business Administration,22,Promoted,3.81,3.88,
+STU00153,12,Management Sciences,Bachelor of Business Administration,23,Promoted,3.74,3.87,
+STU00154,12,Management Sciences,Bachelor of Business Administration,24,Promoted,3.07,3.33,
+STU00155,12,Management Sciences,Bachelor of Business Administration,25,Promoted,2.92,2.97,
+STU00156,12,Management Sciences,Bachelor of Business Administration,26,Promoted,3.51,3.68,
+STU00157,12,Management Sciences,Bachelor of Business Administration,27,Promoted,3.64,3.79,
+STU00158,12,Management Sciences,Bachelor of Business Administration,28,Promoted,3.15,3.25,
+STU00159,12,Management Sciences,Bachelor of Business Administration,29,Promoted,3.62,3.69,
+STU00160,12,Management Sciences,Bachelor of Business Administration,30,Promoted,3.77,3.72,
+STU00161,12,Management Sciences,Bachelor of Business Administration,31,Promoted,3.36,3.34,
+STU00162,12,Management Sciences,Bachelor of Business Administration,32,Promoted,3.67,3.74,
+STU00163,12,Management Sciences,Bachelor of Business Administration,33,Promoted,3.11,3.39,
+STU00164,12,Management Sciences,Bachelor of Business Administration,34,Promoted,3.29,3.19,
+STU00165,12,Management Sciences,Bachelor of Business Administration,35,Promoted,2.76,2.91,MGT-328
+STU00166,12,Management Sciences,Bachelor of Business Administration,36,Promoted,2.99,3.16,
+STU00167,12,Management Sciences,Bachelor of Business Administration,37,Promoted,3.65,3.71,
+STU00168,12,Management Sciences,Bachelor of Business Administration,38,Promoted,3.84,3.73,
+STU00169,12,Management Sciences,Bachelor of Business Administration,39,Promoted,3.01,3.12,
+STU00170,12,Management Sciences,Bachelor of Business Administration,40,Promoted,3.49,3.65,
+STU00171,12,Management Sciences,Bachelor of Business Administration,41,Promoted,3.76,3.56,
+STU00172,12,Management Sciences,Bachelor of Business Administration,42,Promoted,3.28,3.31,
+STU00173,12,Management Sciences,Bachelor of Business Administration,43,Promoted,3.36,3.47,
+STU00174,12,Management Sciences,Bachelor of Business Administration,44,Promoted,3.82,3.62,
+STU00175,12,Management Sciences,Bachelor of Business Administration,45,Promoted,3.79,3.7,
+STU00176,12,Management Sciences,Bachelor of Business Administration,46,Promoted,3.78,3.68,
+STU00177,12,Management Sciences,Bachelor of Business Administration,47,Promoted,3.36,3.53,
+STU00178,12,Management Sciences,Bachelor of Business Administration,48,Promoted,3.24,3.33,
+STU00179,13,Management Sciences,Bachelor of Business Administration,49,Promoted,3.11,3.18,
+STU00180,13,Management Sciences,Bachelor of Business Administration,50,Promoted,2.41,2.49,
+STU00181,13,Management Sciences,Bachelor of Business Administration,51,Promoted,1.49,2.06,"GE-202, GE-205, MGT-328"
+STU00182,13,Management Sciences,Bachelor of Business Administration,52,Promoted,2.64,2.71,
+STU00183,13,Management Sciences,Bachelor of Business Administration,53,Promoted,3.31,3.07,
+STU00184,13,Management Sciences,Bachelor of Business Administration,54,Promoted,3.58,3.26,
+STU00185,13,Management Sciences,Bachelor of Business Administration,55,Promoted,3.09,3.3,
+STU00186,13,Management Sciences,Bachelor of Business Administration,56,Promoted,2.53,2.85,
+STU00187,13,Management Sciences,Bachelor of Business Administration,57,Promoted,2.43,2.73,
+STU00188,13,Management Sciences,Bachelor of Business Administration,58,Promoted,2.48,2.34,
+STU00189,13,Management Sciences,Bachelor of Business Administration,59,Promoted,2.26,2.1,GE-205
+STU00190,13,Management Sciences,Bachelor of Business Administration,60,Promoted,2.54,2.49,GE-205
+STU00191,13,Management Sciences,Bachelor of Business Administration,61,Promoted,2.2,2.39,GE-205
+STU00192,13,Management Sciences,Bachelor of Business Administration,62,Promoted,2.76,2.64,
+STU00193,14,Management Sciences,Bachelor of Business Administration,1,Promoted,3.57,2.99,
+STU00194,14,Management Sciences,Bachelor of Business Administration,2,Promoted,1.4,2.52,"HRM-438, MGT-406, MGT-420"
+STU00195,14,Management Sciences,Bachelor of Business Administration,3,Promoted,2.93,2.56,
+STU00196,14,Management Sciences,Bachelor of Business Administration,4,Promoted,3.18,2.68,
+STU00197,14,Management Sciences,Bachelor of Business Administration,5,Promoted,2.6,2.49,MGT-406
+STU00198,14,Management Sciences,Bachelor of Business Administration,6,Promoted,3.28,2.71,
+STU00199,14,Management Sciences,Bachelor of Business Administration,7,Promoted,3.76,3.32,
+STU00200,14,Management Sciences,Bachelor of Business Administration,8,Promoted,3.41,3.08,
+STU00201,14,Management Sciences,Bachelor of Business Administration,9,Promoted,3.23,2.7,
+STU00202,14,Management Sciences,Bachelor of Business Administration,10,Promoted,2.78,2.79,
+STU00203,14,Management Sciences,Bachelor of Business Administration,11,Promoted,2.88,2.68,
+STU00204,14,Management Sciences,Bachelor of Business Administration,12,Promoted,2.83,2.28,
+STU00205,14,Management Sciences,Bachelor of Business Administration,13,Promoted,3.02,2.71,
+STU00206,14,Management Sciences,Bachelor of Business Administration,14,Promoted,3.64,3.4,
+STU00207,14,Management Sciences,Bachelor of Business Administration,15,Promoted,2.61,2.13,
+STU00208,14,Management Sciences,Bachelor of Business Administration,16,Promoted,2.94,2.38,
+STU00209,14,Management Sciences,Bachelor of Business Administration,17,Promoted,2.97,2.81,
+STU00210,14,Management Sciences,Bachelor of Business Administration,18,Promoted,2.72,2.67,MGT-406
+STU00211,14,Management Sciences,Bachelor of Business Administration,19,Promoted,3.08,2.61,
+STU00212,14,Management Sciences,Bachelor of Business Administration,20,Promoted,3.52,3.08,
+STU00213,14,Management Sciences,Bachelor of Business Administration,21,Promoted,2.2,1.75,MGT-420
+STU00214,14,Management Sciences,Bachelor of Business Administration,22,Promoted,2.86,2.53,
+STU00215,14,Management Sciences,Bachelor of Business Administration,23,Promoted,2.77,2.22,
+STU00216,14,Management Sciences,Bachelor of Business Administration,24,Promoted,3.44,2.63,
+STU00217,14,Management Sciences,Bachelor of Business Administration,25,Promoted,2.84,1.95,
+STU00218,14,Management Sciences,Bachelor of Business Administration,26,Promoted,2.56,2.27,
+STU00219,14,Management Sciences,Bachelor of Business Administration,27,Promoted,3.57,3.23,
+STU00220,14,Management Sciences,Bachelor of Business Administration,28,Promoted,3.2,2.24,
+STU00221,14,Management Sciences,Bachelor of Business Administration,29,Promoted,2.81,2.43,
+STU00222,15,Management Sciences,Bachelor of Business Administration,1,Promoted,2.5,1.98,MGT-406
+STU00223,15,Management Sciences,Bachelor of Business Administration,2,Promoted,2.97,2.28,
+STU00224,15,Management Sciences,Bachelor of Business Administration,3,Promoted,2.59,2.25,MKT-432
+STU00225,15,Management Sciences,Bachelor of Business Administration,4,Promoted,2.96,2.56,
+STU00226,15,Management Sciences,Bachelor of Business Administration,5,Promoted,2.21,2.33,MGT-406
+STU00227,16,Management Sciences,Bachelor of Business Administration,1,Promoted,3.76,2.95,
+STU00228,16,Management Sciences,Bachelor of Business Administration,2,Promoted,3.78,3.42,
+STU00229,16,Management Sciences,Bachelor of Business Administration,3,Promoted,3.2,2.21,
+STU00230,16,Management Sciences,Bachelor of Business Administration,4,Promoted,3.63,2.89,
+STU00231,16,Management Sciences,Bachelor of Business Administration,5,Promoted,3.68,2.93,
+STU00232,16,Management Sciences,Bachelor of Business Administration,6,Promoted,3.38,2.73,
+STU00233,16,Management Sciences,Bachelor of Business Administration,7,Promoted,3.55,3.38,
+STU00234,16,Management Sciences,Bachelor of Business Administration,8,Promoted,3.78,3.01,
+STU00235,16,Management Sciences,Bachelor of Business Administration,9,Promoted,3.45,3.05,
+STU00236,16,Management Sciences,Bachelor of Business Administration,10,Promoted,3.53,2.78,
+STU00237,16,Management Sciences,Bachelor of Business Administration,11,Promoted,3.07,2.18,
+STU00238,16,Management Sciences,Bachelor of Business Administration,12,Promoted,3.58,2.49,
+STU00239,16,Management Sciences,Bachelor of Business Administration,13,Promoted,3.3,2.53,
+STU00240,16,Management Sciences,Bachelor of Business Administration,14,Promoted,3.63,3.28,
+STU00241,16,Management Sciences,Bachelor of Business Administration,15,Promoted,3.26,2.44,
+STU00242,16,Management Sciences,Bachelor of Business Administration,16,Promoted,3.55,3.08,
+STU00243,16,Management Sciences,Bachelor of Business Administration,17,Promoted,3.24,2.57,
+STU00244,16,Management Sciences,Bachelor of Business Administration,18,Promoted,3.75,3.36,
+STU00245,16,Management Sciences,Bachelor of Business Administration,19,Promoted,3.7,3.33,
+STU00246,16,Management Sciences,Bachelor of Business Administration,20,Promoted,2.44,2.51,
+STU00247,16,Management Sciences,Bachelor of Business Administration,21,Promoted,2.68,2.29,MGT-426
+STU00248,16,Management Sciences,Bachelor of Business Administration,22,Promoted,3.1,2.81,
+STU00249,16,Management Sciences,Bachelor of Business Administration,23,Promoted,3.25,3.19,
+STU00250,17,Management Sciences,Bachelor of Business Administration,1,Promoted,3.3,2.3,
+STU00251,17,Management Sciences,Bachelor of Business Administration,2,Promoted,2.6,2.09,
+STU00252,17,Management Sciences,Bachelor of Business Administration,3,Promoted,1.83,2.24,MGT-222
+STU00253,17,Management Sciences,Bachelor of Business Administration,4,Promoted,2.84,2.62,
+STU00254,17,Management Sciences,Bachelor of Business Administration,5,Promoted,3.18,1.97,
+STU00255,17,Management Sciences,Bachelor of Business Administration,6,Promoted,3.5,2.59,
+STU00256,17,Management Sciences,Bachelor of Business Administration,7,Promoted,2.64,1.89,
+STU00257,17,Management Sciences,Bachelor of Business Administration,8,Promoted,2.54,1.91,
+STU00258,18,Management Sciences,Bachelor of Business Administration,1,Promoted,3.42,3.0,
+STU00259,18,Management Sciences,Bachelor of Business Administration,2,Promoted,3.28,2.65,
+STU00260,18,Management Sciences,Bachelor of Business Administration,3,Promoted,2.95,2.58,
+STU00261,18,Management Sciences,Bachelor of Business Administration,4,Promoted,3.61,3.11,
+STU00262,18,Management Sciences,Bachelor of Business Administration,5,Promoted,3.51,3.12,
+STU00263,18,Management Sciences,Bachelor of Business Administration,6,Promoted,3.27,3.19,
+STU00264,18,Management Sciences,Bachelor of Business Administration,7,Promoted,3.5,3.2,
+STU00265,18,Management Sciences,Bachelor of Business Administration,8,Promoted,3.57,3.57,
+STU00266,18,Management Sciences,Bachelor of Business Administration,9,Promoted,3.53,3.05,
+STU00267,18,Management Sciences,Bachelor of Business Administration,10,Promoted,3.23,3.15,
+STU00268,18,Management Sciences,Bachelor of Business Administration,11,Promoted,3.19,2.95,
+STU00269,18,Management Sciences,Bachelor of Business Administration,12,Promoted,3.36,3.13,
+STU00270,18,Management Sciences,Bachelor of Business Administration,13,Promoted,3.38,3.2,
+STU00271,18,Management Sciences,Bachelor of Business Administration,14,Promoted,3.39,2.85,
+STU00272,18,Management Sciences,Bachelor of Business Administration,15,Promoted,3.44,2.61,
+STU00273,18,Management Sciences,Bachelor of Business Administration,16,Promoted,3.56,3.1,
+STU00274,18,Management Sciences,Bachelor of Business Administration,17,Promoted,3.14,2.76,
+STU00275,18,Management Sciences,Bachelor of Business Administration,18,Promoted,3.21,2.84,
+STU00276,18,Management Sciences,Bachelor of Business Administration,19,Promoted,3.61,3.48,
+STU00277,18,Management Sciences,Bachelor of Business Administration,20,Promoted,3.34,3.16,
+STU00278,18,Management Sciences,Bachelor of Business Administration,21,Promoted,3.72,2.95,
+STU00279,18,Management Sciences,Bachelor of Business Administration,22,Promoted,2.94,2.46,MGT-312
+STU00280,18,Management Sciences,Bachelor of Business Administration,23,Promoted,3.72,3.27,
+STU00281,18,Management Sciences,Bachelor of Business Administration,24,Promoted,3.48,3.48,
+STU00282,18,Management Sciences,Bachelor of Business Administration,25,Promoted,3.17,3.15,
+STU00283,18,Management Sciences,Bachelor of Business Administration,26,Promoted,3.51,3.26,
+STU00284,18,Management Sciences,Bachelor of Business Administration,27,Promoted,3.62,2.85,
+STU00285,18,Management Sciences,Bachelor of Business Administration,28,Promoted,3.66,3.29,
+STU00286,18,Management Sciences,Bachelor of Business Administration,29,Promoted,3.21,3.01,
+STU00287,18,Management Sciences,Bachelor of Business Administration,30,Promoted,3.41,3.09,
+STU00288,18,Management Sciences,Bachelor of Business Administration,31,Promoted,3.07,3.12,
+STU00289,18,Management Sciences,Bachelor of Business Administration,32,Promoted,3.25,2.62,
+STU00290,18,Management Sciences,Bachelor of Business Administration,33,Promoted,3.48,3.05,
+STU00291,18,Management Sciences,Bachelor of Business Administration,34,Promoted,2.92,2.29,
+STU00292,18,Management Sciences,Bachelor of Business Administration,35,Promoted,3.75,3.61,
+STU00293,18,Management Sciences,Bachelor of Business Administration,36,Promoted,3.82,3.32,
+STU00294,18,Management Sciences,Bachelor of Business Administration,37,Promoted,3.07,2.34,GE-106
+STU00295,19,Management Sciences,Bachelor of Business Admistration (Evening),1,Promoted,2.6,2.38,
+STU00296,19,Management Sciences,Bachelor of Business Admistration (Evening),2,Promoted,3.15,2.97,
+STU00297,19,Management Sciences,Bachelor of Business Admistration (Evening),3,Promoted,3.47,3.44,
+STU00298,19,Management Sciences,Bachelor of Business Admistration (Evening),4,Promoted,2.96,3.09,
+STU00299,19,Management Sciences,Bachelor of Business Admistration (Evening),5,Promoted,3.04,2.82,
+STU00300,19,Management Sciences,Bachelor of Business Admistration (Evening),6,Promoted,2.64,2.12,GE-202
+STU00301,19,Management Sciences,Bachelor of Business Admistration (Evening),7,Promoted,3.25,3.08,
+STU00302,19,Management Sciences,Bachelor of Business Admistration (Evening),8,Promoted,2.92,2.4,GE-202
+STU00303,19,Management Sciences,Bachelor of Business Admistration (Evening),9,Promoted,2.78,2.53,GE-202
+STU00304,19,Management Sciences,Bachelor of Business Admistration (Evening),10,Promoted,3.68,3.46,
+STU00305,19,Management Sciences,Bachelor of Business Admistration (Evening),11,Promoted,2.51,2.31,
+STU00306,19,Management Sciences,Bachelor of Business Admistration (Evening),12,Promoted,3.34,3.06,
+STU00307,19,Management Sciences,Bachelor of Business Admistration (Evening),13,Promoted,2.66,2.44,
+STU00308,19,Management Sciences,Bachelor of Business Admistration (Evening),14,Promoted,2.96,2.99,
+STU00309,19,Management Sciences,Bachelor of Business Admistration (Evening),15,Promoted,2.71,2.54,
+STU00310,19,Management Sciences,Bachelor of Business Admistration (Evening),16,Promoted,2.12,2.19,GE-202
+STU00311,19,Management Sciences,Bachelor of Business Admistration (Evening),17,Promoted,2.74,2.86,
+STU00312,19,Management Sciences,Bachelor of Business Admistration (Evening),18,Promoted,3.72,3.5,
+STU00313,19,Management Sciences,Bachelor of Business Admistration (Evening),19,Promoted,2.76,2.94,GE-202
+STU00314,19,Management Sciences,Bachelor of Business Admistration (Evening),20,Promoted,1.88,1.89,"GE-202, MGT-327"
+STU00315,19,Management Sciences,Bachelor of Business Admistration (Evening),21,Promoted,2.02,2.1,
+STU00316,19,Management Sciences,Bachelor of Business Admistration (Evening),22,Promoted,2.92,3.15,
+STU00317,19,Management Sciences,Bachelor of Business Admistration (Evening),23,Promoted,2.29,2.6,GE-202
+STU00318,19,Management Sciences,Bachelor of Business Admistration (Evening),24,Promoted,2.3,2.54,GE-202
+STU00319,19,Management Sciences,Bachelor of Business Admistration (Evening),25,Promoted,3.16,3.06,
+STU00320,19,Management Sciences,Bachelor of Business Admistration (Evening),26,Promoted,2.84,3.01,
+STU00321,19,Management Sciences,Bachelor of Business Admistration (Evening),27,Promoted,2.9,2.93,
+STU00322,19,Management Sciences,Bachelor of Business Admistration (Evening),28,Promoted,3.2,3.19,
+STU00323,19,Management Sciences,Bachelor of Business Admistration (Evening),29,Promoted,3.1,3.13,
+STU00324,19,Management Sciences,Bachelor of Business Admistration (Evening),30,Promoted,2.86,2.54,
+STU00325,19,Management Sciences,Bachelor of Business Admistration (Evening),31,Promoted,2.64,2.81,
+STU00326,19,Management Sciences,Bachelor of Business Admistration (Evening),32,Promoted,2.46,2.33,
+STU00327,19,Management Sciences,Bachelor of Business Admistration (Evening),33,Promoted,2.59,2.72,
+STU00328,19,Management Sciences,Bachelor of Business Admistration (Evening),34,Promoted,2.74,2.74,
+STU00329,19,Management Sciences,Bachelor of Business Admistration (Evening),35,Promoted,2.43,2.52,GE-202
+STU00330,19,Management Sciences,Bachelor of Business Admistration (Evening),36,Promoted,2.39,2.5,
+STU00331,19,Management Sciences,Bachelor of Business Admistration (Evening),37,Promoted,2.61,2.43,
+STU00332,19,Management Sciences,Bachelor of Business Admistration (Evening),38,Promoted,3.01,2.86,
+STU00333,19,Management Sciences,Bachelor of Business Admistration (Evening),39,Promoted,3.13,3.15,
+STU00334,19,Management Sciences,Bachelor of Business Admistration (Evening),40,Promoted,2.55,2.04,GE-202
+STU00335,19,Management Sciences,Bachelor of Business Admistration (Evening),41,Promoted,3.4,2.88,
+STU00336,19,Management Sciences,Bachelor of Business Admistration (Evening),42,Promoted,3.38,3.32,
+STU00337,19,Management Sciences,Bachelor of Business Admistration (Evening),43,Promoted,2.56,2.37,
+STU00338,19,Management Sciences,Bachelor of Business Admistration (Evening),44,Promoted,2.47,2.76,GE-202
+STU00339,19,Management Sciences,Bachelor of Business Admistration (Evening),45,Promoted,3.72,3.5,
+STU00340,19,Management Sciences,Bachelor of Business Admistration (Evening),46,Promoted,3.05,2.79,
+STU00341,19,Management Sciences,Bachelor of Business Admistration (Evening),47,Promoted,2.64,2.43,
+STU00342,20,Management Sciences,Bachelor of Business Admistration (Evening),48,Promoted,3.05,2.96,
+STU00343,20,Management Sciences,Bachelor of Business Admistration (Evening),49,Promoted,2.73,2.59,
+STU00344,21,Management Sciences,Bachelor of Business Admistration (Evening),1,Promoted,1.59,1.59,MGT-327
+STU00345,21,Management Sciences,Bachelor of Business Admistration (Evening),2,Dropped,1.0,1.0,"MGT-327, MGT-328"
+STU00346,21,Management Sciences,Bachelor of Business Admistration (Evening),3,Dropped,0.36,0.36,"GE-202, MGT-327, MGT-328, MGT- 329"
+STU00347,22,Information Technology,Associate Degree in Information Technology,1,Promoted,3.31,3.08,
+STU00348,22,Information Technology,Associate Degree in Information Technology,2,Promoted,3.94,3.72,
+STU00349,22,Information Technology,Associate Degree in Information Technology,3,Promoted,3.59,3.39,
+STU00350,22,Information Technology,Associate Degree in Information Technology,4,Promoted,3.29,3.13,
+STU00351,22,Information Technology,Associate Degree in Information Technology,5,Promoted,3.2,3.09,
+STU00352,22,Information Technology,Associate Degree in Information Technology,6,Promoted,3.02,3.01,IT-106
+STU00353,22,Information Technology,Associate Degree in Information Technology,7,Promoted,3.49,3.34,
+STU00354,22,Information Technology,Associate Degree in Information Technology,8,Promoted,3.16,2.82,
+STU00355,22,Information Technology,Associate Degree in Information Technology,9,Promoted,2.98,2.78,IT-106
+STU00356,22,Information Technology,Associate Degree in Information Technology,10,Promoted,3.04,2.67,MATH-128
+STU00357,22,Information Technology,Associate Degree in Information Technology,11,Promoted,2.54,2.26,IT-106
+STU00358,22,Information Technology,Associate Degree in Information Technology,12,Promoted,2.31,2.41,"IT-106, IT-244"
+STU00359,22,Information Technology,Associate Degree in Information Technology,13,Promoted,3.69,3.53,
+STU00360,22,Information Technology,Associate Degree in Information Technology,14,Promoted,1.81,1.91,"IT-106, IT-121"
+STU00361,22,Information Technology,Associate Degree in Information Technology,15,Promoted,3.37,3.06,
+STU00362,22,Information Technology,Associate Degree in Information Technology,16,Dropped,1.17,1.45,"IT-106, IT-121, IT-221"
+STU00363,22,Information Technology,Associate Degree in Information Technology,17,Promoted,2.39,2.21,IT-106
+STU00364,22,Information Technology,Associate Degree in Information Technology,18,Promoted,3.18,3.02,
+STU00365,22,Information Technology,Associate Degree in Information Technology,19,Promoted,2.13,2.37,IT-106
+STU00366,22,Information Technology,Associate Degree in Information Technology,20,Promoted,3.19,2.72,
+STU00367,22,Information Technology,Associate Degree in Information Technology,21,Promoted,2.84,2.7,IT-106
+STU00368,22,Information Technology,Associate Degree in Information Technology,22,Promoted,2.59,2.54,IT-106
+STU00369,22,Information Technology,Associate Degree in Information Technology,23,Promoted,3.36,2.96,
+STU00370,22,Information Technology,Associate Degree in Information Technology,24,Promoted,3.76,3.37,
+STU00371,22,Information Technology,Associate Degree in Information Technology,25,Promoted,3.08,2.4,
+STU00372,22,Information Technology,Associate Degree in Information Technology,26,Promoted,2.67,2.3,
+STU00373,22,Information Technology,Associate Degree in Information Technology,27,Promoted,3.0,2.31,
+STU00374,22,Information Technology,Associate Degree in Information Technology,28,Promoted,3.08,2.51,
+STU00375,22,Information Technology,Associate Degree in Information Technology,29,Promoted,3.52,2.64,
+STU00376,22,Information Technology,Associate Degree in Information Technology,30,Promoted,2.99,2.31,
+STU00377,22,Information Technology,Associate Degree in Information Technology,31,Promoted,3.45,2.86,
+STU00378,22,Information Technology,Associate Degree in Information Technology,32,Promoted,3.3,2.85,
+STU00379,22,Information Technology,Associate Degree in Information Technology,33,Promoted,3.29,2.55,
+STU00380,22,Information Technology,Associate Degree in Information Technology,34,Promoted,2.96,2.24,
+STU00381,22,Information Technology,Associate Degree in Information Technology,35,Promoted,2.73,2.41,
+STU00382,22,Information Technology,Associate Degree in Information Technology,36,Promoted,2.9,2.51,
+STU00383,22,Information Technology,Associate Degree in Information Technology,37,Promoted,2.54,2.18,IT-121
+STU00384,22,Information Technology,Associate Degree in Information Technology,38,Promoted,2.97,2.38,
+STU00385,22,Information Technology,Associate Degree in Information Technology,39,Promoted,2.82,2.22,
+STU00386,22,Information Technology,Associate Degree in Information Technology,40,Promoted,3.43,3.27,
+STU00387,22,Information Technology,Associate Degree in Information Technology,41,Promoted,2.79,2.66,
+STU00388,22,Information Technology,Associate Degree in Information Technology,42,Promoted,3.29,2.99,
+STU00389,23,Information Technology,BS in Information Technology,1,Promoted,3.0,2.7,
+STU00390,24,Information Technology,BS in Information Technology,1,Promoted,3.59,2.77,
+STU00391,25,Information Technology,BS in Information Technology,1,Promoted,4.0,2.64,
+STU00392,25,Information Technology,BS in Information Technology,2,Promoted,3.7,2.64,
+STU00393,25,Information Technology,BS in Information Technology,3,Promoted,4.0,2.64,
+STU00394,26,Information Technology,BS in Information Technology,1,Promoted,1.15,2.05,"IT-372, IT-406"
+STU00395,27,Information Technology,BS in Information Technology,1,Promoted,2.2,3.22,IT-406
+STU00396,27,Information Technology,BS in Information Technology,2,Promoted,2.09,2.92,IT-406
+STU00397,27,Information Technology,BS in Information Technology,3,Promoted,2.22,2.88,IT-406
+STU00398,27,Information Technology,BS in Information Technology,4,Promoted,2.6,2.75,IT-406
+STU00399,27,Information Technology,BS in Information Technology,5,Promoted,2.34,3.48,IT-406
+STU00400,27,Information Technology,BS in Information Technology,6,Promoted,2.5,2.75,IT-406
+STU00401,27,Information Technology,BS in Information Technology,7,Promoted,2.1,3.32,IT-406
+STU00402,27,Information Technology,BS in Information Technology,8,Promoted,2.34,3.24,IT-406
+STU00403,27,Information Technology,BS in Information Technology,9,Promoted,2.34,3.51,IT-406
+STU00404,27,Information Technology,BS in Information Technology,10,Promoted,2.02,3.08,IT-406
+STU00405,27,Information Technology,BS in Information Technology,11,Promoted,1.82,2.74,IT-406
+STU00406,27,Information Technology,BS in Information Technology,12,Promoted,2.34,2.42,IT-406
+STU00407,27,Information Technology,BS in Information Technology,13,Promoted,1.86,2.97,IT-406
+STU00408,27,Information Technology,BS in Information Technology,14,Promoted,2.13,2.55,IT-406
+STU00409,27,Information Technology,BS in Information Technology,15,Promoted,2.36,2.66,IT-406
+STU00410,27,Information Technology,BS in Information Technology,16,Promoted,2.11,3.03,IT-406
+STU00411,27,Information Technology,BS in Information Technology,17,Promoted,2.24,2.92,IT-406
+STU00412,27,Information Technology,BS in Information Technology,18,Promoted,1.95,2.86,IT-406
+STU00413,27,Information Technology,BS in Information Technology,19,Promoted,2.23,3.05,IT-406
+STU00414,27,Information Technology,BS in Information Technology,20,Promoted,2.11,2.15,IT-406
+STU00415,27,Information Technology,BS in Information Technology,21,Promoted,2.43,2.73,IT-406
+STU00416,27,Information Technology,BS in Information Technology,22,Promoted,2.13,2.99,IT-406
+STU00417,27,Information Technology,BS in Information Technology,23,Promoted,1.99,2.71,IT-406
+STU00418,27,Information Technology,BS in Information Technology,24,Promoted,2.09,2.67,IT-406
+STU00419,27,Information Technology,BS in Information Technology,25,Promoted,2.04,3.05,IT-406
+STU00420,27,Information Technology,BS in Information Technology,26,Promoted,2.4,3.51,IT-406
+STU00421,27,Information Technology,BS in Information Technology,27,Promoted,2.26,2.87,IT-406
+STU00422,27,Information Technology,BS in Information Technology,28,Promoted,2.4,2.23,IT-406
+STU00423,27,Information Technology,BS in Information Technology,29,Promoted,2.42,3.03,IT-406
+STU00424,27,Information Technology,BS in Information Technology,30,Promoted,2.08,3.34,IT-406
+STU00425,27,Information Technology,BS in Information Technology,31,Promoted,2.28,3.31,IT-406
+STU00426,27,Information Technology,BS in Information Technology,32,Promoted,2.23,2.69,IT-406
+STU00427,27,Information Technology,BS in Information Technology,33,Promoted,2.2,3.17,IT-406
+STU00428,27,Information Technology,BS in Information Technology,34,Promoted,2.07,2.58,IT-406
+STU00429,27,Information Technology,BS in Information Technology,35,Promoted,1.99,2.63,IT-406
+STU00430,27,Information Technology,BS in Information Technology,36,Promoted,1.34,2.49,"IT-406, MGT-306, SS-301"
+STU00431,27,Information Technology,BS in Information Technology,37,Promoted,2.31,2.87,IT-406
+STU00432,27,Information Technology,BS in Information Technology,38,Promoted,2.34,3.12,IT-406
+STU00433,27,Information Technology,BS in Information Technology,39,Promoted,2.28,3.28,IT-406
+STU00434,27,Information Technology,BS in Information Technology,40,Promoted,1.72,2.92,IT-406
+STU00435,27,Information Technology,BS in Information Technology,41,Promoted,2.31,3.23,IT-406
+STU00436,28,Information Technology,BS in Information Technology,1,Promoted,1.92,2.22,"IT-406, MGT-306"
+STU00437,28,Information Technology,BS in Information Technology,2,Promoted,2.12,2.92,IT-406
+STU00438,28,Information Technology,BS in Information Technology,3,Promoted,1.76,2.46,IT-406
+STU00439,28,Information Technology,BS in Information Technology,4,Promoted,2.4,3.16,IT-406
+STU00440,28,Information Technology,BS in Information Technology,5,Promoted,2.42,2.9,IT-406
+STU00441,28,Information Technology,BS in Information Technology,6,Promoted,1.54,2.37,IT-406
+STU00442,28,Information Technology,BS in Information Technology,7,Promoted,1.94,3.0,IT-406
+STU00443,28,Information Technology,BS in Information Technology,8,Promoted,2.31,2.98,IT-406
+STU00444,28,Information Technology,BS in Information Technology,9,Promoted,1.94,3.08,IT-406
+STU00445,28,Information Technology,BS in Information Technology,10,Promoted,2.16,3.36,IT-406
+STU00446,28,Information Technology,BS in Information Technology,11,Promoted,2.34,2.7,IT-406
+STU00447,28,Information Technology,BS in Information Technology,12,Promoted,2.34,3.4,IT-406
+STU00448,28,Information Technology,BS in Information Technology,13,Promoted,1.97,2.55,IT-406
+STU00449,28,Information Technology,BS in Information Technology,14,Promoted,2.26,2.92,IT-406
+STU00450,28,Information Technology,BS in Information Technology,15,Promoted,1.59,2.44,"IT-106, IT-406"
+STU00451,28,Information Technology,BS in Information Technology,16,Promoted,1.83,2.31,"IT-406, MGT-205"
+STU00452,28,Information Technology,BS in Information Technology,17,Promoted,1.86,2.75,IT-406
+STU00453,28,Information Technology,BS in Information Technology,18,Promoted,2.28,2.94,IT-406
+STU00454,28,Information Technology,BS in Information Technology,19,Promoted,1.92,2.95,IT-406
+STU00455,28,Information Technology,BS in Information Technology,20,Promoted,2.08,2.83,IT-406
+STU00456,28,Information Technology,BS in Information Technology,21,Promoted,2.2,2.43,IT-406
+STU00457,28,Information Technology,BS in Information Technology,22,Promoted,2.29,2.5,IT-406
+STU00458,28,Information Technology,BS in Information Technology,23,Promoted,1.92,3.11,IT-406
+STU00459,28,Information Technology,BS in Information Technology,24,Promoted,2.44,3.14,IT-406
+STU00460,28,Information Technology,BS in Information Technology,25,Promoted,2.22,2.76,IT-406
+STU00461,28,Information Technology,BS in Information Technology,26,Promoted,2.0,3.0,IT-406
+STU00462,28,Information Technology,BS in Information Technology,27,Promoted,2.08,3.41,IT-406
+STU00463,28,Information Technology,BS in Information Technology,28,Promoted,2.29,2.44,IT-406
+STU00464,28,Information Technology,BS in Information Technology,29,Promoted,1.49,1.95,"IT-106, IT-406"
+STU00465,28,Information Technology,BS in Information Technology,30,Promoted,2.03,2.91,IT-406
+STU00466,28,Information Technology,BS in Information Technology,31,Promoted,2.54,2.75,IT-406
+STU00467,28,Information Technology,BS in Information Technology,32,Promoted,2.34,2.86,IT-406
+STU00468,28,Information Technology,BS in Information Technology,33,Promoted,1.77,2.1,IT-406
+STU00469,28,Information Technology,BS in Information Technology,34,Promoted,2.15,3.19,IT-406
+STU00470,28,Information Technology,BS in Information Technology,35,Promoted,2.08,2.61,IT-406
+STU00471,28,Information Technology,BS in Information Technology,36,Promoted,1.97,2.23,IT-406
+STU00472,28,Information Technology,BS in Information Technology,37,Promoted,1.6,1.87,"IT-106, IT-406"
+STU00473,28,Information Technology,BS in Information Technology,38,Promoted,2.33,2.62,IT-406
+STU00474,29,Information Technology,BS in Information Technology,1,Promoted,2.37,2.16,IT-446
+STU00475,29,Information Technology,BS in Information Technology,2,Promoted,3.42,3.21,
+STU00476,29,Information Technology,BS in Information Technology,3,Promoted,3.07,2.73,
+STU00477,29,Information Technology,BS in Information Technology,4,Promoted,3.14,2.67,
+STU00478,29,Information Technology,BS in Information Technology,5,Promoted,3.17,2.66,
+STU00479,29,Information Technology,BS in Information Technology,6,Promoted,3.29,2.77,
+STU00480,29,Information Technology,BS in Information Technology,7,Promoted,3.33,2.9,
+STU00481,29,Information Technology,BS in Information Technology,8,Promoted,3.6,3.31,
+STU00482,29,Information Technology,BS in Information Technology,9,Promoted,3.03,2.94,
+STU00483,29,Information Technology,BS in Information Technology,10,Promoted,3.65,3.43,
+STU00484,29,Information Technology,BS in Information Technology,11,Promoted,2.97,2.94,
+STU00485,29,Information Technology,BS in Information Technology,12,Promoted,3.37,3.03,
+STU00486,29,Information Technology,BS in Information Technology,13,Promoted,3.01,2.48,
+STU00487,29,Information Technology,BS in Information Technology,14,Promoted,3.21,2.5,
+STU00488,29,Information Technology,BS in Information Technology,15,Promoted,3.26,2.66,
+STU00489,29,Information Technology,BS in Information Technology,16,Promoted,3.51,3.43,
+STU00490,29,Information Technology,BS in Information Technology,17,Promoted,3.4,3.08,
+STU00491,29,Information Technology,BS in Information Technology,18,Promoted,3.31,2.74,
+STU00492,29,Information Technology,BS in Information Technology,19,Promoted,1.81,2.22,IT-446
+STU00493,29,Information Technology,BS in Information Technology,20,Promoted,2.73,2.57,IT-217
+STU00494,29,Information Technology,BS in Information Technology,21,Promoted,3.68,3.17,
+STU00495,29,Information Technology,BS in Information Technology,22,Promoted,3.4,3.09,
+STU00496,29,Information Technology,BS in Information Technology,23,Promoted,3.5,2.68,
+STU00497,29,Information Technology,BS in Information Technology,24,Promoted,3.19,2.34,
+STU00498,29,Information Technology,BS in Information Technology,25,Promoted,3.11,2.62,
+STU00499,29,Information Technology,BS in Information Technology,26,Promoted,3.73,3.0,
+STU00500,29,Information Technology,BS in Information Technology,27,Promoted,3.25,2.92,
+STU00501,29,Information Technology,BS in Information Technology,28,Promoted,3.38,2.79,
+STU00502,29,Information Technology,BS in Information Technology,29,Promoted,2.86,2.55,
+STU00503,29,Information Technology,BS in Information Technology,30,Promoted,3.4,2.69,
+STU00504,29,Information Technology,BS in Information Technology,31,Promoted,3.5,3.17,
+STU00505,29,Information Technology,BS in Information Technology,32,Promoted,3.43,2.75,
+STU00506,29,Information Technology,BS in Information Technology,33,Promoted,3.79,2.99,
+STU00507,29,Information Technology,BS in Information Technology,34,Promoted,2.3,2.12,IT-416
+STU00508,29,Information Technology,BS in Information Technology,35,Promoted,3.17,2.9,
+STU00509,29,Information Technology,BS in Information Technology,36,Promoted,3.75,3.18,
+STU00510,29,Information Technology,BS in Information Technology,37,Promoted,2.87,2.59,
+STU00511,30,Information Technology,BS in Information Technology,1,Promoted,3.85,3.38,
+STU00512,30,Information Technology,BS in Information Technology,2,Promoted,3.65,3.31,
+STU00513,30,Information Technology,BS in Information Technology,3,Promoted,3.39,2.99,MATH-128
+STU00514,30,Information Technology,BS in Information Technology,4,Promoted,3.65,3.57,
+STU00515,30,Information Technology,BS in Information Technology,5,Promoted,3.64,2.89,
+STU00516,30,Information Technology,BS in Information Technology,6,Promoted,3.6,3.44,
+STU00517,30,Information Technology,BS in Information Technology,7,Promoted,3.58,2.8,
+STU00518,30,Information Technology,BS in Information Technology,8,Promoted,3.83,3.37,
+STU00519,30,Information Technology,BS in Information Technology,9,Promoted,3.75,2.97,
+STU00520,30,Information Technology,BS in Information Technology,10,Promoted,3.85,3.47,
+STU00521,30,Information Technology,BS in Information Technology,11,Promoted,3.48,2.8,
+STU00522,30,Information Technology,BS in Information Technology,12,Promoted,3.58,3.0,
+STU00523,30,Information Technology,BS in Information Technology,13,Promoted,3.38,3.18,
+STU00524,30,Information Technology,BS in Information Technology,14,Promoted,2.66,2.33,
+STU00525,30,Information Technology,BS in Information Technology,15,Promoted,3.64,3.1,
+STU00526,30,Information Technology,BS in Information Technology,16,Promoted,3.85,3.35,
+STU00527,30,Information Technology,BS in Information Technology,17,Promoted,4.0,3.52,
+STU00528,30,Information Technology,BS in Information Technology,18,Promoted,3.12,2.6,
+STU00529,30,Information Technology,BS in Information Technology,19,Promoted,3.7,3.03,
+STU00530,30,Information Technology,BS in Information Technology,20,Promoted,3.8,3.59,
+STU00531,30,Information Technology,BS in Information Technology,21,Promoted,3.52,3.2,
+STU00532,30,Information Technology,BS in Information Technology,22,Promoted,3.85,3.51,
+STU00533,30,Information Technology,BS in Information Technology,23,Promoted,3.29,2.68,
+STU00534,30,Information Technology,BS in Information Technology,24,Promoted,3.73,3.55,MATH-128
+STU00535,30,Information Technology,BS in Information Technology,25,Promoted,3.21,3.06,
+STU00536,30,Information Technology,BS in Information Technology,26,Promoted,3.75,3.38,
+STU00537,30,Information Technology,BS in Information Technology,27,Promoted,3.54,3.2,
+STU00538,30,Information Technology,BS in Information Technology,28,Promoted,3.65,3.38,
+STU00539,31,Information Technology,BS in Information Technology,1,Promoted,3.88,3.57,
+STU00540,31,Information Technology,BS in Information Technology,2,Promoted,3.93,3.57,
+STU00541,31,Information Technology,BS in Information Technology,3,Promoted,3.83,3.27,
+STU00542,31,Information Technology,BS in Information Technology,4,Promoted,3.73,3.42,
+STU00543,31,Information Technology,BS in Information Technology,5,Promoted,3.83,3.57,
+STU00544,31,Information Technology,BS in Information Technology,6,Promoted,3.49,3.03,
+STU00545,31,Information Technology,BS in Information Technology,7,Promoted,3.75,3.06,
+STU00546,31,Information Technology,BS in Information Technology,8,Promoted,3.16,2.62,
+STU00547,31,Information Technology,BS in Information Technology,9,Promoted,3.59,3.17,
+STU00548,31,Information Technology,BS in Information Technology,10,Promoted,1.74,2.04,GE-101
+STU00549,31,Information Technology,BS in Information Technology,11,Promoted,3.5,2.98,
+STU00550,31,Information Technology,BS in Information Technology,12,Promoted,3.7,3.54,
+STU00551,31,Information Technology,BS in Information Technology,13,Promoted,3.93,3.54,
+STU00552,31,Information Technology,BS in Information Technology,14,Promoted,3.6,3.26,
+STU00553,31,Information Technology,BS in Information Technology,15,Promoted,3.92,3.64,
+STU00554,31,Information Technology,BS in Information Technology,16,Promoted,2.84,2.58,
+STU00555,31,Information Technology,BS in Information Technology,17,Promoted,3.32,3.02,
+STU00556,31,Information Technology,BS in Information Technology,18,Promoted,3.62,3.25,
+STU00557,31,Information Technology,BS in Information Technology,19,Promoted,3.12,2.44,
+STU00558,31,Information Technology,BS in Information Technology,20,Promoted,2.9,2.56,
+STU00559,31,Information Technology,BS in Information Technology,21,Promoted,3.61,3.2,
+STU00560,31,Information Technology,BS in Information Technology,22,Promoted,2.04,2.2,IT-252
+STU00561,31,Information Technology,BS in Information Technology,23,Promoted,2.06,1.91,IT-331
+STU00562,31,Information Technology,BS in Information Technology,24,Promoted,2.27,2.02,
+STU00563,31,Information Technology,BS in Information Technology,25,Promoted,2.51,2.14,
+STU00564,31,Information Technology,BS in Information Technology,26,Promoted,1.95,1.84,IT-106
+STU00565,31,Information Technology,BS in Information Technology,27,Promoted,3.57,3.14,
+STU00566,31,Information Technology,BS in Information Technology,28,Promoted,2.4,2.46,
+STU00567,31,Information Technology,BS in Information Technology,29,Promoted,3.88,3.52,
+STU00568,31,Information Technology,BS in Information Technology,30,Promoted,3.74,3.28,
+STU00569,31,Information Technology,BS in Information Technology,31,Promoted,2.64,2.63,
+STU00570,31,Information Technology,BS in Information Technology,32,Promoted,3.71,3.25,
+STU00571,31,Information Technology,BS in Information Technology,33,Promoted,3.69,3.48,
+STU00572,31,Information Technology,BS in Information Technology,34,Promoted,3.81,3.58,
+STU00573,31,Information Technology,BS in Information Technology,35,Promoted,2.27,2.28,
+STU00574,31,Information Technology,BS in Information Technology,36,Promoted,3.58,3.17,
+STU00575,31,Information Technology,BS in Information Technology,37,Promoted,3.44,2.96,
+STU00576,31,Information Technology,BS in Information Technology,38,Promoted,2.8,2.52,
+STU00577,31,Information Technology,BS in Information Technology,39,Promoted,3.06,2.74,
+STU00578,31,Information Technology,BS in Information Technology,40,Promoted,2.88,2.29,
+STU00579,31,Information Technology,BS in Information Technology,41,Promoted,2.52,2.59,IT-331
+STU00580,31,Information Technology,BS in Information Technology,42,Promoted,3.37,2.72,
+STU00581,31,Information Technology,BS in Information Technology,43,Promoted,3.55,2.69,
+STU00582,31,Information Technology,BS in Information Technology,44,Promoted,3.12,2.81,
+STU00583,31,Information Technology,BS in Information Technology,45,Promoted,3.71,3.25,
+STU00584,31,Information Technology,BS in Information Technology,46,Promoted,2.9,2.54,
+STU00585,31,Information Technology,BS in Information Technology,47,Promoted,2.38,2.0,
+STU00586,31,Information Technology,BS in Information Technology,48,Promoted,3.8,3.14,
+STU00587,32,Information Technology,BS in Information Technology,49,Promoted,2.87,2.78,
+STU00588,32,Information Technology,BS in Information Technology,50,Promoted,3.39,2.96,
+STU00589,32,Information Technology,BS in Information Technology,51,Promoted,3.48,2.96,
+STU00590,33,Information Technology,BS in Information Technology,1,Promoted,2.39,2.45,
+STU00591,33,Information Technology,BS in Information Technology,2,Promoted,2.28,2.33,GE-101
+STU00592,33,Information Technology,BS in Information Technology,3,Promoted,2.56,2.73,
+STU00593,33,Information Technology,BS in Information Technology,4,Promoted,1.89,2.22,GE-101
+STU00594,33,Information Technology,BS in Information Technology,5,Promoted,1.98,2.33,
+STU00595,33,Information Technology,BS in Information Technology,6,Promoted,2.91,2.78,
+STU00596,33,Information Technology,BS in Information Technology,7,Promoted,2.92,2.78,
+STU00597,33,Information Technology,BS in Information Technology,8,Promoted,2.93,2.86,
+STU00598,33,Information Technology,BS in Information Technology,9,Promoted,3.2,3.12,
+STU00599,33,Information Technology,BS in Information Technology,10,Promoted,3.83,3.52,
+STU00600,33,Information Technology,BS in Information Technology,11,Promoted,2.61,2.6,
+STU00601,33,Information Technology,BS in Information Technology,12,Promoted,3.23,2.62,
+STU00602,33,Information Technology,BS in Information Technology,13,Promoted,1.36,2.18,"GE-101, IT-364"
+STU00603,33,Information Technology,BS in Information Technology,14,Promoted,2.95,2.96,
+STU00604,33,Information Technology,BS in Information Technology,15,Promoted,1.8,2.4,IT-331
+STU00605,33,Information Technology,BS in Information Technology,16,Promoted,2.98,2.62,
+STU00606,33,Information Technology,BS in Information Technology,17,Promoted,1.64,2.06,"GE-103, IT-331"
+STU00607,33,Information Technology,BS in Information Technology,18,Promoted,3.01,2.78,
+STU00608,33,Information Technology,BS in Information Technology,19,Promoted,1.27,1.92,"GE-101, GE-206, IT-331"
+STU00609,33,Information Technology,BS in Information Technology,20,Promoted,1.64,1.82,"GE-101, IT-217"
+STU00610,33,Information Technology,BS in Information Technology,21,Promoted,3.11,2.98,
+STU00611,33,Information Technology,BS in Information Technology,22,Promoted,2.74,2.78,
+STU00612,33,Information Technology,BS in Information Technology,23,Promoted,1.43,1.9,"IT-331, IT-364"
+STU00613,33,Information Technology,BS in Information Technology,24,Promoted,2.9,2.85,
+STU00614,33,Information Technology,BS in Information Technology,25,Promoted,2.2,2.13,
+STU00615,33,Information Technology,BS in Information Technology,26,Promoted,3.07,3.04,
+STU00616,33,Information Technology,BS in Information Technology,27,Promoted,1.31,1.87,"IT-121, IT-217, IT-331"
+STU00617,33,Information Technology,BS in Information Technology,28,Promoted,2.23,2.06,
+STU00618,33,Information Technology,BS in Information Technology,29,Promoted,2.67,2.71,
+STU00619,33,Information Technology,BS in Information Technology,30,Promoted,2.33,2.33,IT-331
+STU00620,33,Information Technology,BS in Information Technology,31,Promoted,3.26,2.66,
+STU00621,33,Information Technology,BS in Information Technology,32,Promoted,1.49,2.15,"GE-103, IT-217, IT-252"
+STU00622,33,Information Technology,BS in Information Technology,33,Promoted,1.36,2.0,"GE-103, IT-106, IT-331"
+STU00623,33,Information Technology,BS in Information Technology,34,Promoted,2.33,2.38,IT-331
+STU00624,33,Information Technology,BS in Information Technology,35,Promoted,1.45,2.33,"GE-101, GE-103, IT-252, IT- 331"
+STU00625,33,Information Technology,BS in Information Technology,36,Promoted,1.77,2.16,"IT-217, IT-252"
+STU00626,33,Information Technology,BS in Information Technology,37,Promoted,2.56,2.57,
+STU00627,33,Information Technology,BS in Information Technology,38,Promoted,2.75,2.73,
+STU00628,33,Information Technology,BS in Information Technology,39,Promoted,2.56,2.52,
+STU00629,33,Information Technology,BS in Information Technology,40,Promoted,1.83,1.98,"IT-252, MATH-128"
+STU00630,33,Information Technology,BS in Information Technology,41,Promoted,2.64,2.62,
+STU00631,33,Information Technology,BS in Information Technology,42,Promoted,2.18,2.31,
+STU00632,33,Information Technology,BS in Information Technology,43,Promoted,2.73,2.61,GE-103
+STU00633,35,Information Technology,BS in Information Technology,1,Promoted,2.22,2.03,"GE-206, IT-331"
+STU00634,35,Information Technology,BS in Information Technology,2,Promoted,2.45,2.15,"GE-206, IT-106"
+STU00635,36,Information Technology,BS in Information Technology,1,Promoted,2.95,3.12,
+STU00636,36,Information Technology,BS in Information Technology,2,Promoted,2.82,2.91,IT-121
+STU00637,36,Information Technology,BS in Information Technology,3,Promoted,3.37,3.4,MATH-128
+STU00638,36,Information Technology,BS in Information Technology,4,Promoted,2.49,2.62,IT-121
+STU00639,36,Information Technology,BS in Information Technology,5,Promoted,1.93,2.28,"IT-106, IT-121"
+STU00640,36,Information Technology,BS in Information Technology,6,Promoted,3.12,3.27,IT-121
+STU00641,36,Information Technology,BS in Information Technology,7,Promoted,3.44,3.5,
+STU00642,36,Information Technology,BS in Information Technology,8,Promoted,2.73,2.92,"IT-121, MATH-128"
+STU00643,36,Information Technology,BS in Information Technology,9,Promoted,2.03,2.14,"IT-106, IT-121"
+STU00644,36,Information Technology,BS in Information Technology,10,Promoted,2.05,1.79,"IT-106, IT-121"
+STU00645,36,Information Technology,BS in Information Technology,11,Promoted,2.94,3.23,IT-121
+STU00646,36,Information Technology,BS in Information Technology,12,Promoted,2.49,2.36,"IT-106, IT-121"
+STU00647,36,Information Technology,BS in Information Technology,13,Promoted,2.45,2.85,"IT-106, IT-121"
+STU00648,36,Information Technology,BS in Information Technology,14,Promoted,3.05,3.1,
+STU00649,36,Information Technology,BS in Information Technology,15,Promoted,3.15,3.24,IT-121
+STU00650,36,Information Technology,BS in Information Technology,16,Promoted,2.99,2.69,
+STU00651,36,Information Technology,BS in Information Technology,17,Promoted,2.43,2.38,"IT-106, IT-121"
+STU00652,36,Information Technology,BS in Information Technology,18,Promoted,2.85,2.89,IT-121
+STU00653,36,Information Technology,BS in Information Technology,19,Promoted,2.37,2.25,"IT-106, IT-121"
+STU00654,36,Information Technology,BS in Information Technology,20,Promoted,2.72,2.49,IT-121
+STU00655,36,Information Technology,BS in Information Technology,21,Promoted,3.53,3.37,
+STU00656,36,Information Technology,BS in Information Technology,22,Promoted,2.08,2.12,"IT-106, IT-107, IT-121, IT-244"
+STU00657,36,Information Technology,BS in Information Technology,23,Promoted,2.49,2.32,IT-121
+STU00658,36,Information Technology,BS in Information Technology,24,Promoted,2.8,2.9,IT-121
+STU00659,36,Information Technology,BS in Information Technology,25,Promoted,2.93,3.22,IT-121
+STU00660,36,Information Technology,BS in Information Technology,26,Promoted,2.18,2.36,"IT-106, IT-121, MATH-128"
+STU00661,36,Information Technology,BS in Information Technology,27,Promoted,2.48,2.7,"IT-106, IT-121"
+STU00662,36,Information Technology,BS in Information Technology,28,Promoted,2.57,2.54,IT-121
+STU00663,36,Information Technology,BS in Information Technology,29,Promoted,3.22,3.25,
+STU00664,36,Information Technology,BS in Information Technology,30,Promoted,2.87,2.78,IT-121
+STU00665,36,Information Technology,BS in Information Technology,31,Promoted,2.49,2.46,"IT-106, IT-121, MATH-128"
+STU00666,36,Information Technology,BS in Information Technology,32,Promoted,2.89,3.11,IT-121
+STU00667,36,Information Technology,BS in Information Technology,33,Promoted,3.33,3.32,
+STU00668,36,Information Technology,BS in Information Technology,34,Promoted,3.41,3.19,
+STU00669,36,Information Technology,BS in Information Technology,35,Promoted,2.83,2.75,IT-121
+STU00670,36,Information Technology,BS in Information Technology,36,Promoted,3.65,3.47,
+STU00671,36,Information Technology,BS in Information Technology,37,Promoted,3.2,2.87,
+STU00672,36,Information Technology,BS in Information Technology,38,Promoted,3.16,3.05,
+STU00673,36,Information Technology,BS in Information Technology,39,Promoted,2.88,2.99,IT-106
+STU00674,36,Information Technology,BS in Information Technology,40,Promoted,3.34,3.18,
+STU00675,36,Information Technology,BS in Information Technology,41,Promoted,2.53,2.59,"IT-106, IT-121"
+STU00676,36,Information Technology,BS in Information Technology,42,Promoted,2.87,2.92,IT-121
+STU00677,36,Information Technology,BS in Information Technology,43,Promoted,2.86,2.78,IT-121
+STU00678,36,Information Technology,BS in Information Technology,44,Promoted,2.39,2.31,"IT-106, IT-121"
+STU00679,36,Information Technology,BS in Information Technology,45,Promoted,2.99,2.86,IT-121
+STU00680,36,Information Technology,BS in Information Technology,46,Promoted,3.09,3.08,IT-121
+STU00681,36,Information Technology,BS in Information Technology,47,Promoted,2.27,2.46,"IT-106, IT-121"
+STU00682,36,Information Technology,BS in Information Technology,48,Promoted,3.04,2.92,IT-121
+STU00683,37,Information Technology,BS in Information Technology,49,Promoted,2.07,2.07,"IT-106, IT-121"
+STU00684,37,Information Technology,BS in Information Technology,50,Promoted,3.06,2.88,IT-121
+STU00685,37,Information Technology,BS in Information Technology,51,Promoted,3.29,3.24,IT-121
+STU00686,37,Information Technology,BS in Information Technology,52,Promoted,3.01,3.07,IT-121
+STU00687,37,Information Technology,BS in Information Technology,53,Promoted,3.15,3.17,IT-121
+STU00688,37,Information Technology,BS in Information Technology,54,Promoted,1.68,2.0,"IT-106, IT-121, IT-221"
+STU00689,37,Information Technology,BS in Information Technology,55,Promoted,3.08,2.98,
+STU00690,37,Information Technology,BS in Information Technology,56,Promoted,3.03,2.97,
+STU00691,37,Information Technology,BS in Information Technology,57,Promoted,1.95,2.12,"IT-106, IT-121"
+STU00692,37,Information Technology,BS in Information Technology,58,Promoted,3.27,3.4,IT-121
+STU00693,37,Information Technology,BS in Information Technology,59,Promoted,2.52,2.53,"IT-106, IT-121"
+STU00694,37,Information Technology,BS in Information Technology,60,Promoted,2.37,2.41,"IT-106, IT-121"
+STU00695,37,Information Technology,BS in Information Technology,61,Promoted,2.55,2.62,"IT-106, IT-121"
+STU00696,37,Information Technology,BS in Information Technology,62,Promoted,2.43,2.6,"IT-106, IT-121"
+STU00697,37,Information Technology,BS in Information Technology,63,Promoted,2.41,2.22,"IT-106, IT-121"
+STU00698,37,Information Technology,BS in Information Technology,64,Promoted,2.66,2.68,IT-121
+STU00699,38,Information Technology,BS in Information Technology,1,Promoted,2.23,2.23,"IT-121, MATH-128"
+STU00700,39,Information Technology,BS in Information Technology (Evening),1,Promoted,3.5,2.78,
+STU00701,39,Information Technology,BS in Information Technology (Evening),2,Promoted,2.45,2.31,IT-121
+STU00702,39,Information Technology,BS in Information Technology (Evening),3,Promoted,3.54,3.41,
+STU00703,39,Information Technology,BS in Information Technology (Evening),4,Promoted,3.08,2.86,
+STU00704,39,Information Technology,BS in Information Technology (Evening),5,Promoted,3.37,3.01,
+STU00705,39,Information Technology,BS in Information Technology (Evening),6,Promoted,3.39,2.84,
+STU00706,39,Information Technology,BS in Information Technology (Evening),7,Promoted,3.15,2.76,
+STU00707,39,Information Technology,BS in Information Technology (Evening),8,Promoted,3.46,3.09,
+STU00708,39,Information Technology,BS in Information Technology (Evening),9,Promoted,3.13,3.09,IT-121
+STU00709,39,Information Technology,BS in Information Technology (Evening),10,Promoted,3.42,3.21,
+STU00710,39,Information Technology,BS in Information Technology (Evening),11,Promoted,2.45,2.32,IT-121
+STU00711,39,Information Technology,BS in Information Technology (Evening),12,Promoted,2.5,2.35,IT-121
+STU00712,39,Information Technology,BS in Information Technology (Evening),13,Promoted,2.92,3.05,IT-121
+STU00713,39,Information Technology,BS in Information Technology (Evening),14,Promoted,3.45,3.54,
+STU00714,39,Information Technology,BS in Information Technology (Evening),15,Promoted,3.28,3.4,
+STU00715,39,Information Technology,BS in Information Technology (Evening),16,Promoted,2.97,2.84,"IT-121, MATH-128"
+STU00716,39,Information Technology,BS in Information Technology (Evening),17,Promoted,2.83,2.65,IT-121
+STU00717,39,Information Technology,BS in Information Technology (Evening),18,Promoted,2.64,2.68,IT-121
+STU00718,39,Information Technology,BS in Information Technology (Evening),19,Promoted,2.08,2.38,"GE-201, IT-121"
+STU00719,39,Information Technology,BS in Information Technology (Evening),20,Promoted,2.71,2.81,IT-121
+STU00720,39,Information Technology,BS in Information Technology (Evening),21,Promoted,3.13,3.27,IT-121
+STU00721,39,Information Technology,BS in Information Technology (Evening),22,Promoted,3.21,3.48,IT-121
+STU00722,39,Information Technology,BS in Information Technology (Evening),23,Promoted,3.19,3.38,
+STU00723,39,Information Technology,BS in Information Technology (Evening),24,Promoted,2.07,2.31,IT-121
+STU00724,39,Information Technology,BS in Information Technology (Evening),25,Promoted,2.19,2.38,"IT-106, IT-121"
+STU00725,39,Information Technology,BS in Information Technology (Evening),26,Promoted,2.15,2.1,"IT-106, IT-121"
+STU00726,39,Information Technology,BS in Information Technology (Evening),27,Promoted,2.95,2.9,IT-121
+STU00727,39,Information Technology,BS in Information Technology (Evening),28,Promoted,2.76,2.79,IT-121
+STU00728,39,Information Technology,BS in Information Technology (Evening),29,Promoted,3.18,3.26,
+STU00729,39,Information Technology,BS in Information Technology (Evening),30,Promoted,2.9,2.86,
+STU00730,39,Information Technology,BS in Information Technology (Evening),31,Promoted,2.21,2.48,"IT-106, IT-121"
+STU00731,39,Information Technology,BS in Information Technology (Evening),32,Promoted,2.3,2.12,"IT-106, IT-121"
+STU00732,39,Information Technology,BS in Information Technology (Evening),33,Promoted,3.09,2.81,
+STU00733,39,Information Technology,BS in Information Technology (Evening),34,Promoted,2.72,2.77,IT-121
+STU00734,39,Information Technology,BS in Information Technology (Evening),35,Promoted,3.18,3.18,
+STU00735,39,Information Technology,BS in Information Technology (Evening),36,Promoted,2.97,3.09,IT-121
+STU00736,39,Information Technology,BS in Information Technology (Evening),37,Promoted,3.04,3.12,IT-121
+STU00737,39,Information Technology,BS in Information Technology (Evening),38,Promoted,1.98,2.22,"IT-106, IT-121, IT-244"
+STU00738,39,Information Technology,BS in Information Technology (Evening),39,Promoted,2.74,3.08,IT-121
+STU00739,39,Information Technology,BS in Information Technology (Evening),40,Promoted,3.12,3.03,
+STU00740,39,Information Technology,BS in Information Technology (Evening),41,Promoted,2.76,2.82,IT-121
+STU00741,39,Information Technology,BS in Information Technology (Evening),42,Promoted,3.35,3.4,
+STU00742,39,Information Technology,BS in Information Technology (Evening),43,Promoted,3.43,3.66,
+STU00743,39,Information Technology,BS in Information Technology (Evening),44,Promoted,2.65,2.89,IT-121
+STU00744,39,Information Technology,BS in Information Technology (Evening),45,Promoted,3.37,3.24,
+STU00745,39,Information Technology,BS in Information Technology (Evening),46,Promoted,3.48,3.67,
+STU00746,39,Information Technology,BS in Information Technology (Evening),47,Promoted,2.73,2.86,IT-121
+STU00747,39,Information Technology,BS in Information Technology (Evening),48,Promoted,2.35,2.38,IT-121
+STU00748,40,Information Technology,BS in Information Technology (Evening),49,Promoted,3.14,3.34,IT-121
+STU00749,40,Information Technology,BS in Information Technology (Evening),50,Promoted,1.88,2.09,"IT-106, IT-121"
+STU00750,40,Information Technology,BS in Information Technology (Evening),51,Promoted,2.54,2.76,IT-121
+STU00751,40,Information Technology,BS in Information Technology (Evening),52,Promoted,1.92,2.17,"IT-106, IT-121"
+STU00752,40,Information Technology,BS in Information Technology (Evening),53,Promoted,2.46,2.07,IT-121
+STU00753,40,Information Technology,BS in Information Technology (Evening),54,Promoted,2.99,2.99,IT-121
+STU00754,40,Information Technology,BS in Information Technology (Evening),55,Promoted,2.94,2.84,IT-121
+STU00755,40,Information Technology,BS in Information Technology (Evening),56,Promoted,3.59,3.51,
+STU00756,40,Information Technology,BS in Information Technology (Evening),57,Promoted,2.26,2.21,IT-121
+STU00757,40,Information Technology,BS in Information Technology (Evening),58,Promoted,3.15,3.11,
+STU00758,40,Information Technology,BS in Information Technology (Evening),59,Promoted,3.04,2.5,IT-121
+STU00759,40,Information Technology,BS in Information Technology (Evening),60,Promoted,2.97,2.9,IT-121
+STU00760,40,Information Technology,BS in Information Technology (Evening),61,Promoted,1.48,1.73,"IT-106, IT-121"
+STU00761,40,Information Technology,BS in Information Technology (Evening),62,Promoted,1.83,1.92,"IT-106, IT-121"
+STU00762,41,English,BS English (Language and Literature),1,Promoted,0.9,2.27,"ENG-423, ENG-427"
+STU00763,42,English,BS English (Language and Literature),1,Promoted,3.1,2.5,
+STU00764,42,English,BS English (Language and Literature),2,Promoted,3.13,2.63,
+STU00765,42,English,BS English (Language and Literature),3,Promoted,2.85,2.63,
+STU00766,42,English,BS English (Language and Literature),4,Promoted,2.1,2.15,
+STU00767,42,English,BS English (Language and Literature),5,Promoted,3.06,2.69,
+STU00768,42,English,BS English (Language and Literature),6,Promoted,3.38,2.97,
+STU00769,42,English,BS English (Language and Literature),7,Promoted,2.94,2.51,
+STU00770,42,English,BS English (Language and Literature),8,Promoted,2.38,2.73,
+STU00771,42,English,BS English (Language and Literature),9,Promoted,1.21,2.19,"ENG-401, ENG-423"
+STU00772,42,English,BS English (Language and Literature),10,Promoted,2.1,2.66,
+STU00773,42,English,BS English (Language and Literature),11,Promoted,2.98,3.01,
+STU00774,42,English,BS English (Language and Literature),12,Promoted,1.57,2.19,ENG-324
+STU00775,42,English,BS English (Language and Literature),13,Promoted,2.07,2.0,
+STU00776,42,English,BS English (Language and Literature),14,Promoted,2.98,2.7,
+STU00777,42,English,BS English (Language and Literature),15,Promoted,2.48,2.89,
+STU00778,42,English,BS English (Language and Literature),16,Promoted,0.36,2.3,"ENG-324, ENG-419, ENG-423, ENG-427, ENG-441"
+STU00779,42,English,BS English (Language and Literature),17,Promoted,2.28,2.65,
+STU00780,42,English,BS English (Language and Literature),18,Promoted,2.25,2.62,
+STU00781,42,English,BS English (Language and Literature),19,Promoted,2.23,2.79,
+STU00782,42,English,BS English (Language and Literature),20,Promoted,0.64,2.16,"ENG-324, ENG-422, ENG-427"
+STU00783,42,English,BS English (Language and Literature),21,Promoted,2.4,2.84,
+STU00784,42,English,BS English (Language and Literature),22,Promoted,3.06,3.46,
+STU00785,42,English,BS English (Language and Literature),23,Promoted,2.3,2.76,
+STU00786,42,English,BS English (Language and Literature),24,Promoted,1.29,2.13,ENG-427
+STU00787,42,English,BS English (Language and Literature),25,Promoted,1.5,2.47,ENG-427
+STU00788,42,English,BS English (Language and Literature),26,Promoted,0.82,2.03,"ENG-413, ENG-423, ENG-427, ENG-441"
+STU00789,42,English,BS English (Language and Literature),27,Promoted,2.48,2.84,
+STU00790,42,English,BS English (Language and Literature),28,Promoted,2.68,2.79,
+STU00791,42,English,BS English (Language and Literature),29,Promoted,1.38,2.41,ENG-413
+STU00792,42,English,BS English (Language and Literature),30,Promoted,3.06,2.9,
+STU00793,42,English,BS English (Language and Literature),31,Promoted,2.83,3.14,
+STU00794,42,English,BS English (Language and Literature),32,Promoted,1.7,2.09,ENG-427
+STU00795,42,English,BS English (Language and Literature),33,Promoted,3.34,3.31,
+STU00796,42,English,BS English (Language and Literature),34,Promoted,2.01,1.87,ENG-422
+STU00797,42,English,BS English (Language and Literature),35,Promoted,2.48,2.91,
+STU00798,42,English,BS English (Language and Literature),36,Promoted,1.68,2.39,
+STU00799,42,English,BS English (Language and Literature),37,Promoted,2.58,2.71,
+STU00800,42,English,BS English (Language and Literature),38,Promoted,2.27,2.32,
+STU00801,43,English,BS English (Language and Literature),1,Promoted,1.71,2.09,ENG-441
+STU00802,43,English,BS English (Language and Literature),2,Promoted,1.6,2.19,
+STU00803,43,English,BS English (Language and Literature),3,Promoted,0.6,1.99,"ENG-413, ENG-423, ENG-441"
+STU00804,43,English,BS English (Language and Literature),4,Promoted,2.5,3.03,
+STU00805,43,English,BS English (Language and Literature),5,Promoted,2.5,2.45,
+STU00806,43,English,BS English (Language and Literature),6,Promoted,2.7,2.92,
+STU00807,43,English,BS English (Language and Literature),7,Promoted,2.98,3.02,
+STU00808,43,English,BS English (Language and Literature),8,Promoted,2.1,2.31,
+STU00809,43,English,BS English (Language and Literature),9,Promoted,2.6,2.55,
+STU00810,43,English,BS English (Language and Literature),10,Promoted,2.6,2.88,
+STU00811,43,English,BS English (Language and Literature),11,Promoted,2.1,2.42,
+STU00812,43,English,BS English (Language and Literature),12,Promoted,2.17,2.43,
+STU00813,43,English,BS English (Language and Literature),13,Promoted,2.78,2.69,
+STU00814,43,English,BS English (Language and Literature),14,Promoted,2.0,2.7,ENG-413
+STU00815,43,English,BS English (Language and Literature),15,Promoted,2.1,2.31,
+STU00816,43,English,BS English (Language and Literature),16,Promoted,1.9,2.65,ENG-413
+STU00817,43,English,BS English (Language and Literature),17,Promoted,2.78,2.62,
+STU00818,43,English,BS English (Language and Literature),18,Promoted,2.1,2.25,
+STU00819,43,English,BS English (Language and Literature),19,Promoted,1.6,2.46,
+STU00820,43,English,BS English (Language and Literature),20,Promoted,2.4,2.69,
+STU00821,43,English,BS English (Language and Literature),21,Promoted,3.04,2.98,
+STU00822,43,English,BS English (Language and Literature),22,Promoted,2.62,2.5,
+STU00823,43,English,BS English (Language and Literature),23,Promoted,2.2,2.42,
+STU00824,43,English,BS English (Language and Literature),24,Promoted,3.18,3.05,
+STU00825,43,English,BS English (Language and Literature),25,Promoted,0.93,2.19,"ENG-324, ENG-413, ENG-441"
+STU00826,43,English,BS English (Language and Literature),26,Promoted,2.38,2.59,
+STU00827,43,English,BS English (Language and Literature),27,Promoted,1.21,1.81,"ENG-324, ENG-401"
+STU00828,43,English,BS English (Language and Literature),28,Promoted,2.4,2.54,
+STU00829,43,English,BS English (Language and Literature),29,Promoted,2.68,2.82,
+STU00830,43,English,BS English (Language and Literature),30,Promoted,1.81,2.34,"ENG-306, ENG-413"
+STU00831,43,English,BS English (Language and Literature),31,Promoted,2.86,2.96,
+STU00832,43,English,BS English (Language and Literature),32,Promoted,0.5,1.89,"ENG-316, ENG-324, ENG-423, ENG-427, ENG-441"
+STU00833,43,English,BS English (Language and Literature),33,Promoted,3.02,2.88,
+STU00834,43,English,BS English (Language and Literature),34,Promoted,1.64,2.31,"ENG-311, ENG-413"
+STU00835,43,English,BS English (Language and Literature),35,Promoted,2.0,2.34,
+STU00836,43,English,BS English (Language and Literature),36,Promoted,1.42,1.96,ENG-427
+STU00837,43,English,BS English (Language and Literature),37,Promoted,2.96,2.65,
+STU00838,43,English,BS English (Language and Literature),38,Promoted,1.5,2.13,ENG-413
+STU00839,43,English,BS English (Language and Literature),39,Promoted,1.43,2.13,"ENG-324, ENG-427"
+STU00840,43,English,BS English (Language and Literature),40,Promoted,3.34,3.43,
+STU00841,43,English,BS English (Language and Literature),41,Promoted,2.28,2.21,ENG-413
+STU00842,43,English,BS English (Language and Literature),42,Promoted,2.3,2.38,ENG-413
+STU00843,43,English,BS English (Language and Literature),43,Promoted,1.86,2.01,ENG-413
+STU00844,45,English,BS English (Language and Literature),1,Promoted,1.5,1.87,ENG-422
+STU00845,45,English,BS English (Language and Literature),2,Promoted,2.39,2.18,
+STU00846,46,English,BS English (Language and Literature),1,Promoted,1.53,2.29,"ENG-324, ENG-401"
+STU00847,46,English,BS English (Language and Literature),2,Promoted,2.36,2.52,
+STU00848,46,English,BS English (Language and Literature),3,Promoted,2.75,3.01,
+STU00849,46,English,BS English (Language and Literature),4,Promoted,2.1,2.32,
+STU00850,46,English,BS English (Language and Literature),5,Promoted,1.95,1.99,ENG-324
+STU00851,46,English,BS English (Language and Literature),6,Promoted,1.75,2.61,ENG-324
+STU00852,46,English,BS English (Language and Literature),7,Promoted,2.5,2.74,
+STU00853,46,English,BS English (Language and Literature),8,Promoted,2.46,2.71,
+STU00854,46,English,BS English (Language and Literature),9,Promoted,2.25,2.14,
+STU00855,46,English,BS English (Language and Literature),10,Promoted,1.6,2.05,"ENG-307, ENG-324"
+STU00856,46,English,BS English (Language and Literature),11,Promoted,2.98,3.35,
+STU00857,46,English,BS English (Language and Literature),12,Promoted,1.48,2.42,"ENG-324, ENG-401"
+STU00858,46,English,BS English (Language and Literature),13,Promoted,2.55,2.71,
+STU00859,46,English,BS English (Language and Literature),14,Promoted,1.91,2.48,
+STU00860,46,English,BS English (Language and Literature),15,Promoted,2.2,2.87,
+STU00861,46,English,BS English (Language and Literature),16,Promoted,2.37,2.92,
+STU00862,46,English,BS English (Language and Literature),17,Promoted,1.27,1.6,"ENG-307, ENG-324"
+STU00863,46,English,BS English (Language and Literature),18,Promoted,2.03,2.57,
+STU00864,46,English,BS English (Language and Literature),19,Promoted,1.79,2.34,GE-104
+STU00865,46,English,BS English (Language and Literature),20,Promoted,1.74,2.44,"ENG-307, ENG-324"
+STU00866,46,English,BS English (Language and Literature),21,Promoted,2.04,2.45,
+STU00867,46,English,BS English (Language and Literature),22,Promoted,0.9,1.99,"ENG-324, ENG-401, ENG-404, ENG- 412"
+STU00868,46,English,BS English (Language and Literature),23,Promoted,2.42,2.78,
+STU00869,46,English,BS English (Language and Literature),24,Promoted,1.17,1.97,"ENG-307, ENG-324, ENG-404"
+STU00870,46,English,BS English (Language and Literature),25,Promoted,1.2,2.17,"ENG-324, ENG-401, ENG-404"
+STU00871,46,English,BS English (Language and Literature),26,Promoted,2.53,3.0,
+STU00872,46,English,BS English (Language and Literature),27,Promoted,1.43,2.61,"ENG-324, ENG-401, ENG-404"
+STU00873,46,English,BS English (Language and Literature),28,Promoted,1.71,2.09,
+STU00874,46,English,BS English (Language and Literature),29,Promoted,1.73,2.33,
+STU00875,46,English,BS English (Language and Literature),30,Promoted,2.1,2.52,ENG-401
+STU00876,46,English,BS English (Language and Literature),31,Promoted,2.5,2.7,
+STU00877,47,English,BS English (Language and Literature),1,Promoted,2.4,3.01,
+STU00878,47,English,BS English (Language and Literature),2,Promoted,1.82,2.7,ENG-324
+STU00879,47,English,BS English (Language and Literature),3,Promoted,2.5,2.44,
+STU00880,47,English,BS English (Language and Literature),4,Promoted,2.4,2.56,
+STU00881,47,English,BS English (Language and Literature),5,Promoted,2.48,2.6,
+STU00882,47,English,BS English (Language and Literature),6,Promoted,2.25,2.39,
+STU00883,47,English,BS English (Language and Literature),7,Promoted,2.53,3.08,
+STU00884,47,English,BS English (Language and Literature),8,Promoted,3.15,3.55,
+STU00885,47,English,BS English (Language and Literature),9,Promoted,3.13,3.59,
+STU00886,47,English,BS English (Language and Literature),10,Promoted,2.58,3.13,
+STU00887,47,English,BS English (Language and Literature),11,Promoted,2.53,3.05,
+STU00888,47,English,BS English (Language and Literature),12,Promoted,2.5,2.98,
+STU00889,47,English,BS English (Language and Literature),13,Promoted,2.52,2.5,
+STU00890,47,English,BS English (Language and Literature),14,Promoted,1.64,2.0,"ENG-324, ENG-401"
+STU00891,47,English,BS English (Language and Literature),15,Promoted,1.93,2.35,
+STU00892,47,English,BS English (Language and Literature),16,Promoted,1.98,2.74,
+STU00893,47,English,BS English (Language and Literature),17,Promoted,2.14,2.48,
+STU00894,47,English,BS English (Language and Literature),18,Promoted,2.17,2.46,ENG-324
+STU00895,47,English,BS English (Language and Literature),19,Promoted,2.17,2.33,
+STU00896,47,English,BS English (Language and Literature),20,Promoted,1.86,2.08,ENG-401
+STU00897,47,English,BS English (Language and Literature),21,Promoted,2.42,2.67,
+STU00898,47,English,BS English (Language and Literature),22,Promoted,2.33,2.44,ENG-324
+STU00899,47,English,BS English (Language and Literature),23,Promoted,1.7,2.41,ENG-324
+STU00900,47,English,BS English (Language and Literature),24,Promoted,1.67,2.17,"ENG-115, ENG-324"
+STU00901,47,English,BS English (Language and Literature),25,Promoted,1.89,2.42,"ENG-324, ENG-401"
+STU00902,47,English,BS English (Language and Literature),26,Promoted,2.07,2.49,ENG-324
+STU00903,47,English,BS English (Language and Literature),27,Promoted,3.12,3.45,
+STU00904,47,English,BS English (Language and Literature),28,Promoted,2.65,2.66,
+STU00905,47,English,BS English (Language and Literature),29,Promoted,2.25,2.48,
+STU00906,47,English,BS English (Language and Literature),30,Promoted,1.36,1.82,"ENG-324, ENG-401"
+STU00907,47,English,BS English (Language and Literature),31,Promoted,1.83,2.65,ENG-324
+STU00908,47,English,BS English (Language and Literature),32,Promoted,1.9,2.41,ENG-324
+STU00909,47,English,BS English (Language and Literature),33,Promoted,2.42,2.46,
+STU00910,47,English,BS English (Language and Literature),34,Promoted,2.97,3.13,
+STU00911,47,English,BS English (Language and Literature),35,Promoted,2.42,2.68,
+STU00912,47,English,BS English (Language and Literature),36,Promoted,2.25,2.59,
+STU00913,47,English,BS English (Language and Literature),37,Promoted,2.33,2.72,
+STU00914,47,English,BS English (Language and Literature),38,Promoted,2.92,3.02,
+STU00915,47,English,BS English (Language and Literature),39,Promoted,1.53,2.27,"ENG-324, ENG-404"
+STU00916,47,English,BS English (Language and Literature),40,Promoted,2.12,2.94,ENG-324
+STU00917,47,English,BS English (Language and Literature),41,Promoted,1.67,2.25,"ENG-324, ENG-404"
+STU00918,48,English,BS English (Language and Literature),1,Promoted,1.87,2.31,
+STU00919,49,English,BS English (Language and Literature),1,Promoted,3.16,3.09,
+STU00920,49,English,BS English (Language and Literature),2,Promoted,2.29,2.49,ENG-306
+STU00921,49,English,BS English (Language and Literature),3,Promoted,1.75,2.31,ENG-306
+STU00922,49,English,BS English (Language and Literature),4,Promoted,2.79,2.83,
+STU00923,49,English,BS English (Language and Literature),5,Promoted,3.27,3.07,
+STU00924,49,English,BS English (Language and Literature),6,Promoted,2.83,2.88,
+STU00925,49,English,BS English (Language and Literature),7,Promoted,3.38,3.16,
+STU00926,49,English,BS English (Language and Literature),8,Promoted,3.47,3.41,
+STU00927,49,English,BS English (Language and Literature),9,Promoted,3.13,2.9,
+STU00928,49,English,BS English (Language and Literature),10,Promoted,3.28,3.24,
+STU00929,49,English,BS English (Language and Literature),11,Promoted,3.24,3.21,
+STU00930,49,English,BS English (Language and Literature),12,Promoted,3.05,2.76,
+STU00931,49,English,BS English (Language and Literature),13,Promoted,3.4,3.26,
+STU00932,49,English,BS English (Language and Literature),14,Promoted,2.87,2.83,
+STU00933,49,English,BS English (Language and Literature),15,Promoted,2.9,2.99,
+STU00934,49,English,BS English (Language and Literature),16,Promoted,3.26,3.01,
+STU00935,49,English,BS English (Language and Literature),17,Promoted,3.4,3.23,
+STU00936,49,English,BS English (Language and Literature),18,Promoted,3.22,3.12,
+STU00937,49,English,BS English (Language and Literature),19,Promoted,1.69,2.41,"ENG-115, ENG-307"
+STU00938,49,English,BS English (Language and Literature),20,Promoted,2.98,2.94,
+STU00939,49,English,BS English (Language and Literature),21,Promoted,3.12,3.12,
+STU00940,49,English,BS English (Language and Literature),22,Promoted,2.91,2.61,
+STU00941,49,English,BS English (Language and Literature),23,Promoted,2.92,2.84,
+STU00942,49,English,BS English (Language and Literature),24,Promoted,1.36,2.03,"ENG-115, ENG-306"
+STU00943,49,English,BS English (Language and Literature),25,Promoted,2.84,2.84,
+STU00944,49,English,BS English (Language and Literature),26,Promoted,2.51,2.62,
+STU00945,49,English,BS English (Language and Literature),27,Promoted,2.17,2.81,ENG-306
+STU00946,49,English,BS English (Language and Literature),28,Promoted,3.14,3.09,
+STU00947,49,English,BS English (Language and Literature),29,Promoted,2.51,2.49,
+STU00948,49,English,BS English (Language and Literature),30,Promoted,2.04,2.4,
+STU00949,49,English,BS English (Language and Literature),31,Promoted,2.41,2.7,
+STU00950,49,English,BS English (Language and Literature),32,Promoted,1.06,1.76,"ENG-115, ENG-306, ENG-307"
+STU00951,49,English,BS English (Language and Literature),33,Promoted,2.88,3.17,
+STU00952,49,English,BS English (Language and Literature),34,Promoted,2.76,2.92,
+STU00953,49,English,BS English (Language and Literature),35,Promoted,2.86,3.04,
+STU00954,49,English,BS English (Language and Literature),36,Promoted,2.23,2.62,
+STU00955,49,English,BS English (Language and Literature),37,Promoted,2.51,2.9,
+STU00956,49,English,BS English (Language and Literature),38,Promoted,1.81,2.19,"ENG-306, ENG-307"
+STU00957,49,English,BS English (Language and Literature),39,Promoted,2.46,2.8,
+STU00958,49,English,BS English (Language and Literature),40,Promoted,1.3,1.9,"ENG-306, ENG-307"
+STU00959,49,English,BS English (Language and Literature),41,Promoted,1.57,2.27,ENG-306
+STU00960,49,English,BS English (Language and Literature),42,Promoted,3.04,3.04,
+STU00961,49,English,BS English (Language and Literature),43,Promoted,2.72,2.45,
+STU00962,49,English,BS English (Language and Literature),44,Promoted,2.38,2.59,
+STU00963,49,English,BS English (Language and Literature),45,Promoted,3.02,2.84,
+STU00964,49,English,BS English (Language and Literature),46,Promoted,2.39,2.31,
+STU00965,51,English,BS English (Language and Literature),1,Promoted,1.6,2.11,ENG-307
+STU00966,51,English,BS English (Language and Literature),2,Promoted,2.75,2.74,
+STU00967,51,English,BS English (Language and Literature),3,Promoted,1.38,2.01,
+STU00968,51,English,BS English (Language and Literature),4,Promoted,1.42,1.98,"ENG-306, ENG-307"
+STU00969,51,English,BS English (Language and Literature),5,Promoted,0.3,2.04,"ENG-306, ENG-307, GE-103, GE-206, GE-207"
+STU00970,51,English,BS English (Language and Literature),6,Promoted,1.38,2.15,"ENG-115, ENG-306, ENG-307"
+STU00971,51,English,BS English (Language and Literature),7,Promoted,1.54,1.95,"ENG-306, ENG-307"
+STU00972,51,English,BS English (Language and Literature),8,Promoted,1.38,2.1,"ENG-115, ENG-306, ENG-307"
+STU00973,51,English,BS English (Language and Literature),9,Promoted,0.63,2.08,"ENG-306, ENG-307, GE-103, GE-206"
+STU00974,51,English,BS English (Language and Literature),10,Promoted,3.04,3.22,
+STU00975,51,English,BS English (Language and Literature),11,Promoted,1.5,2.04,"ENG-306, ENG-307"
+STU00976,51,English,BS English (Language and Literature),12,Promoted,1.25,2.17,"ENG-306, ENG-307, GE-103"
+STU00977,51,English,BS English (Language and Literature),13,Promoted,1.25,1.61,"ENG-115, ENG-306, ENG-307"
+STU00978,51,English,BS English (Language and Literature),14,Promoted,2.92,3.26,
+STU00979,51,English,BS English (Language and Literature),15,Promoted,2.32,2.87,
+STU00980,51,English,BS English (Language and Literature),16,Dropped,0.61,1.4,"ENG-115, ENG-306, ENG-307, ENG-319"
+STU00981,52,English,BS English (Language and Literature),1,Promoted,1.19,1.71,"ENG-306, ENG-307"
+STU00982,52,English,BS English (Language and Literature),2,Dropped,0.0,0.0,"ENG-306, ENG-307, ENG-319, GE-103, GE- 206, GE-207"
+STU00983,52,English,BS English (Language and Literature),3,Dropped,0.0,0.0,"ENG-306, ENG-307, ENG-319, GE-103, GE- 206, GE-207"
+STU00984,52,English,BS English (Language and Literature),4,Dropped,0.27,0.27,"ENG-306, ENG-307, ENG-319, GE-103, GE-206"
+STU00985,53,English,BS English (Language and Literature),1,Promoted,0.92,1.65,"ENG-115, GE-206"
+STU00986,53,English,BS English (Language and Literature),2,Dropped,0.0,0.0,"ENG-306, ENG-307, ENG-319, GE-103, GE- 206, GE-207"
+STU00987,54,English,BS English (Language and Literature),1,Promoted,1.82,2.49,"ENG-322, GE-205"
+STU00988,54,English,BS English (Language and Literature),2,Promoted,3.32,3.37,
+STU00989,54,English,BS English (Language and Literature),3,Promoted,2.81,3.04,
+STU00990,54,English,BS English (Language and Literature),4,Promoted,2.07,2.39,ENG-322
+STU00991,54,English,BS English (Language and Literature),5,Promoted,2.61,2.83,ENG-322
+STU00992,54,English,BS English (Language and Literature),6,Promoted,2.09,2.65,"ENG-322, GE-205"
+STU00993,54,English,BS English (Language and Literature),7,Promoted,2.21,2.51,ENG-322
+STU00994,54,English,BS English (Language and Literature),8,Promoted,2.4,2.59,ENG-322
+STU00995,54,English,BS English (Language and Literature),9,Promoted,2.34,2.83,ENG-322
+STU00996,54,English,BS English (Language and Literature),10,Promoted,2.62,2.85,ENG-322
+STU00997,54,English,BS English (Language and Literature),11,Promoted,3.16,3.34,
+STU00998,54,English,BS English (Language and Literature),12,Promoted,1.13,1.81,"ENG-322, GE-102, GE-205"
+STU00999,54,English,BS English (Language and Literature),13,Promoted,2.5,2.91,ENG-322
+STU01000,54,English,BS English (Language and Literature),14,Promoted,2.03,2.62,ENG-322
+STU01001,54,English,BS English (Language and Literature),15,Promoted,2.68,3.02,ENG-322
+STU01002,54,English,BS English (Language and Literature),16,Promoted,2.38,2.67,"ENG-322, GE-205"
+STU01003,54,English,BS English (Language and Literature),17,Promoted,3.65,3.75,
+STU01004,54,English,BS English (Language and Literature),18,Promoted,2.38,2.39,ENG-322
+STU01005,54,English,BS English (Language and Literature),19,Promoted,3.59,3.66,
+STU01006,54,English,BS English (Language and Literature),20,Dropped,1.12,1.34,"ENG-115, ENG-322, GE-205"
+STU01007,54,English,BS English (Language and Literature),21,Promoted,1.75,2.28,GE-205
+STU01008,54,English,BS English (Language and Literature),22,Promoted,1.61,2.32,"ENG-322, GE-205"
+STU01009,54,English,BS English (Language and Literature),23,Promoted,2.24,2.75,"ENG-322, GE-205"
+STU01010,54,English,BS English (Language and Literature),24,Promoted,2.59,3.11,ENG-322
+STU01011,54,English,BS English (Language and Literature),25,Promoted,2.98,3.37,
+STU01012,54,English,BS English (Language and Literature),26,Promoted,2.11,2.78,"ENG-322, GE-205"
+STU01013,54,English,BS English (Language and Literature),27,Promoted,2.39,2.93,"ENG-322, GE-205"
+STU01014,54,English,BS English (Language and Literature),28,Promoted,1.76,1.95,"ENG-322, GE-205"
+STU01015,54,English,BS English (Language and Literature),29,Promoted,1.74,2.14,"ENG-322, GE-205"
+STU01016,54,English,BS English (Language and Literature),30,Promoted,2.09,2.38,ENG-322
+STU01017,54,English,BS English (Language and Literature),31,Promoted,2.27,2.92,"ENG-322, GE-205"
+STU01018,54,English,BS English (Language and Literature),32,Promoted,1.29,1.61,"ENG-322, GE-205"
+STU01019,54,English,BS English (Language and Literature),33,Promoted,1.72,1.83,"ENG-322, GE-205"
+STU01020,54,English,BS English (Language and Literature),34,Promoted,2.34,2.96,"ENG-322, GE-205"
+STU01021,54,English,BS English (Language and Literature),35,Promoted,1.95,2.15,"ENG-322, GE-205"
+STU01022,54,English,BS English (Language and Literature),36,Promoted,2.04,2.62,"ENG-322, GE-205"
+STU01023,54,English,BS English (Language and Literature),37,Promoted,2.09,2.66,"ENG-322, GE-205"
+STU01024,54,English,BS English (Language and Literature),38,Promoted,2.08,2.69,"ENG-322, GE-205"
+STU01025,54,English,BS English (Language and Literature),39,Promoted,1.33,1.99,"ENG-322, GE-205"
+STU01026,54,English,BS English (Language and Literature),40,Promoted,2.26,2.91,"ENG-322, GE-205"
+STU01027,54,English,BS English (Language and Literature),41,Promoted,1.79,2.27,"ENG-322, GE-205"
+STU01028,54,English,BS English (Language and Literature),42,Promoted,2.32,2.82,"ENG-322, GE-205"
+STU01029,54,English,BS English (Language and Literature),43,Promoted,2.19,2.76,"ENG-322, GE-205"
+STU01030,54,English,BS English (Language and Literature),44,Promoted,2.26,2.78,"ENG-322, GE-205"
+STU01031,54,English,BS English (Language and Literature),45,Promoted,2.55,2.83,ENG-322
+STU01032,54,English,BS English (Language and Literature),46,Promoted,3.22,3.47,
+STU01033,54,English,BS English (Language and Literature),47,Promoted,3.26,3.55,
+STU01034,54,English,BS English (Language and Literature),48,Promoted,2.99,3.25,
+STU01035,55,English,BS English (Language and Literature),49,Promoted,1.16,1.92,"ENG-115, ENG-322, GE-205"
+STU01036,55,English,BS English (Language and Literature),50,Promoted,3.71,3.78,
+STU01037,55,English,BS English (Language and Literature),51,Promoted,2.64,2.82,ENG-322
+STU01038,55,English,BS English (Language and Literature),52,Promoted,2.14,2.66,"ENG-322, GE-205"
+STU01039,55,English,BS English (Language and Literature),53,Promoted,2.15,2.86,"ENG-322, GE-205"
+STU01040,55,English,BS English (Language and Literature),54,Promoted,3.01,3.37,ENG-322
+STU01041,55,English,BS English (Language and Literature),55,Promoted,3.58,3.67,
+STU01042,55,English,BS English (Language and Literature),56,Promoted,2.69,3.03,ENG-322
+STU01043,55,English,BS English (Language and Literature),57,Promoted,2.07,2.29,"ENG-322, GE-205"
+STU01044,55,English,BS English (Language and Literature),58,Promoted,1.85,2.23,"ENG-322, GE-205"
+STU01045,56,English,BS English (Language and Literature),1,Dropped,1.47,1.47,GE-205
+STU01046,57,English,BS in English,1,Promoted,1.92,2.23,ENG-115
+STU01047,57,English,BS in English,2,Promoted,1.71,2.27,"ENG-115, GE-206"
+STU01048,57,English,BS in English,3,Promoted,3.16,3.33,
+STU01049,57,English,BS in English,4,Promoted,2.32,2.81,ENG-115
+STU01050,57,English,BS in English,5,Promoted,1.76,1.99,"ENG-115, GE-206"
+STU01051,57,English,BS in English,6,Promoted,1.92,2.24,"ENG-115, GE-202"
+STU01052,57,English,BS in English,7,Promoted,2.12,2.7,GE-206
+STU01053,57,English,BS in English,8,Promoted,2.91,3.19,
+STU01054,57,English,BS in English,9,Promoted,1.59,2.46,"ENG-115, GE-202"
+STU01055,57,English,BS in English,10,Promoted,1.26,1.55,"ENG-115, GE-202"
+STU01056,57,English,BS in English,11,Promoted,3.41,3.51,
+STU01057,57,English,BS in English,12,Promoted,2.27,2.71,
+STU01058,57,English,BS in English,13,Promoted,2.68,2.79,
+STU01059,57,English,BS in English,14,Promoted,3.3,3.49,
+STU01060,57,English,BS in English,15,Promoted,2.36,2.91,GE-202
+STU01061,57,English,BS in English,16,Promoted,3.26,3.41,
+STU01062,57,English,BS in English,17,Promoted,2.94,2.96,
+STU01063,57,English,BS in English,18,Promoted,2.59,3.0,
+STU01064,57,English,BS in English,19,Promoted,2.56,3.06,
+STU01065,57,English,BS in English,20,Promoted,2.72,3.2,
+STU01066,58,Botany,BS in Botany,1,Promoted,3.33,2.79,
+STU01067,59,Botany,BS in Botany,1,Promoted,2.0,2.57,
+STU01068,60,Botany,BS in Botany,1,Promoted,3.76,3.36,
+STU01069,60,Botany,BS in Botany,2,Promoted,3.94,3.27,
+STU01070,60,Botany,BS in Botany,3,Promoted,3.82,3.22,
+STU01071,60,Botany,BS in Botany,4,Promoted,3.76,3.25,
+STU01072,60,Botany,BS in Botany,5,Promoted,3.88,3.38,
+STU01073,60,Botany,BS in Botany,6,Promoted,3.82,3.29,
+STU01074,60,Botany,BS in Botany,7,Promoted,3.82,3.25,
+STU01075,60,Botany,BS in Botany,8,Promoted,3.64,3.07,
+STU01076,60,Botany,BS in Botany,9,Promoted,3.68,2.82,
+STU01077,60,Botany,BS in Botany,10,Promoted,3.44,2.68,
+STU01078,60,Botany,BS in Botany,11,Promoted,3.52,3.22,
+STU01079,60,Botany,BS in Botany,12,Promoted,3.88,3.27,
+STU01080,60,Botany,BS in Botany,13,Promoted,3.82,3.3,
+STU01081,60,Botany,BS in Botany,14,Promoted,3.94,3.21,
+STU01082,60,Botany,BS in Botany,15,Promoted,3.82,2.96,
+STU01083,60,Botany,BS in Botany,16,Promoted,3.82,3.29,
+STU01084,60,Botany,BS in Botany,17,Promoted,3.6,2.98,
+STU01085,60,Botany,BS in Botany,18,Promoted,3.3,3.01,
+STU01086,60,Botany,BS in Botany,19,Promoted,3.62,3.24,
+STU01087,60,Botany,BS in Botany,20,Promoted,3.64,3.01,
+STU01088,60,Botany,BS in Botany,21,Promoted,3.4,2.88,
+STU01089,60,Botany,BS in Botany,22,Promoted,3.94,3.53,
+STU01090,60,Botany,BS in Botany,23,Promoted,3.2,2.88,
+STU01091,60,Botany,BS in Botany,24,Promoted,3.56,2.85,
+STU01092,60,Botany,BS in Botany,25,Promoted,3.12,2.34,
+STU01093,60,Botany,BS in Botany,26,Promoted,3.32,2.96,
+STU01094,61,Botany,BS in Botany,1,Promoted,3.03,3.07,
+STU01095,61,Botany,BS in Botany,2,Promoted,3.7,3.13,
+STU01096,61,Botany,BS in Botany,3,Promoted,3.52,3.14,
+STU01097,61,Botany,BS in Botany,4,Promoted,3.62,3.51,
+STU01098,61,Botany,BS in Botany,5,Promoted,3.65,2.91,
+STU01099,61,Botany,BS in Botany,6,Promoted,3.7,3.55,
+STU01100,61,Botany,BS in Botany,7,Promoted,3.01,1.95,
+STU01101,61,Botany,BS in Botany,8,Promoted,3.85,3.63,
+STU01102,61,Botany,BS in Botany,9,Promoted,3.42,3.0,
+STU01103,61,Botany,BS in Botany,10,Promoted,3.06,2.64,
+STU01104,61,Botany,BS in Botany,11,Promoted,2.87,2.39,BOT-309
+STU01105,61,Botany,BS in Botany,12,Promoted,3.27,2.4,
+STU01106,61,Botany,BS in Botany,13,Promoted,2.98,2.63,
+STU01107,61,Botany,BS in Botany,14,Promoted,2.39,2.63,
+STU01108,62,Botany,BS in Botany,1,Promoted,3.08,2.28,
+STU01109,62,Botany,BS in Botany,2,Promoted,3.54,3.04,
+STU01110,62,Botany,BS in Botany,3,Promoted,3.8,3.6,
+STU01111,62,Botany,BS in Botany,4,Promoted,3.46,3.14,
+STU01112,62,Botany,BS in Botany,5,Promoted,3.81,3.24,
+STU01113,62,Botany,BS in Botany,6,Promoted,3.37,2.84,
+STU01114,63,Botany,BS in Botany,1,Promoted,2.6,2.6,
+STU01115,64,Botany,BS in Botany,1,Promoted,3.26,3.15,
+STU01116,64,Botany,BS in Botany,2,Promoted,3.83,3.84,
+STU01117,64,Botany,BS in Botany,3,Promoted,3.32,3.28,
+STU01118,64,Botany,BS in Botany,4,Promoted,2.71,2.93,GE-205
+STU01119,64,Botany,BS in Botany,5,Promoted,2.1,1.86,
+STU01120,64,Botany,BS in Botany,6,Dropped,0.87,1.45,"BOT-109, BOT-111, GE-204, GE- 205"
+STU01121,65,Chemistry,BS in Chemistry,1,Promoted,1.0,2.68,
+STU01122,66,Chemistry,BS in Chemistry,1,Promoted,1.5,2.51,
+STU01123,67,Chemistry,BS in Chemistry,1,Promoted,1.88,2.93,
+STU01124,67,Chemistry,BS in Chemistry,2,Promoted,2.48,3.08,
+STU01125,67,Chemistry,BS in Chemistry,3,Promoted,2.5,3.13,
+STU01126,67,Chemistry,BS in Chemistry,4,Promoted,3.44,3.62,
+STU01127,67,Chemistry,BS in Chemistry,5,Promoted,2.86,3.12,
+STU01128,67,Chemistry,BS in Chemistry,6,Promoted,2.78,3.24,
+STU01129,67,Chemistry,BS in Chemistry,7,Promoted,2.94,3.06,
+STU01130,67,Chemistry,BS in Chemistry,8,Promoted,3.22,3.43,
+STU01131,67,Chemistry,BS in Chemistry,9,Promoted,3.3,3.59,
+STU01132,67,Chemistry,BS in Chemistry,10,Promoted,3.16,3.55,
+STU01133,67,Chemistry,BS in Chemistry,11,Promoted,3.46,3.73,
+STU01134,67,Chemistry,BS in Chemistry,12,Promoted,0.8,2.51,"CHEM-412, CHEM-413, CHEM-433"
+STU01135,67,Chemistry,BS in Chemistry,13,Promoted,2.24,2.99,
+STU01136,67,Chemistry,BS in Chemistry,14,Promoted,3.22,3.45,
+STU01137,67,Chemistry,BS in Chemistry,15,Promoted,3.38,3.4,
+STU01138,67,Chemistry,BS in Chemistry,16,Promoted,1.3,2.98,CHEM-412
+STU01139,67,Chemistry,BS in Chemistry,17,Promoted,2.62,3.12,
+STU01140,67,Chemistry,BS in Chemistry,18,Promoted,2.9,3.16,
+STU01141,67,Chemistry,BS in Chemistry,19,Promoted,2.88,2.89,
+STU01142,67,Chemistry,BS in Chemistry,20,Promoted,1.94,3.15,
+STU01143,67,Chemistry,BS in Chemistry,21,Promoted,2.4,3.22,
+STU01144,67,Chemistry,BS in Chemistry,22,Promoted,2.52,2.83,
+STU01145,67,Chemistry,BS in Chemistry,23,Promoted,2.62,3.19,
+STU01146,67,Chemistry,BS in Chemistry,24,Promoted,3.4,3.65,
+STU01147,67,Chemistry,BS in Chemistry,25,Promoted,2.07,2.68,CHEM-413
+STU01148,67,Chemistry,BS in Chemistry,26,Promoted,3.08,3.26,
+STU01149,67,Chemistry,BS in Chemistry,27,Promoted,2.45,2.82,
+STU01150,67,Chemistry,BS in Chemistry,28,Promoted,2.19,2.82,CHEM-414
+STU01151,67,Chemistry,BS in Chemistry,29,Promoted,2.32,3.05,
+STU01152,67,Chemistry,BS in Chemistry,30,Promoted,2.28,3.12,
+STU01153,67,Chemistry,BS in Chemistry,31,Promoted,3.28,3.31,
+STU01154,67,Chemistry,BS in Chemistry,32,Promoted,2.41,2.85,
+STU01155,67,Chemistry,BS in Chemistry,33,Promoted,2.32,2.38,
+STU01156,67,Chemistry,BS in Chemistry,34,Promoted,2.48,2.9,
+STU01157,67,Chemistry,BS in Chemistry,35,Promoted,2.39,3.01,
+STU01158,67,Chemistry,BS in Chemistry,36,Promoted,2.72,3.3,
+STU01159,67,Chemistry,BS in Chemistry,37,Promoted,1.94,2.81,CHEM-413
+STU01160,68,Chemistry,BS in Chemistry,1,Promoted,3.34,3.46,
+STU01161,68,Chemistry,BS in Chemistry,2,Promoted,2.48,2.87,
+STU01162,68,Chemistry,BS in Chemistry,3,Promoted,2.84,3.29,
+STU01163,68,Chemistry,BS in Chemistry,4,Promoted,2.42,3.0,CHEM-413
+STU01164,68,Chemistry,BS in Chemistry,5,Promoted,2.56,3.05,
+STU01165,68,Chemistry,BS in Chemistry,6,Promoted,3.26,3.42,
+STU01166,68,Chemistry,BS in Chemistry,7,Promoted,2.98,3.38,
+STU01167,68,Chemistry,BS in Chemistry,8,Promoted,3.82,3.59,
+STU01168,68,Chemistry,BS in Chemistry,9,Promoted,2.81,2.84,
+STU01169,68,Chemistry,BS in Chemistry,10,Promoted,2.42,2.93,
+STU01170,68,Chemistry,BS in Chemistry,11,Promoted,3.36,3.36,
+STU01171,68,Chemistry,BS in Chemistry,12,Promoted,3.34,3.56,
+STU01172,68,Chemistry,BS in Chemistry,13,Promoted,1.99,2.37,CHEM-414
+STU01173,68,Chemistry,BS in Chemistry,14,Promoted,2.58,3.12,
+STU01174,69,Chemistry,BS in Chemistry,1,Promoted,1.53,2.32,"CHEM-413, CHEM-414"
+STU01175,70,Chemistry,BS in Chemistry,1,Promoted,2.93,3.37,
+STU01176,70,Chemistry,BS in Chemistry,2,Promoted,2.25,2.48,CHEM-311
+STU01177,70,Chemistry,BS in Chemistry,3,Promoted,3.33,3.43,
+STU01178,70,Chemistry,BS in Chemistry,4,Promoted,2.51,3.12,CHEM-307
+STU01179,70,Chemistry,BS in Chemistry,5,Promoted,2.54,3.1,CHEM-311
+STU01180,70,Chemistry,BS in Chemistry,6,Promoted,2.88,3.0,
+STU01181,70,Chemistry,BS in Chemistry,7,Promoted,2.93,3.16,
+STU01182,70,Chemistry,BS in Chemistry,8,Promoted,2.33,2.58,
+STU01183,70,Chemistry,BS in Chemistry,9,Promoted,2.65,2.85,CHEM-311
+STU01184,70,Chemistry,BS in Chemistry,10,Promoted,3.59,3.35,
+STU01185,70,Chemistry,BS in Chemistry,11,Promoted,3.49,3.24,
+STU01186,70,Chemistry,BS in Chemistry,12,Promoted,2.56,2.35,
+STU01187,70,Chemistry,BS in Chemistry,13,Promoted,2.59,2.78,CHEM-307
+STU01188,70,Chemistry,BS in Chemistry,14,Promoted,3.36,3.38,
+STU01189,70,Chemistry,BS in Chemistry,15,Promoted,3.49,3.15,
+STU01190,70,Chemistry,BS in Chemistry,16,Promoted,1.46,1.99,"BOT-103, CHEM-307, CHEM-311"
+STU01191,70,Chemistry,BS in Chemistry,17,Promoted,1.92,2.11,"CHEM-307, CHEM-311"
+STU01192,70,Chemistry,BS in Chemistry,18,Promoted,2.91,3.39,CHEM-307
+STU01193,70,Chemistry,BS in Chemistry,19,Promoted,3.64,3.3,
+STU01194,70,Chemistry,BS in Chemistry,20,Promoted,2.93,2.98,
+STU01195,70,Chemistry,BS in Chemistry,21,Promoted,3.36,3.16,
+STU01196,70,Chemistry,BS in Chemistry,22,Promoted,3.15,2.83,
+STU01197,70,Chemistry,BS in Chemistry,23,Promoted,2.8,3.34,
+STU01198,70,Chemistry,BS in Chemistry,24,Promoted,2.58,2.68,CHEM-307
+STU01199,70,Chemistry,BS in Chemistry,25,Promoted,3.55,3.23,
+STU01200,70,Chemistry,BS in Chemistry,26,Promoted,2.37,2.66,"CHEM-307, CHEM-311"
+STU01201,70,Chemistry,BS in Chemistry,27,Promoted,2.39,2.26,
+STU01202,70,Chemistry,BS in Chemistry,28,Promoted,1.89,2.1,"CHEM-307, CHEM-311"
+STU01203,70,Chemistry,BS in Chemistry,29,Promoted,2.46,2.61,CHEM-307
+STU01204,70,Chemistry,BS in Chemistry,30,Promoted,3.76,3.47,
+STU01205,70,Chemistry,BS in Chemistry,31,Promoted,2.48,2.66,"CHEM-307, CHEM-311"
+STU01206,70,Chemistry,BS in Chemistry,32,Promoted,2.7,2.6,CHEM-307
+STU01207,70,Chemistry,BS in Chemistry,33,Promoted,3.34,3.04,
+STU01208,70,Chemistry,BS in Chemistry,34,Promoted,2.26,2.79,"CHEM-307, CHEM-311"
+STU01209,70,Chemistry,BS in Chemistry,35,Promoted,2.48,2.74,
+STU01210,70,Chemistry,BS in Chemistry,36,Promoted,3.4,3.29,
+STU01211,71,Chemistry,BS in Chemistry,1,Promoted,3.85,3.76,
+STU01212,71,Chemistry,BS in Chemistry,2,Promoted,3.02,3.22,
+STU01213,71,Chemistry,BS in Chemistry,3,Promoted,3.18,3.51,
+STU01214,71,Chemistry,BS in Chemistry,4,Promoted,3.49,3.33,
+STU01215,71,Chemistry,BS in Chemistry,5,Promoted,3.25,3.29,
+STU01216,71,Chemistry,BS in Chemistry,6,Promoted,3.63,3.63,
+STU01217,71,Chemistry,BS in Chemistry,7,Promoted,3.4,3.5,
+STU01218,71,Chemistry,BS in Chemistry,8,Promoted,3.78,3.75,
+STU01219,71,Chemistry,BS in Chemistry,9,Promoted,3.53,3.42,
+STU01220,71,Chemistry,BS in Chemistry,10,Promoted,3.66,3.54,
+STU01221,71,Chemistry,BS in Chemistry,11,Promoted,3.64,3.73,
+STU01222,71,Chemistry,BS in Chemistry,12,Promoted,2.66,2.96,
+STU01223,71,Chemistry,BS in Chemistry,13,Promoted,3.37,3.42,
+STU01224,71,Chemistry,BS in Chemistry,14,Promoted,3.63,3.54,
+STU01225,71,Chemistry,BS in Chemistry,15,Promoted,3.27,3.39,
+STU01226,71,Chemistry,BS in Chemistry,16,Promoted,3.1,3.14,
+STU01227,71,Chemistry,BS in Chemistry,17,Promoted,2.58,2.86,
+STU01228,71,Chemistry,BS in Chemistry,18,Promoted,3.08,3.46,
+STU01229,71,Chemistry,BS in Chemistry,19,Promoted,3.33,3.58,
+STU01230,71,Chemistry,BS in Chemistry,20,Promoted,3.07,3.16,
+STU01231,71,Chemistry,BS in Chemistry,21,Promoted,3.05,3.26,
+STU01232,71,Chemistry,BS in Chemistry,22,Promoted,2.78,3.35,
+STU01233,71,Chemistry,BS in Chemistry,23,Promoted,2.69,2.96,
+STU01234,71,Chemistry,BS in Chemistry,24,Promoted,2.53,2.61,
+STU01235,71,Chemistry,BS in Chemistry,25,Promoted,2.71,2.96,
+STU01236,71,Chemistry,BS in Chemistry,26,Promoted,3.64,3.43,
+STU01237,72,Chemistry,BS in Chemistry,1,Promoted,3.43,3.39,
+STU01238,72,Chemistry,BS in Chemistry,2,Promoted,2.87,2.93,
+STU01239,72,Chemistry,BS in Chemistry,3,Promoted,3.42,3.26,
+STU01240,72,Chemistry,BS in Chemistry,4,Promoted,2.1,2.19,CHEM-114
+STU01241,72,Chemistry,BS in Chemistry,5,Promoted,2.39,2.44,CHEM-115
+STU01242,72,Chemistry,BS in Chemistry,6,Promoted,3.71,3.7,
+STU01243,72,Chemistry,BS in Chemistry,7,Promoted,3.86,3.77,
+STU01244,72,Chemistry,BS in Chemistry,8,Promoted,2.68,2.63,
+STU01245,72,Chemistry,BS in Chemistry,9,Promoted,3.19,3.18,
+STU01246,72,Chemistry,BS in Chemistry,10,Promoted,3.39,3.36,
+STU01247,72,Chemistry,BS in Chemistry,11,Promoted,2.57,2.93,
+STU01248,72,Chemistry,BS in Chemistry,12,Promoted,3.59,3.62,
+STU01249,72,Chemistry,BS in Chemistry,13,Promoted,3.76,3.81,
+STU01250,72,Chemistry,BS in Chemistry,14,Promoted,3.43,3.62,
+STU01251,72,Chemistry,BS in Chemistry,15,Promoted,3.14,3.34,
+STU01252,72,Chemistry,BS in Chemistry,16,Promoted,2.81,2.99,
+STU01253,73,Economics,BS in Economics,1,Promoted,0.0,2.71,ECO-355
+STU01254,74,Economics,BS in Economics,1,Promoted,3.57,2.9,
+STU01255,75,Economics,BS in Economics,1,Promoted,3.4,2.31,
+STU01256,75,Economics,BS in Economics,2,Promoted,4.0,2.4,
+STU01257,75,Economics,BS in Economics,3,Promoted,2.45,2.3,ECO-355
+STU01258,76,Economics,BS in Economics,1,Promoted,1.79,2.17,IR-101
+STU01259,76,Economics,BS in Economics,2,Promoted,3.68,2.96,
+STU01260,76,Economics,BS in Economics,3,Promoted,3.68,3.09,
+STU01261,76,Economics,BS in Economics,4,Promoted,3.58,3.05,
+STU01262,76,Economics,BS in Economics,5,Promoted,3.62,2.84,
+STU01263,76,Economics,BS in Economics,6,Promoted,3.44,2.65,
+STU01264,76,Economics,BS in Economics,7,Promoted,3.62,2.96,
+STU01265,76,Economics,BS in Economics,8,Promoted,2.55,2.5,ECO-360
+STU01266,76,Economics,BS in Economics,9,Promoted,3.76,3.22,
+STU01267,76,Economics,BS in Economics,10,Promoted,3.5,3.04,
+STU01268,76,Economics,BS in Economics,11,Promoted,3.2,2.69,
+STU01269,76,Economics,BS in Economics,12,Promoted,3.7,2.8,
+STU01270,76,Economics,BS in Economics,13,Promoted,3.34,2.68,
+STU01271,76,Economics,BS in Economics,14,Promoted,3.7,3.26,
+STU01272,76,Economics,BS in Economics,15,Promoted,3.6,3.1,
+STU01273,76,Economics,BS in Economics,16,Promoted,3.46,2.82,
+STU01274,76,Economics,BS in Economics,17,Promoted,3.42,2.78,
+STU01275,76,Economics,BS in Economics,18,Promoted,3.4,2.77,
+STU01276,76,Economics,BS in Economics,19,Promoted,3.48,2.57,
+STU01277,76,Economics,BS in Economics,20,Promoted,3.17,2.72,
+STU01278,76,Economics,BS in Economics,21,Promoted,3.27,2.4,
+STU01279,76,Economics,BS in Economics,22,Promoted,3.5,2.59,
+STU01280,77,Economics,BS in Economics,1,Promoted,3.57,3.15,
+STU01281,77,Economics,BS in Economics,2,Promoted,3.68,3.16,
+STU01282,77,Economics,BS in Economics,3,Promoted,3.48,3.28,
+STU01283,77,Economics,BS in Economics,4,Promoted,3.54,3.08,
+STU01284,77,Economics,BS in Economics,5,Promoted,3.3,2.65,
+STU01285,77,Economics,BS in Economics,6,Promoted,3.62,3.48,
+STU01286,77,Economics,BS in Economics,7,Promoted,3.6,3.14,
+STU01287,77,Economics,BS in Economics,8,Promoted,3.52,2.61,
+STU01288,77,Economics,BS in Economics,9,Promoted,3.76,3.1,
+STU01289,77,Economics,BS in Economics,10,Promoted,3.6,2.59,
+STU01290,77,Economics,BS in Economics,11,Promoted,3.47,2.31,
+STU01291,77,Economics,BS in Economics,12,Promoted,3.68,3.08,
+STU01292,77,Economics,BS in Economics,13,Promoted,3.68,3.14,
+STU01293,77,Economics,BS in Economics,14,Promoted,3.5,2.34,
+STU01294,77,Economics,BS in Economics,15,Promoted,3.24,2.0,
+STU01295,77,Economics,BS in Economics,16,Promoted,3.17,2.38,
+STU01296,77,Economics,BS in Economics,17,Promoted,3.62,2.93,
+STU01297,77,Economics,BS in Economics,18,Promoted,3.52,3.27,
+STU01298,77,Economics,BS in Economics,19,Promoted,3.64,3.18,
+STU01299,77,Economics,BS in Economics,20,Promoted,3.56,2.82,
+STU01300,77,Economics,BS in Economics,21,Promoted,3.43,2.27,
+STU01301,77,Economics,BS in Economics,22,Promoted,3.26,2.28,
+STU01302,77,Economics,BS in Economics,23,Promoted,3.38,2.58,
+STU01303,77,Economics,BS in Economics,24,Promoted,3.82,3.35,
+STU01304,77,Economics,BS in Economics,25,Promoted,3.56,2.93,
+STU01305,77,Economics,BS in Economics,26,Promoted,3.07,2.49,
+STU01306,77,Economics,BS in Economics,27,Promoted,3.34,3.32,
+STU01307,77,Economics,BS in Economics,28,Promoted,3.07,2.03,
+STU01308,77,Economics,BS in Economics,29,Promoted,3.27,2.37,
+STU01309,77,Economics,BS in Economics,30,Promoted,3.68,3.01,
+STU01310,77,Economics,BS in Economics,31,Promoted,3.68,3.11,
+STU01311,78,Economics,BS in Economics,1,Promoted,3.49,2.47,
+STU01312,79,Economics,BS in Economics,1,Promoted,3.39,2.22,
+STU01313,79,Economics,BS in Economics,2,Promoted,3.26,2.23,
+STU01314,80,Economics,BS in Economics,1,Promoted,3.16,3.11,
+STU01315,80,Economics,BS in Economics,2,Promoted,3.58,3.22,
+STU01316,80,Economics,BS in Economics,3,Promoted,3.18,3.3,
+STU01317,80,Economics,BS in Economics,4,Promoted,3.5,3.02,
+STU01318,80,Economics,BS in Economics,5,Promoted,3.36,3.58,
+STU01319,80,Economics,BS in Economics,6,Promoted,2.75,2.35,
+STU01320,80,Economics,BS in Economics,7,Promoted,2.9,3.21,
+STU01321,80,Economics,BS in Economics,8,Promoted,3.28,2.81,
+STU01322,80,Economics,BS in Economics,9,Promoted,2.68,2.57,
+STU01323,80,Economics,BS in Economics,10,Promoted,2.57,2.15,
+STU01324,80,Economics,BS in Economics,11,Promoted,2.7,2.74,
+STU01325,80,Economics,BS in Economics,12,Promoted,3.26,3.38,
+STU01326,80,Economics,BS in Economics,13,Promoted,2.5,2.06,
+STU01327,80,Economics,BS in Economics,14,Promoted,2.18,1.76,ECO-357
+STU01328,80,Economics,BS in Economics,15,Promoted,3.22,2.96,
+STU01329,80,Economics,BS in Economics,16,Promoted,3.76,3.65,
+STU01330,81,Economics,BS in Economics,1,Promoted,3.64,3.37,
+STU01331,82,Economics,BS in Economics,1,Promoted,3.33,3.11,
+STU01332,82,Economics,BS in Economics,2,Promoted,2.98,2.52,
+STU01333,82,Economics,BS in Economics,3,Promoted,3.55,2.8,
+STU01334,82,Economics,BS in Economics,4,Promoted,3.8,3.32,
+STU01335,82,Economics,BS in Economics,5,Promoted,3.26,2.65,
+STU01336,82,Economics,BS in Economics,6,Promoted,3.2,2.48,
+STU01337,82,Economics,BS in Economics,7,Promoted,3.5,2.95,
+STU01338,82,Economics,BS in Economics,8,Promoted,3.44,2.65,
+STU01339,82,Economics,BS in Economics,9,Promoted,3.26,2.78,
+STU01340,82,Economics,BS in Economics,10,Promoted,2.0,2.25,
+STU01341,82,Economics,BS in Economics,11,Promoted,3.58,2.63,
+STU01342,82,Economics,BS in Economics,12,Promoted,3.51,2.83,
+STU01343,82,Economics,BS in Economics,13,Promoted,2.64,2.33,
+STU01344,82,Economics,BS in Economics,14,Promoted,3.5,3.39,
+STU01345,82,Economics,BS in Economics,15,Promoted,3.5,3.24,
+STU01346,82,Economics,BS in Economics,16,Promoted,3.32,2.34,
+STU01347,82,Economics,BS in Economics,17,Promoted,3.28,3.04,
+STU01348,82,Economics,BS in Economics,18,Promoted,3.58,2.79,
+STU01349,82,Economics,BS in Economics,19,Promoted,3.26,2.9,
+STU01350,82,Economics,BS in Economics,20,Promoted,3.0,2.78,
+STU01351,82,Economics,BS in Economics,21,Promoted,3.52,3.24,
+STU01352,82,Economics,BS in Economics,22,Promoted,3.44,3.1,
+STU01353,82,Economics,BS in Economics,23,Promoted,2.83,2.32,
+STU01354,82,Economics,BS in Economics,24,Promoted,3.64,3.33,
+STU01355,82,Economics,BS in Economics,25,Promoted,3.05,2.68,
+STU01356,82,Economics,BS in Economics,26,Promoted,3.82,3.42,
+STU01357,82,Economics,BS in Economics,27,Promoted,2.67,2.5,
+STU01358,82,Economics,BS in Economics,28,Promoted,3.16,2.74,
+STU01359,82,Economics,BS in Economics,29,Promoted,3.52,3.23,
+STU01360,82,Economics,BS in Economics,30,Promoted,1.4,1.68,"ECO-251, POL-101"
+STU01361,82,Economics,BS in Economics,31,Promoted,2.86,2.44,
+STU01362,83,Economics,BS in Economics,1,Promoted,2.75,2.35,
+STU01363,83,Economics,BS in Economics,2,Promoted,1.88,1.99,
+STU01364,83,Economics,BS in Economics,3,Dropped,0.5,1.46,"ECO-208, ECO-251, IR-101, POL- 101"
+STU01365,83,Economics,BS in Economics,4,Promoted,2.08,2.09,POL-101
+STU01366,84,Economics,BS in Economics,1,Promoted,3.25,2.91,
+STU01367,84,Economics,BS in Economics,2,Promoted,2.54,2.28,
+STU01368,84,Economics,BS in Economics,3,Promoted,3.73,3.8,
+STU01369,84,Economics,BS in Economics,4,Promoted,2.27,2.12,GE-205
+STU01370,84,Economics,BS in Economics,5,Promoted,2.69,2.57,GE-205
+STU01371,84,Economics,BS in Economics,6,Promoted,2.86,2.64,
+STU01372,84,Economics,BS in Economics,7,Promoted,2.09,1.81,"GE-102, GE-205"
+STU01373,84,Economics,BS in Economics,8,Promoted,2.47,2.45,
+STU01374,84,Economics,BS in Economics,9,Promoted,3.56,3.4,
+STU01375,84,Economics,BS in Economics,10,Promoted,3.12,2.96,
+STU01376,84,Economics,BS in Economics,11,Promoted,2.79,2.69,
+STU01377,84,Economics,BS in Economics,12,Promoted,3.78,3.79,
+STU01378,84,Economics,BS in Economics,13,Promoted,3.38,3.5,
+STU01379,84,Economics,BS in Economics,14,Promoted,3.6,3.5,
+STU01380,84,Economics,BS in Economics,15,Promoted,3.45,3.43,
+STU01381,84,Economics,BS in Economics,16,Promoted,3.45,3.54,
+STU01382,84,Economics,BS in Economics,17,Promoted,3.36,3.06,
+STU01383,84,Economics,BS in Economics,18,Promoted,3.26,3.13,
+STU01384,84,Economics,BS in Economics,19,Promoted,3.21,3.02,
+STU01385,84,Economics,BS in Economics,20,Promoted,2.97,2.42,
+STU01386,84,Economics,BS in Economics,21,Promoted,3.14,3.01,
+STU01387,84,Economics,BS in Economics,22,Promoted,3.38,3.16,
+STU01388,84,Economics,BS in Economics,23,Promoted,3.6,3.54,
+STU01389,84,Economics,BS in Economics,24,Promoted,2.64,2.53,
+STU01390,84,Economics,BS in Economics,25,Promoted,2.92,2.26,
+STU01391,84,Economics,BS in Economics,26,Promoted,2.15,1.83,GE-102
+STU01392,84,Economics,BS in Economics,27,Promoted,3.11,2.49,
+STU01393,84,Economics,BS in Economics,28,Promoted,3.07,3.07,
+STU01394,84,Economics,BS in Economics,29,Promoted,3.18,3.13,
+STU01395,84,Economics,BS in Economics,30,Promoted,3.65,3.52,
+STU01396,84,Economics,BS in Economics,31,Promoted,2.68,2.33,
+STU01397,84,Economics,BS in Economics,32,Promoted,2.92,2.93,
+STU01398,84,Economics,BS in Economics,33,Dropped,0.57,1.4,"ECO-103, GE-102, GE-106, GE-205, GE-206"
+STU01399,84,Economics,BS in Economics,34,Promoted,1.88,1.91,ECO-103
+STU01400,84,Economics,BS in Economics,35,Promoted,2.76,2.44,
+STU01401,84,Economics,BS in Economics,36,Promoted,2.93,2.9,
+STU01402,84,Economics,BS in Economics,37,Promoted,3.26,2.93,
+STU01403,84,Economics,BS in Economics,38,Promoted,3.35,3.12,
+STU01404,84,Economics,BS in Economics,39,Promoted,2.62,2.44,
+STU01405,84,Economics,BS in Economics,40,Promoted,3.45,3.11,
+STU01406,84,Economics,BS in Economics,41,Promoted,3.41,3.19,
+STU01407,84,Economics,BS in Economics,42,Promoted,3.2,2.96,
+STU01408,84,Economics,BS in Economics,43,Promoted,2.68,2.47,
+STU01409,84,Economics,BS in Economics,44,Promoted,2.59,2.29,GE-205
+STU01410,84,Economics,BS in Economics,45,Promoted,3.36,3.19,
+STU01411,84,Economics,BS in Economics,46,Promoted,3.01,2.86,
+STU01412,84,Economics,BS in Economics,47,Promoted,3.02,2.54,
+STU01413,85,Economics,BS in Economics,48,Promoted,3.01,2.78,
+STU01414,85,Economics,BS in Economics,49,Promoted,3.39,3.08,
+STU01415,85,Economics,BS in Economics,50,Promoted,2.56,2.16,GE-205
+STU01416,85,Economics,BS in Economics,51,Promoted,2.32,2.26,GE-205
+STU01417,85,Economics,BS in Economics,52,Promoted,3.19,3.34,
+STU01418,85,Economics,BS in Economics,53,Promoted,1.79,1.96,GE-205
+STU01419,86,Economics,BS in Economics,1,Promoted,1.76,1.76,
+STU01420,87,Islamic Studies,BS in Islamic Studies,1,Promoted,3.28,,
+STU01421,88,Islamic Studies,BS in Islamic Studies,1,Promoted,1.0,2.94,
+STU01422,88,Islamic Studies,BS in Islamic Studies,2,Promoted,2.95,2.62,
+STU01423,88,Islamic Studies,BS in Islamic Studies,3,Promoted,2.0,3.14,
+STU01424,89,Islamic Studies,BS in Islamic Studies,1,Promoted,4.0,3.13,
+STU01425,89,Islamic Studies,BS in Islamic Studies,2,Promoted,3.7,2.42,
+STU01426,90,Islamic Studies,BS in Islamic Studies,1,Promoted,3.68,3.02,
+STU01427,91,Islamic Studies,BS in Islamic Studies,1,Promoted,2.0,3.02,
+STU01428,91,Islamic Studies,BS in Islamic Studies,2,Promoted,3.14,3.22,
+STU01429,92,Islamic Studies,BS in Islamic Studies,1,Promoted,3.59,3.28,
+STU01430,92,Islamic Studies,BS in Islamic Studies,2,Promoted,3.41,3.19,
+STU01431,92,Islamic Studies,BS in Islamic Studies,3,Promoted,3.44,3.03,
+STU01432,92,Islamic Studies,BS in Islamic Studies,4,Promoted,3.17,3.34,STAT-101
+STU01433,92,Islamic Studies,BS in Islamic Studies,5,Promoted,3.74,3.25,
+STU01434,92,Islamic Studies,BS in Islamic Studies,6,Promoted,3.69,3.1,
+STU01435,92,Islamic Studies,BS in Islamic Studies,7,Promoted,3.7,3.05,
+STU01436,92,Islamic Studies,BS in Islamic Studies,8,Promoted,3.86,3.35,
+STU01437,93,Islamic Studies,BS in Islamic Studies,1,Promoted,3.96,3.41,
+STU01438,93,Islamic Studies,BS in Islamic Studies,2,Promoted,3.61,2.94,
+STU01439,93,Islamic Studies,BS in Islamic Studies,3,Promoted,3.6,2.88,
+STU01440,93,Islamic Studies,BS in Islamic Studies,4,Promoted,3.87,2.92,
+STU01441,93,Islamic Studies,BS in Islamic Studies,5,Promoted,3.79,3.04,
+STU01442,93,Islamic Studies,BS in Islamic Studies,6,Promoted,3.7,3.21,
+STU01443,93,Islamic Studies,BS in Islamic Studies,7,Promoted,3.3,2.78,
+STU01444,93,Islamic Studies,BS in Islamic Studies,8,Promoted,3.63,3.34,
+STU01445,93,Islamic Studies,BS in Islamic Studies,9,Promoted,0.0,2.08,"ISL-314, ISL-409, ISL-410, ISL-422, ISL-423, ISL- 424, STAT-101"
+STU01446,93,Islamic Studies,BS in Islamic Studies,10,Promoted,3.51,3.25,
+STU01447,93,Islamic Studies,BS in Islamic Studies,11,Promoted,3.6,3.39,
+STU01448,93,Islamic Studies,BS in Islamic Studies,12,Promoted,3.83,2.96,
+STU01449,93,Islamic Studies,BS in Islamic Studies,13,Promoted,3.91,3.49,
+STU01450,93,Islamic Studies,BS in Islamic Studies,14,Promoted,3.87,3.32,
+STU01451,93,Islamic Studies,BS in Islamic Studies,15,Promoted,3.57,3.01,
+STU01452,93,Islamic Studies,BS in Islamic Studies,16,Promoted,3.11,2.93,
+STU01453,93,Islamic Studies,BS in Islamic Studies,17,Promoted,3.67,3.17,
+STU01454,93,Islamic Studies,BS in Islamic Studies,18,Promoted,3.33,2.86,
+STU01455,93,Islamic Studies,BS in Islamic Studies,19,Promoted,2.77,2.87,STAT-101
+STU01456,93,Islamic Studies,BS in Islamic Studies,20,Promoted,3.16,2.82,STAT-101
+STU01457,93,Islamic Studies,BS in Islamic Studies,21,Promoted,3.3,2.68,
+STU01458,93,Islamic Studies,BS in Islamic Studies,22,Promoted,3.47,2.77,
+STU01459,93,Islamic Studies,BS in Islamic Studies,23,Promoted,3.79,2.97,
+STU01460,93,Islamic Studies,BS in Islamic Studies,24,Promoted,3.43,2.94,
+STU01461,93,Islamic Studies,BS in Islamic Studies,25,Promoted,3.27,2.53,
+STU01462,93,Islamic Studies,BS in Islamic Studies,26,Promoted,3.81,3.55,
+STU01463,93,Islamic Studies,BS in Islamic Studies,27,Promoted,3.74,3.1,
+STU01464,93,Islamic Studies,BS in Islamic Studies,28,Promoted,3.6,3.03,
+STU01465,94,Islamic Studies,BS in Islamic Studies,1,Promoted,3.07,2.64,STAT-101
+STU01466,94,Islamic Studies,BS in Islamic Studies,2,Promoted,3.33,2.76,
+STU01467,94,Islamic Studies,BS in Islamic Studies,3,Promoted,3.49,2.66,
+STU01468,94,Islamic Studies,BS in Islamic Studies,4,Promoted,3.7,3.02,
+STU01469,95,Islamic Studies,BS in Islamic Studies,1,Promoted,3.8,3.51,
+STU01470,95,Islamic Studies,BS in Islamic Studies,2,Promoted,3.73,3.44,
+STU01471,95,Islamic Studies,BS in Islamic Studies,3,Promoted,3.68,3.3,
+STU01472,95,Islamic Studies,BS in Islamic Studies,4,Promoted,3.85,3.57,
+STU01473,95,Islamic Studies,BS in Islamic Studies,5,Promoted,3.4,3.41,
+STU01474,95,Islamic Studies,BS in Islamic Studies,6,Promoted,3.85,3.73,
+STU01475,95,Islamic Studies,BS in Islamic Studies,7,Promoted,3.09,3.21,GE-205
+STU01476,95,Islamic Studies,BS in Islamic Studies,8,Promoted,3.58,3.21,
+STU01477,95,Islamic Studies,BS in Islamic Studies,9,Promoted,3.6,3.54,
+STU01478,95,Islamic Studies,BS in Islamic Studies,10,Promoted,2.67,2.52,
+STU01479,95,Islamic Studies,BS in Islamic Studies,11,Promoted,3.14,3.12,
+STU01480,95,Islamic Studies,BS in Islamic Studies,12,Promoted,2.64,2.91,GE-104
+STU01481,95,Islamic Studies,BS in Islamic Studies,13,Promoted,3.63,3.38,
+STU01482,95,Islamic Studies,BS in Islamic Studies,14,Promoted,3.78,3.43,
+STU01483,95,Islamic Studies,BS in Islamic Studies,15,Promoted,3.73,3.49,
+STU01484,95,Islamic Studies,BS in Islamic Studies,16,Promoted,3.68,3.55,
+STU01485,96,Islamic Studies,BS in Islamic Studies,1,Promoted,2.82,2.45,
+STU01486,96,Islamic Studies,BS in Islamic Studies,2,Promoted,2.64,2.34,
+STU01487,96,Islamic Studies,BS in Islamic Studies,3,Promoted,3.42,2.67,
+STU01488,96,Islamic Studies,BS in Islamic Studies,4,Promoted,3.27,2.85,
+STU01489,96,Islamic Studies,BS in Islamic Studies,5,Promoted,3.8,3.46,
+STU01490,96,Islamic Studies,BS in Islamic Studies,6,Promoted,2.46,2.21,GE-202
+STU01491,96,Islamic Studies,BS in Islamic Studies,7,Promoted,3.35,2.84,
+STU01492,96,Islamic Studies,BS in Islamic Studies,8,Promoted,3.27,2.95,
+STU01493,96,Islamic Studies,BS in Islamic Studies,9,Promoted,3.33,2.61,
+STU01494,96,Islamic Studies,BS in Islamic Studies,10,Promoted,3.68,2.75,
+STU01495,96,Islamic Studies,BS in Islamic Studies,11,Promoted,3.58,2.47,
+STU01496,96,Islamic Studies,BS in Islamic Studies,12,Promoted,3.57,2.52,
+STU01497,96,Islamic Studies,BS in Islamic Studies,13,Promoted,3.48,2.63,
+STU01498,96,Islamic Studies,BS in Islamic Studies,14,Promoted,3.8,3.17,
+STU01499,96,Islamic Studies,BS in Islamic Studies,15,Promoted,2.55,2.54,
+STU01500,96,Islamic Studies,BS in Islamic Studies,16,Promoted,2.96,2.27,
+STU01501,96,Islamic Studies,BS in Islamic Studies,17,Promoted,2.99,2.57,
+STU01502,96,Islamic Studies,BS in Islamic Studies,18,Promoted,3.23,2.6,
+STU01503,97,Islamic Studies,BS in Islamic Studies,1,Promoted,1.81,2.1,"ISL-216, ISL-217"
+STU01504,98,Islamic Studies,BS in Islamic Studies,1,Promoted,3.1,3.13,GE-205
+STU01505,98,Islamic Studies,BS in Islamic Studies,2,Promoted,2.53,2.85,GE-205
+STU01506,98,Islamic Studies,BS in Islamic Studies,3,Promoted,3.01,3.11,
+STU01507,98,Islamic Studies,BS in Islamic Studies,4,Promoted,1.84,2.24,"GE-102, GE-205"
+STU01508,98,Islamic Studies,BS in Islamic Studies,5,Promoted,3.67,3.56,
+STU01509,98,Islamic Studies,BS in Islamic Studies,6,Promoted,3.75,3.6,
+STU01510,98,Islamic Studies,BS in Islamic Studies,7,Promoted,1.76,1.94,"GE-205, ISL-213"
+STU01511,98,Islamic Studies,BS in Islamic Studies,8,Promoted,2.99,3.01,
+STU01512,98,Islamic Studies,BS in Islamic Studies,9,Promoted,3.59,3.56,
+STU01513,98,Islamic Studies,BS in Islamic Studies,10,Promoted,2.31,2.7,
+STU01514,98,Islamic Studies,BS in Islamic Studies,11,Promoted,2.39,2.39,
+STU01515,98,Islamic Studies,BS in Islamic Studies,12,Promoted,3.03,2.86,
+STU01516,98,Islamic Studies,BS in Islamic Studies,13,Promoted,2.04,2.16,GE-205
+STU01517,98,Islamic Studies,BS in Islamic Studies,14,Promoted,2.57,2.99,
+STU01518,98,Islamic Studies,BS in Islamic Studies,15,Promoted,3.29,3.43,
+STU01519,98,Islamic Studies,BS in Islamic Studies,16,Promoted,3.32,3.23,
+STU01520,98,Islamic Studies,BS in Islamic Studies,17,Promoted,2.89,3.2,GE-205
+STU01521,98,Islamic Studies,BS in Islamic Studies,18,Promoted,3.45,3.58,
+STU01522,98,Islamic Studies,BS in Islamic Studies,19,Promoted,3.46,3.51,
+STU01523,98,Islamic Studies,BS in Islamic Studies,20,Promoted,3.42,3.52,
+STU01524,98,Islamic Studies,BS in Islamic Studies,21,Promoted,2.87,3.22,GE-205
+STU01525,98,Islamic Studies,BS in Islamic Studies,22,Promoted,3.22,3.27,
+STU01526,98,Islamic Studies,BS in Islamic Studies,23,Promoted,2.35,2.78,GE-205
+STU01527,98,Islamic Studies,BS in Islamic Studies,24,Promoted,2.48,2.81,GE-205
+STU01528,98,Islamic Studies,BS in Islamic Studies,25,Promoted,2.55,3.02,
+STU01529,98,Islamic Studies,BS in Islamic Studies,26,Promoted,1.06,1.71,"GE-102, GE-106, GE-205, ISL-213"
+STU01530,98,Islamic Studies,BS in Islamic Studies,27,Promoted,2.45,2.82,
+STU01531,98,Islamic Studies,BS in Islamic Studies,28,Promoted,2.76,3.25,
+STU01532,98,Islamic Studies,BS in Islamic Studies,29,Promoted,2.19,2.7,GE-205
+STU01533,98,Islamic Studies,BS in Islamic Studies,30,Promoted,2.4,3.01,"GE-106, GE-205"
+STU01534,98,Islamic Studies,BS in Islamic Studies,31,Promoted,1.8,2.36,"GE-106, GE-205"
+STU01535,98,Islamic Studies,BS in Islamic Studies,32,Promoted,2.52,2.72,"GE-106, GE-205"
+STU01536,99,Islamic Studies,BS in Islamic Studies,1,Promoted,2.0,2.0,"GE-106, GE-205"
+STU01537,100,Mathematics,BS in Mathematics,1,Promoted,2.5,2.66,
+STU01538,101,Mathematics,BS in Mathematics,1,Promoted,3.12,2.49,
+STU01539,101,Mathematics,BS in Mathematics,2,Promoted,0.0,2.42,MATH-308
+STU01540,101,Mathematics,BS in Mathematics,3,Promoted,1.0,2.51,
+STU01541,101,Mathematics,BS in Mathematics,4,Promoted,3.55,2.34,
+STU01542,101,Mathematics,BS in Mathematics,5,Promoted,1.97,2.52,MATH-308
+STU01543,101,Mathematics,BS in Mathematics,6,Promoted,2.32,2.28,MATH-301
+STU01544,102,Mathematics,BS in Mathematics,1,Promoted,3.08,2.64,
+STU01545,102,Mathematics,BS in Mathematics,2,Promoted,4.0,2.95,
+STU01546,102,Mathematics,BS in Mathematics,3,Promoted,2.5,2.41,
+STU01547,102,Mathematics,BS in Mathematics,4,Promoted,1.5,2.32,
+STU01548,102,Mathematics,BS in Mathematics,5,Promoted,3.94,3.05,
+STU01549,103,Mathematics,BS in Mathematics,1,Promoted,3.25,2.66,
+STU01550,103,Mathematics,BS in Mathematics,2,Promoted,3.68,2.52,
+STU01551,104,Mathematics,BS in Mathematics,1,Promoted,3.5,3.01,
+STU01552,104,Mathematics,BS in Mathematics,2,Promoted,3.7,3.45,
+STU01553,104,Mathematics,BS in Mathematics,3,Promoted,3.94,3.36,
+STU01554,104,Mathematics,BS in Mathematics,4,Promoted,3.94,3.51,
+STU01555,104,Mathematics,BS in Mathematics,5,Promoted,3.7,3.16,
+STU01556,104,Mathematics,BS in Mathematics,6,Promoted,3.88,3.32,
+STU01557,104,Mathematics,BS in Mathematics,7,Promoted,3.88,3.36,
+STU01558,104,Mathematics,BS in Mathematics,8,Promoted,3.76,3.01,
+STU01559,104,Mathematics,BS in Mathematics,9,Promoted,3.62,2.33,
+STU01560,104,Mathematics,BS in Mathematics,10,Promoted,3.6,2.95,
+STU01561,104,Mathematics,BS in Mathematics,11,Promoted,3.95,3.57,
+STU01562,104,Mathematics,BS in Mathematics,12,Promoted,2.7,2.54,
+STU01563,104,Mathematics,BS in Mathematics,13,Promoted,2.67,2.2,MATH-301
+STU01564,105,Mathematics,BS in Mathematics,1,Promoted,4.0,3.88,
+STU01565,105,Mathematics,BS in Mathematics,2,Promoted,4.0,3.65,
+STU01566,105,Mathematics,BS in Mathematics,3,Promoted,3.4,3.49,
+STU01567,105,Mathematics,BS in Mathematics,4,Promoted,3.45,2.76,
+STU01568,105,Mathematics,BS in Mathematics,5,Promoted,3.68,3.23,
+STU01569,105,Mathematics,BS in Mathematics,6,Promoted,3.68,3.51,
+STU01570,105,Mathematics,BS in Mathematics,7,Promoted,3.94,3.7,
+STU01571,105,Mathematics,BS in Mathematics,8,Promoted,3.94,3.84,
+STU01572,105,Mathematics,BS in Mathematics,9,Promoted,3.33,2.35,
+STU01573,105,Mathematics,BS in Mathematics,10,Promoted,3.94,3.78,
+STU01574,105,Mathematics,BS in Mathematics,11,Promoted,3.7,2.76,
+STU01575,105,Mathematics,BS in Mathematics,12,Promoted,3.76,3.03,
+STU01576,105,Mathematics,BS in Mathematics,13,Promoted,3.94,3.28,
+STU01577,105,Mathematics,BS in Mathematics,14,Promoted,3.77,2.93,
+STU01578,105,Mathematics,BS in Mathematics,15,Promoted,3.9,3.58,
+STU01579,105,Mathematics,BS in Mathematics,16,Promoted,3.76,3.33,
+STU01580,105,Mathematics,BS in Mathematics,17,Promoted,3.65,3.14,
+STU01581,105,Mathematics,BS in Mathematics,18,Promoted,2.97,2.59,
+STU01582,105,Mathematics,BS in Mathematics,19,Promoted,4.0,3.54,
+STU01583,105,Mathematics,BS in Mathematics,20,Promoted,3.94,3.25,
+STU01584,105,Mathematics,BS in Mathematics,21,Promoted,3.66,2.81,
+STU01585,105,Mathematics,BS in Mathematics,22,Promoted,3.5,2.86,
+STU01586,105,Mathematics,BS in Mathematics,23,Promoted,3.82,3.37,
+STU01587,105,Mathematics,BS in Mathematics,24,Promoted,3.52,3.39,
+STU01588,105,Mathematics,BS in Mathematics,25,Promoted,3.53,2.77,
+STU01589,105,Mathematics,BS in Mathematics,26,Promoted,3.74,3.18,
+STU01590,105,Mathematics,BS in Mathematics,27,Promoted,3.94,3.29,
+STU01591,105,Mathematics,BS in Mathematics,28,Promoted,3.53,2.85,
+STU01592,105,Mathematics,BS in Mathematics,29,Promoted,3.59,2.94,
+STU01593,105,Mathematics,BS in Mathematics,30,Promoted,3.69,3.32,
+STU01594,105,Mathematics,BS in Mathematics,31,Promoted,3.42,2.84,
+STU01595,105,Mathematics,BS in Mathematics,32,Promoted,3.33,2.72,
+STU01596,105,Mathematics,BS in Mathematics,33,Promoted,3.55,2.41,
+STU01597,105,Mathematics,BS in Mathematics,34,Promoted,3.82,3.14,
+STU01598,105,Mathematics,BS in Mathematics,35,Promoted,3.82,3.06,
+STU01599,105,Mathematics,BS in Mathematics,36,Promoted,3.17,2.78,
+STU01600,106,Mathematics,BS in Mathematics,1,Promoted,2.57,2.58,
+STU01601,106,Mathematics,BS in Mathematics,2,Promoted,2.57,2.67,
+STU01602,106,Mathematics,BS in Mathematics,3,Promoted,2.33,2.44,
+STU01603,106,Mathematics,BS in Mathematics,4,Promoted,1.67,2.34,MATH-304
+STU01604,106,Mathematics,BS in Mathematics,5,Promoted,0.0,2.43,"MATH-302, MATH-304, MATH-310, MATH-311, MATH-319, MATH-320"
+STU01605,106,Mathematics,BS in Mathematics,6,Promoted,2.35,3.09,
+STU01606,106,Mathematics,BS in Mathematics,7,Promoted,2.93,2.84,
+STU01607,106,Mathematics,BS in Mathematics,8,Promoted,2.78,2.59,
+STU01608,106,Mathematics,BS in Mathematics,9,Promoted,2.42,2.85,
+STU01609,106,Mathematics,BS in Mathematics,10,Promoted,2.82,2.95,
+STU01610,106,Mathematics,BS in Mathematics,11,Promoted,3.22,3.38,
+STU01611,106,Mathematics,BS in Mathematics,12,Promoted,2.12,2.9,
+STU01612,106,Mathematics,BS in Mathematics,13,Promoted,3.85,3.55,
+STU01613,106,Mathematics,BS in Mathematics,14,Dropped,0.93,1.41,"MATH-302, MATH-304, MATH-320"
+STU01614,106,Mathematics,BS in Mathematics,15,Promoted,0.0,1.54,"MATH-102, MATH-302, MATH-304, MATH-310, MATH-311, MATH-319, MATH-320"
+STU01615,106,Mathematics,BS in Mathematics,16,Promoted,1.84,2.59,MATH-102
+STU01616,106,Mathematics,BS in Mathematics,17,Promoted,2.52,2.55,
+STU01617,106,Mathematics,BS in Mathematics,18,Promoted,2.45,2.78,
+STU01618,106,Mathematics,BS in Mathematics,19,Promoted,2.43,2.52,
+STU01619,106,Mathematics,BS in Mathematics,20,Promoted,2.65,2.71,
+STU01620,106,Mathematics,BS in Mathematics,21,Promoted,2.1,2.56,
+STU01621,106,Mathematics,BS in Mathematics,22,Promoted,3.73,3.55,
+STU01622,106,Mathematics,BS in Mathematics,23,Promoted,2.15,1.79,
+STU01623,106,Mathematics,BS in Mathematics,24,Promoted,3.17,2.86,
+STU01624,106,Mathematics,BS in Mathematics,25,Promoted,2.73,2.63,
+STU01625,107,Mathematics,BS in Mathematics,1,Promoted,2.25,1.9,
+STU01626,108,Mathematics,BS in Mathematics,1,Promoted,3.65,3.25,
+STU01627,108,Mathematics,BS in Mathematics,2,Promoted,3.47,2.92,
+STU01628,108,Mathematics,BS in Mathematics,3,Promoted,3.25,2.99,
+STU01629,108,Mathematics,BS in Mathematics,4,Promoted,3.3,3.12,
+STU01630,108,Mathematics,BS in Mathematics,5,Promoted,3.26,3.1,
+STU01631,108,Mathematics,BS in Mathematics,6,Promoted,3.38,3.33,
+STU01632,108,Mathematics,BS in Mathematics,7,Promoted,3.59,3.1,
+STU01633,108,Mathematics,BS in Mathematics,8,Promoted,3.34,3.04,
+STU01634,108,Mathematics,BS in Mathematics,9,Promoted,3.39,2.69,
+STU01635,108,Mathematics,BS in Mathematics,10,Promoted,3.34,3.08,
+STU01636,108,Mathematics,BS in Mathematics,11,Promoted,2.66,2.45,PHYS-103
+STU01637,108,Mathematics,BS in Mathematics,12,Promoted,3.66,3.56,
+STU01638,108,Mathematics,BS in Mathematics,13,Promoted,3.65,3.3,
+STU01639,108,Mathematics,BS in Mathematics,14,Promoted,3.14,3.06,
+STU01640,108,Mathematics,BS in Mathematics,15,Promoted,3.52,3.49,
+STU01641,108,Mathematics,BS in Mathematics,16,Promoted,3.23,3.0,
+STU01642,108,Mathematics,BS in Mathematics,17,Promoted,3.21,2.83,
+STU01643,108,Mathematics,BS in Mathematics,18,Promoted,3.7,3.51,
+STU01644,108,Mathematics,BS in Mathematics,19,Promoted,3.03,3.14,
+STU01645,108,Mathematics,BS in Mathematics,20,Promoted,3.7,3.36,
+STU01646,108,Mathematics,BS in Mathematics,21,Promoted,3.81,3.47,
+STU01647,108,Mathematics,BS in Mathematics,22,Promoted,3.54,3.27,
+STU01648,108,Mathematics,BS in Mathematics,23,Promoted,2.84,3.01,
+STU01649,108,Mathematics,BS in Mathematics,24,Promoted,2.81,2.85,
+STU01650,108,Mathematics,BS in Mathematics,25,Promoted,2.99,2.88,
+STU01651,108,Mathematics,BS in Mathematics,26,Promoted,3.38,3.19,
+STU01652,108,Mathematics,BS in Mathematics,27,Promoted,2.87,2.82,
+STU01653,108,Mathematics,BS in Mathematics,28,Promoted,3.54,3.4,
+STU01654,108,Mathematics,BS in Mathematics,29,Promoted,3.59,3.09,
+STU01655,108,Mathematics,BS in Mathematics,30,Promoted,3.61,3.42,
+STU01656,108,Mathematics,BS in Mathematics,31,Promoted,3.66,3.26,
+STU01657,108,Mathematics,BS in Mathematics,32,Promoted,3.52,2.94,
+STU01658,108,Mathematics,BS in Mathematics,33,Promoted,3.18,2.9,
+STU01659,109,Mathematics,BS in Mathematics,1,Promoted,2.26,2.45,PHYS-103
+STU01660,109,Mathematics,BS in Mathematics,2,Promoted,2.18,2.23,
+STU01661,109,Mathematics,BS in Mathematics,3,Promoted,3.09,3.05,
+STU01662,110,Mathematics,BS in Mathematics,1,Promoted,1.87,2.49,MATH-102
+STU01663,110,Mathematics,BS in Mathematics,2,Dropped,1.07,1.48,"GE-101, GE-205, MATH-102"
+STU01664,110,Mathematics,BS in Mathematics,3,Promoted,2.76,2.96,
+STU01665,110,Mathematics,BS in Mathematics,4,Promoted,2.55,2.61,
+STU01666,110,Mathematics,BS in Mathematics,5,Promoted,2.45,2.87,
+STU01667,110,Mathematics,BS in Mathematics,6,Promoted,2.54,3.06,GE-205
+STU01668,110,Mathematics,BS in Mathematics,7,Promoted,3.34,3.53,
+STU01669,110,Mathematics,BS in Mathematics,8,Promoted,2.5,2.93,
+STU01670,110,Mathematics,BS in Mathematics,9,Promoted,2.93,3.23,
+STU01671,110,Mathematics,BS in Mathematics,10,Promoted,2.26,2.79,GE-205
+STU01672,110,Mathematics,BS in Mathematics,11,Promoted,2.15,2.66,MATH-102
+STU01673,110,Mathematics,BS in Mathematics,12,Promoted,1.67,2.27,"MATH-102, MATH-103"
+STU01674,110,Mathematics,BS in Mathematics,13,Promoted,2.06,2.34,MATH-103
+STU01675,110,Mathematics,BS in Mathematics,14,Promoted,1.68,1.62,MATH-102
+STU01676,110,Mathematics,BS in Mathematics,15,Promoted,2.75,2.91,
+STU01677,110,Mathematics,BS in Mathematics,16,Promoted,2.09,2.43,MATH-103
+STU01678,110,Mathematics,BS in Mathematics,17,Promoted,2.62,2.27,MATH-102
+STU01679,110,Mathematics,BS in Mathematics,18,Promoted,2.86,3.13,
+STU01680,110,Mathematics,BS in Mathematics,19,Promoted,3.02,3.35,
+STU01681,111,Physics,BS in Physics,1,Promoted,2.2,2.66,PHYS-311
+STU01682,111,Physics,BS in Physics,2,Promoted,1.5,2.46,
+STU01683,111,Physics,BS in Physics,3,Promoted,0.0,1.85,"MATH-215, PHYS-204, PHYS-332, PHYS-341, PHYS- 391, PHYS-433, PHYS-442"
+STU01684,111,Physics,BS in Physics,4,Promoted,0.0,2.7,PHYS-311
+STU01685,112,Physics,BS in Physics,1,Promoted,3.0,2.83,
+STU01686,112,Physics,BS in Physics,2,Promoted,2.0,2.52,
+STU01687,112,Physics,BS in Physics,3,Promoted,3.3,2.72,
+STU01688,113,Physics,BS in Physics,1,Promoted,2.14,2.47,CHEM-201
+STU01689,114,Physics,BS in Physics,1,Promoted,2.5,2.59,
+STU01690,114,Physics,BS in Physics,2,Promoted,2.48,2.94,PHYS-433
+STU01691,114,Physics,BS in Physics,3,Promoted,3.2,2.72,
+STU01692,114,Physics,BS in Physics,4,Promoted,3.4,2.98,
+STU01693,115,Physics,BS in Physics,1,Promoted,1.98,2.08,CHEM-201
+STU01694,116,Physics,BS in Physics,1,Promoted,3.18,2.57,
+STU01695,117,Physics,BS in Physics,1,Promoted,3.6,2.93,
+STU01696,117,Physics,BS in Physics,2,Promoted,3.2,2.76,
+STU01697,117,Physics,BS in Physics,3,Promoted,3.36,3.0,
+STU01698,117,Physics,BS in Physics,4,Promoted,2.86,2.35,
+STU01699,117,Physics,BS in Physics,5,Promoted,2.7,2.79,CHEM-201
+STU01700,117,Physics,BS in Physics,6,Promoted,3.29,2.5,
+STU01701,117,Physics,BS in Physics,7,Promoted,3.25,2.62,
+STU01702,117,Physics,BS in Physics,8,Promoted,3.5,2.9,
+STU01703,117,Physics,BS in Physics,9,Promoted,3.64,3.26,
+STU01704,117,Physics,BS in Physics,10,Promoted,3.7,2.98,
+STU01705,117,Physics,BS in Physics,11,Promoted,3.26,2.68,
+STU01706,117,Physics,BS in Physics,12,Promoted,3.05,2.76,
+STU01707,117,Physics,BS in Physics,13,Promoted,3.4,2.59,
+STU01708,118,Physics,BS in Physics,1,Promoted,3.82,3.57,
+STU01709,118,Physics,BS in Physics,2,Promoted,3.88,3.37,
+STU01710,118,Physics,BS in Physics,3,Promoted,3.6,2.71,
+STU01711,118,Physics,BS in Physics,4,Promoted,3.4,2.79,
+STU01712,118,Physics,BS in Physics,5,Promoted,3.43,2.91,
+STU01713,118,Physics,BS in Physics,6,Promoted,3.82,3.27,
+STU01714,118,Physics,BS in Physics,7,Promoted,1.7,1.86,
+STU01715,118,Physics,BS in Physics,8,Promoted,3.79,2.87,
+STU01716,118,Physics,BS in Physics,9,Promoted,3.82,3.24,
+STU01717,118,Physics,BS in Physics,10,Promoted,3.7,2.66,
+STU01718,118,Physics,BS in Physics,11,Promoted,1.7,2.62,"PHYS-311, PHYS-332, PHYS-433"
+STU01719,118,Physics,BS in Physics,12,Promoted,3.51,2.29,
+STU01720,118,Physics,BS in Physics,13,Promoted,3.51,2.26,
+STU01721,118,Physics,BS in Physics,14,Promoted,3.73,2.94,
+STU01722,118,Physics,BS in Physics,15,Promoted,3.36,2.6,
+STU01723,118,Physics,BS in Physics,16,Promoted,3.61,2.28,
+STU01724,118,Physics,BS in Physics,17,Promoted,3.49,2.51,
+STU01725,118,Physics,BS in Physics,18,Promoted,3.83,2.67,
+STU01726,118,Physics,BS in Physics,19,Promoted,3.39,2.88,PHYS-391
+STU01727,118,Physics,BS in Physics,20,Promoted,3.88,3.44,
+STU01728,118,Physics,BS in Physics,21,Promoted,3.94,3.18,
+STU01729,118,Physics,BS in Physics,22,Promoted,4.0,3.09,
+STU01730,118,Physics,BS in Physics,23,Promoted,3.6,2.64,
+STU01731,118,Physics,BS in Physics,24,Promoted,3.79,2.37,
+STU01732,118,Physics,BS in Physics,25,Promoted,3.79,2.67,
+STU01733,118,Physics,BS in Physics,26,Promoted,3.87,2.98,
+STU01734,118,Physics,BS in Physics,27,Promoted,3.79,2.83,
+STU01735,118,Physics,BS in Physics,28,Promoted,3.6,2.67,
+STU01736,118,Physics,BS in Physics,29,Promoted,3.74,2.71,
+STU01737,118,Physics,BS in Physics,30,Promoted,3.83,2.38,
+STU01738,118,Physics,BS in Physics,31,Promoted,3.74,2.71,
+STU01739,118,Physics,BS in Physics,32,Promoted,3.82,2.99,
+STU01740,118,Physics,BS in Physics,33,Promoted,3.83,2.75,
+STU01741,118,Physics,BS in Physics,34,Promoted,3.7,2.08,
+STU01742,118,Physics,BS in Physics,35,Promoted,3.56,2.14,
+STU01743,118,Physics,BS in Physics,36,Promoted,3.53,1.96,
+STU01744,118,Physics,BS in Physics,37,Promoted,3.85,3.18,
+STU01745,118,Physics,BS in Physics,38,Promoted,3.5,2.22,
+STU01746,118,Physics,BS in Physics,39,Promoted,3.46,2.5,
+STU01747,118,Physics,BS in Physics,40,Promoted,3.66,2.63,
+STU01748,118,Physics,BS in Physics,41,Promoted,3.64,2.64,
+STU01749,119,Physics,BS in Physics,1,Promoted,2.4,1.99,PHYS-391
+STU01750,119,Physics,BS in Physics,2,Promoted,3.66,2.51,
+STU01751,120,Physics,BS in Physics,1,Promoted,2.63,2.23,
+STU01752,120,Physics,BS in Physics,2,Promoted,2.9,2.55,
+STU01753,120,Physics,BS in Physics,3,Promoted,3.32,3.02,
+STU01754,120,Physics,BS in Physics,4,Promoted,3.55,3.18,
+STU01755,120,Physics,BS in Physics,5,Promoted,4.0,3.61,
+STU01756,120,Physics,BS in Physics,6,Promoted,3.55,3.13,
+STU01757,120,Physics,BS in Physics,7,Promoted,2.63,2.16,
+STU01758,120,Physics,BS in Physics,8,Promoted,3.7,3.33,
+STU01759,120,Physics,BS in Physics,9,Promoted,3.27,2.73,
+STU01760,120,Physics,BS in Physics,10,Promoted,2.83,2.45,
+STU01761,120,Physics,BS in Physics,11,Promoted,2.76,2.31,
+STU01762,120,Physics,BS in Physics,12,Promoted,3.42,3.13,
+STU01763,120,Physics,BS in Physics,13,Promoted,3.16,2.8,
+STU01764,120,Physics,BS in Physics,14,Promoted,3.83,2.85,
+STU01765,120,Physics,BS in Physics,15,Promoted,2.59,2.38,
+STU01766,120,Physics,BS in Physics,16,Promoted,3.24,2.68,
+STU01767,120,Physics,BS in Physics,17,Promoted,2.91,2.92,
+STU01768,120,Physics,BS in Physics,18,Promoted,3.37,2.6,
+STU01769,121,Physics,BS in Physics,1,Promoted,2.94,1.96,
+STU01770,121,Physics,BS in Physics,2,Promoted,2.73,2.22,
+STU01771,121,Physics,BS in Physics,3,Promoted,3.03,2.11,
+STU01772,121,Physics,BS in Physics,4,Promoted,2.8,1.97,
+STU01773,121,Physics,BS in Physics,5,Promoted,2.0,1.88,
+STU01774,121,Physics,BS in Physics,6,Promoted,2.48,2.62,
+STU01775,121,Physics,BS in Physics,7,Promoted,3.16,2.48,
+STU01776,121,Physics,BS in Physics,8,Promoted,3.43,2.07,
+STU01777,121,Physics,BS in Physics,9,Promoted,2.93,2.27,
+STU01778,122,Physics,BS in Physics,1,Promoted,1.64,1.99,PHYS-205
+STU01779,122,Physics,BS in Physics,2,Promoted,3.11,3.01,
+STU01780,122,Physics,BS in Physics,3,Promoted,2.99,3.25,
+STU01781,122,Physics,BS in Physics,4,Promoted,2.97,2.74,
+STU01782,122,Physics,BS in Physics,5,Promoted,2.72,2.85,
+STU01783,122,Physics,BS in Physics,6,Promoted,3.07,3.04,
+STU01784,122,Physics,BS in Physics,7,Promoted,1.46,1.58,"PHYS-205, PHYS-392"
+STU01785,122,Physics,BS in Physics,8,Promoted,2.17,2.44,
+STU01786,122,Physics,BS in Physics,9,Promoted,3.28,3.18,
+STU01787,122,Physics,BS in Physics,10,Promoted,2.73,2.44,
+STU01788,122,Physics,BS in Physics,11,Dropped,0.0,1.48,"GE-204, GE-205, GE-206, PHYS-103, PHYS- 205, PHYS-207, PHYS-392"
+STU01789,122,Physics,BS in Physics,12,Promoted,1.88,2.06,"GE-205, PHYS-207"
+STU01790,122,Physics,BS in Physics,13,Promoted,3.31,3.29,
+STU01791,122,Physics,BS in Physics,14,Promoted,2.83,2.37,
+STU01792,122,Physics,BS in Physics,15,Promoted,2.34,2.15,PHYS-103
+STU01793,122,Physics,BS in Physics,16,Promoted,3.65,3.45,
+STU01794,122,Physics,BS in Physics,17,Promoted,2.9,2.47,
+STU01795,122,Physics,BS in Physics,18,Promoted,2.6,2.21,
+STU01796,122,Physics,BS in Physics,19,Promoted,1.92,2.11,PHYS-103
+STU01797,122,Physics,BS in Physics,20,Promoted,1.53,1.65,"PHYS-103, PHYS-205, PHYS-392"
+STU01798,122,Physics,BS in Physics,21,Promoted,2.65,2.42,
+STU01799,122,Physics,BS in Physics,22,Promoted,2.51,2.13,
+STU01800,122,Physics,BS in Physics,23,Promoted,2.38,2.54,
+STU01801,122,Physics,BS in Physics,24,Promoted,2.48,2.23,
+STU01802,122,Physics,BS in Physics,25,Promoted,1.07,1.54,"PHYS-205, PHYS-392"
+STU01803,122,Physics,BS in Physics,26,Promoted,2.26,2.52,
+STU01804,122,Physics,BS in Physics,27,Promoted,2.76,2.78,
+STU01805,122,Physics,BS in Physics,28,Promoted,3.45,3.11,
+STU01806,123,Physics,BS in Physics,1,Promoted,1.67,1.67,PHYS-392
+STU01807,124,Physics,BS in Physics,1,Promoted,3.71,3.27,
+STU01808,124,Physics,BS in Physics,2,Promoted,2.94,2.34,PHYS-303
+STU01809,124,Physics,BS in Physics,3,Promoted,3.31,2.96,
+STU01810,124,Physics,BS in Physics,4,Promoted,3.82,3.51,
+STU01811,124,Physics,BS in Physics,5,Promoted,3.45,3.19,
+STU01812,124,Physics,BS in Physics,6,Promoted,2.15,1.99,"GE-103, PHYS-303"
+STU01813,124,Physics,BS in Physics,7,Promoted,3.51,3.16,
+STU01814,124,Physics,BS in Physics,8,Promoted,3.1,2.65,PHYS-303
+STU01815,124,Physics,BS in Physics,9,Promoted,3.32,3.02,
+STU01816,124,Physics,BS in Physics,10,Promoted,2.83,2.89,PHYS-303
+STU01817,124,Physics,BS in Physics,11,Promoted,3.17,3.03,
+STU01818,124,Physics,BS in Physics,12,Promoted,3.54,3.32,
+STU01819,124,Physics,BS in Physics,13,Promoted,3.51,3.32,
+STU01820,124,Physics,BS in Physics,14,Promoted,3.27,3.16,
+STU01821,124,Physics,BS in Physics,15,Promoted,2.81,2.64,
+STU01822,124,Physics,BS in Physics,16,Promoted,3.17,2.56,
+STU01823,124,Physics,BS in Physics,17,Promoted,2.53,2.29,PHYS-303
+STU01824,124,Physics,BS in Physics,18,Promoted,2.49,2.18,"GE-205, PHYS-303"
+STU01825,124,Physics,BS in Physics,19,Promoted,2.54,2.44,PHYS-303
+STU01826,124,Physics,BS in Physics,20,Promoted,3.42,2.96,
+STU01827,124,Physics,BS in Physics,21,Promoted,2.69,2.62,PHYS-303
+STU01828,124,Physics,BS in Physics,22,Promoted,2.78,2.51,
+STU01829,124,Physics,BS in Physics,23,Promoted,2.42,2.02,GE-205
+STU01830,124,Physics,BS in Physics,24,Promoted,2.95,2.56,GE-205
+STU01831,124,Physics,BS in Physics,25,Promoted,3.46,3.23,
+STU01832,124,Physics,BS in Physics,26,Promoted,3.48,3.06,
+STU01833,124,Physics,BS in Physics,27,Promoted,3.76,3.55,
+STU01834,124,Physics,BS in Physics,28,Promoted,3.68,3.61,
+STU01835,124,Physics,BS in Physics,29,Promoted,3.04,2.69,
+STU01836,125,Physics,BS in Physics,1,Promoted,1.94,1.94,"GE-205, PHYS-303"
+STU01837,125,Physics,BS in Physics,2,Dropped,1.28,1.28,"GE-106, GE-204, GE-205, PHYS-303"
+STU01838,126,Political Science,BS in Political Science,1,Promoted,3.1,2.51,
+STU01839,126,Political Science,BS in Political Science,2,Promoted,3.32,2.83,
+STU01840,126,Political Science,BS in Political Science,3,Promoted,3.1,2.42,
+STU01841,127,Political Science,BS in Political Science,1,Promoted,3.03,2.52,POL-305
+STU01842,128,Political Science,BS in Political Science,1,Promoted,3.8,3.62,
+STU01843,128,Political Science,BS in Political Science,2,Promoted,3.6,2.89,
+STU01844,128,Political Science,BS in Political Science,3,Promoted,3.03,2.92,
+STU01845,128,Political Science,BS in Political Science,4,Promoted,3.32,3.13,
+STU01846,128,Political Science,BS in Political Science,5,Promoted,1.91,2.16,
+STU01847,128,Political Science,BS in Political Science,6,Promoted,2.78,2.89,
+STU01848,128,Political Science,BS in Political Science,7,Promoted,3.75,3.52,
+STU01849,128,Political Science,BS in Political Science,8,Promoted,3.83,3.81,
+STU01850,128,Political Science,BS in Political Science,9,Promoted,3.58,3.03,
+STU01851,128,Political Science,BS in Political Science,10,Promoted,2.78,2.86,
+STU01852,128,Political Science,BS in Political Science,11,Promoted,2.45,2.17,POL-422
+STU01853,128,Political Science,BS in Political Science,12,Promoted,3.12,2.88,
+STU01854,128,Political Science,BS in Political Science,13,Promoted,2.71,2.61,
+STU01855,128,Political Science,BS in Political Science,14,Promoted,1.71,2.43,
+STU01856,128,Political Science,BS in Political Science,15,Promoted,2.7,2.82,
+STU01857,128,Political Science,BS in Political Science,16,Promoted,2.37,2.75,POL-329
+STU01858,128,Political Science,BS in Political Science,17,Promoted,2.22,2.75,
+STU01859,129,Political Science,BS in Political Science,1,Promoted,2.9,2.88,
+STU01860,129,Political Science,BS in Political Science,2,Promoted,1.36,2.34,"ENG-201, POL-423"
+STU01861,129,Political Science,BS in Political Science,3,Promoted,2.86,2.88,
+STU01862,129,Political Science,BS in Political Science,4,Promoted,3.1,3.33,
+STU01863,129,Political Science,BS in Political Science,5,Promoted,3.07,3.18,
+STU01864,129,Political Science,BS in Political Science,6,Promoted,2.27,2.58,IR-202
+STU01865,129,Political Science,BS in Political Science,7,Promoted,2.46,2.42,
+STU01866,129,Political Science,BS in Political Science,8,Promoted,3.28,3.08,
+STU01867,129,Political Science,BS in Political Science,9,Promoted,3.9,3.62,
+STU01868,129,Political Science,BS in Political Science,10,Promoted,2.0,2.39,POL-423
+STU01869,129,Political Science,BS in Political Science,11,Promoted,3.4,3.62,
+STU01870,129,Political Science,BS in Political Science,12,Promoted,3.8,3.4,
+STU01871,129,Political Science,BS in Political Science,13,Promoted,3.9,3.39,
+STU01872,129,Political Science,BS in Political Science,14,Promoted,3.22,3.13,
+STU01873,129,Political Science,BS in Political Science,15,Promoted,2.73,2.76,
+STU01874,129,Political Science,BS in Political Science,16,Promoted,3.11,2.71,
+STU01875,129,Political Science,BS in Political Science,17,Promoted,3.8,3.54,
+STU01876,129,Political Science,BS in Political Science,18,Promoted,2.85,2.9,
+STU01877,129,Political Science,BS in Political Science,19,Promoted,2.8,2.83,
+STU01878,129,Political Science,BS in Political Science,20,Promoted,3.42,2.97,
+STU01879,129,Political Science,BS in Political Science,21,Promoted,2.94,2.66,
+STU01880,129,Political Science,BS in Political Science,22,Promoted,3.09,2.78,
+STU01881,129,Political Science,BS in Political Science,23,Promoted,3.08,2.87,
+STU01882,129,Political Science,BS in Political Science,24,Promoted,3.07,3.15,
+STU01883,129,Political Science,BS in Political Science,25,Promoted,3.4,3.15,
+STU01884,129,Political Science,BS in Political Science,26,Promoted,2.83,2.68,
+STU01885,129,Political Science,BS in Political Science,27,Promoted,2.78,2.87,
+STU01886,129,Political Science,BS in Political Science,28,Promoted,3.26,2.79,
+STU01887,129,Political Science,BS in Political Science,29,Promoted,3.33,3.54,
+STU01888,129,Political Science,BS in Political Science,30,Promoted,3.03,2.83,
+STU01889,129,Political Science,BS in Political Science,31,Promoted,2.87,2.98,
+STU01890,129,Political Science,BS in Political Science,32,Promoted,3.19,2.8,
+STU01891,129,Political Science,BS in Political Science,33,Promoted,2.59,2.64,
+STU01892,129,Political Science,BS in Political Science,34,Promoted,2.76,2.48,
+STU01893,130,Political Science,BS in Political Science,1,Promoted,2.47,2.43,
+STU01894,130,Political Science,BS in Political Science,2,Promoted,2.21,2.09,
+STU01895,130,Political Science,BS in Political Science,3,Promoted,2.07,2.03,
+STU01896,131,Political Science,BS in Political Science,1,Promoted,3.58,3.45,
+STU01897,131,Political Science,BS in Political Science,2,Promoted,3.88,3.7,
+STU01898,131,Political Science,BS in Political Science,3,Promoted,3.15,2.72,
+STU01899,131,Political Science,BS in Political Science,4,Promoted,3.62,3.24,
+STU01900,131,Political Science,BS in Political Science,5,Promoted,2.5,2.17,
+STU01901,131,Political Science,BS in Political Science,6,Promoted,3.26,2.38,
+STU01902,131,Political Science,BS in Political Science,7,Promoted,3.58,3.3,
+STU01903,131,Political Science,BS in Political Science,8,Promoted,3.4,2.68,
+STU01904,131,Political Science,BS in Political Science,9,Promoted,3.52,3.09,
+STU01905,131,Political Science,BS in Political Science,10,Promoted,3.39,2.36,
+STU01906,131,Political Science,BS in Political Science,11,Promoted,3.44,2.95,
+STU01907,131,Political Science,BS in Political Science,12,Promoted,3.63,2.79,
+STU01908,131,Political Science,BS in Political Science,13,Promoted,3.26,3.14,
+STU01909,131,Political Science,BS in Political Science,14,Promoted,3.74,3.22,
+STU01910,131,Political Science,BS in Political Science,15,Promoted,3.5,3.5,
+STU01911,131,Political Science,BS in Political Science,16,Promoted,3.42,2.53,
+STU01912,131,Political Science,BS in Political Science,17,Promoted,3.55,3.17,
+STU01913,131,Political Science,BS in Political Science,18,Promoted,3.14,2.56,
+STU01914,131,Political Science,BS in Political Science,19,Promoted,3.36,2.64,
+STU01915,131,Political Science,BS in Political Science,20,Promoted,3.58,3.13,
+STU01916,131,Political Science,BS in Political Science,21,Promoted,3.05,2.47,
+STU01917,131,Political Science,BS in Political Science,22,Promoted,3.34,2.85,
+STU01918,131,Political Science,BS in Political Science,23,Promoted,3.88,3.03,
+STU01919,132,Political Science,BS in Political Science,1,Promoted,3.44,2.68,
+STU01920,132,Political Science,BS in Political Science,2,Promoted,3.74,3.39,
+STU01921,132,Political Science,BS in Political Science,3,Promoted,3.02,2.16,
+STU01922,132,Political Science,BS in Political Science,4,Promoted,2.15,2.32,GE-102
+STU01923,133,Political Science & International Relations,BS in Political Science,1,Promoted,3.32,2.79,
+STU01924,133,Political Science & International Relations,BS in Political Science,2,Promoted,3.19,2.98,
+STU01925,133,Political Science & International Relations,BS in Political Science,3,Promoted,2.31,1.94,
+STU01926,133,Political Science & International Relations,BS in Political Science,4,Promoted,2.65,2.53,
+STU01927,133,Political Science & International Relations,BS in Political Science,5,Promoted,1.84,2.47,"GE-101, GE-104, GE-206"
+STU01928,133,Political Science & International Relations,BS in Political Science,6,Promoted,3.28,3.28,
+STU01929,133,Political Science & International Relations,BS in Political Science,7,Promoted,3.36,2.53,
+STU01930,133,Political Science & International Relations,BS in Political Science,8,Promoted,2.92,2.17,
+STU01931,133,Political Science & International Relations,BS in Political Science,9,Promoted,3.41,3.1,
+STU01932,133,Political Science & International Relations,BS in Political Science,10,Promoted,3.59,3.19,
+STU01933,133,Political Science & International Relations,BS in Political Science,11,Promoted,3.62,3.33,
+STU01934,133,Political Science & International Relations,BS in Political Science,12,Promoted,2.98,2.83,
+STU01935,133,Political Science & International Relations,BS in Political Science,13,Promoted,3.51,3.48,
+STU01936,133,Political Science & International Relations,BS in Political Science,14,Promoted,2.66,2.19,
+STU01937,133,Political Science & International Relations,BS in Political Science,15,Promoted,3.35,3.07,
+STU01938,133,Political Science & International Relations,BS in Political Science,16,Promoted,3.19,2.5,
+STU01939,133,Political Science & International Relations,BS in Political Science,17,Promoted,3.27,2.71,
+STU01940,133,Political Science & International Relations,BS in Political Science,18,Promoted,3.42,3.04,
+STU01941,133,Political Science & International Relations,BS in Political Science,19,Promoted,3.31,2.78,
+STU01942,133,Political Science & International Relations,BS in Political Science,20,Promoted,2.97,2.41,
+STU01943,133,Political Science & International Relations,BS in Political Science,21,Dropped,1.13,1.48,"GE-206, SOC-101"
+STU01944,133,Political Science & International Relations,BS in Political Science,22,Promoted,3.11,2.39,
+STU01945,133,Political Science & International Relations,BS in Political Science,23,Promoted,3.33,2.96,
+STU01946,133,Political Science & International Relations,BS in Political Science,24,Promoted,3.01,2.56,
+STU01947,133,Political Science & International Relations,BS in Political Science,25,Promoted,0.0,1.92,"GE-101, GE-201, GE-206, POL-207, POL-414, SOC-101"
+STU01948,133,Political Science & International Relations,BS in Political Science,26,Promoted,0.0,1.53,"GE-101, GE-104, GE-201, GE-206, POL-207, POL-414, SOC-101"
+STU01949,133,Political Science & International Relations,BS in Political Science,27,Promoted,2.0,1.71,
+STU01950,133,Political Science & International Relations,BS in Political Science,28,Promoted,3.44,3.37,
+STU01951,133,Political Science & International Relations,BS in Political Science,29,Promoted,1.89,1.72,POL-207
+STU01952,133,Political Science & International Relations,BS in Political Science,30,Promoted,3.62,3.15,
+STU01953,133,Political Science & International Relations,BS in Political Science,31,Promoted,1.43,2.08,"GE-101, POL-414"
+STU01954,134,Political Science & International Relations,BS in Political Science,1,Promoted,2.05,2.05,GE-206
+STU01955,135,Political Science & International Relations,BS in Political Science,1,Promoted,3.41,3.15,
+STU01956,135,Political Science & International Relations,BS in Political Science,2,Promoted,3.41,3.06,
+STU01957,135,Political Science & International Relations,BS in Political Science,3,Promoted,3.24,2.88,
+STU01958,135,Political Science & International Relations,BS in Political Science,4,Promoted,3.47,3.2,
+STU01959,135,Political Science & International Relations,BS in Political Science,5,Promoted,3.41,3.08,
+STU01960,135,Political Science & International Relations,BS in Political Science,6,Promoted,3.54,2.89,
+STU01961,135,Political Science & International Relations,BS in Political Science,7,Promoted,3.88,3.66,
+STU01962,135,Political Science & International Relations,BS in Political Science,8,Promoted,3.56,2.62,
+STU01963,135,Political Science & International Relations,BS in Political Science,9,Promoted,3.61,3.0,
+STU01964,135,Political Science & International Relations,BS in Political Science,10,Promoted,3.49,3.15,
+STU01965,135,Political Science & International Relations,BS in Political Science,11,Promoted,3.49,2.99,
+STU01966,135,Political Science & International Relations,BS in Political Science,12,Promoted,3.68,3.17,
+STU01967,135,Political Science & International Relations,BS in Political Science,13,Promoted,3.41,2.95,
+STU01968,135,Political Science & International Relations,BS in Political Science,14,Promoted,3.33,2.71,
+STU01969,135,Political Science & International Relations,BS in Political Science,15,Promoted,3.18,2.37,
+STU01970,135,Political Science & International Relations,BS in Political Science,16,Promoted,3.54,3.3,
+STU01971,135,Political Science & International Relations,BS in Political Science,17,Promoted,3.81,3.71,
+STU01972,135,Political Science & International Relations,BS in Political Science,18,Promoted,2.51,2.03,GE-101
+STU01973,135,Political Science & International Relations,BS in Political Science,19,Promoted,3.13,2.67,
+STU01974,136,Political Science & International Relations,BS in Political Science,1,Promoted,2.3,2.3,GE-106
+STU01975,136,Political Science & International Relations,BS in Political Science,2,Promoted,2.18,2.17,GE-106
+STU01976,136,Political Science & International Relations,BS in Political Science,3,Promoted,3.0,3.0,
+STU01977,136,Political Science & International Relations,BS in Political Science,4,Promoted,2.68,2.68,POL-107
+STU01978,136,Political Science & International Relations,BS in Political Science,5,Promoted,2.94,2.94,
+STU01979,136,Political Science & International Relations,BS in Political Science,6,Promoted,3.33,3.33,
+STU01980,136,Political Science & International Relations,BS in Political Science,7,Promoted,3.22,3.22,
+STU01981,136,Political Science & International Relations,BS in Political Science,8,Promoted,3.16,3.16,
+STU01982,137,Psychology,BS in Psychology,1,Promoted,2.07,2.39,
+STU01983,137,Psychology,BS in Psychology,2,Promoted,2.64,2.5,
+STU01984,138,Psychology,BS in Psychology,1,Promoted,3.48,3.43,
+STU01985,138,Psychology,BS in Psychology,2,Promoted,3.4,2.99,
+STU01986,138,Psychology,BS in Psychology,3,Promoted,3.5,3.21,
+STU01987,138,Psychology,BS in Psychology,4,Promoted,3.37,2.7,
+STU01988,138,Psychology,BS in Psychology,5,Promoted,3.9,3.71,
+STU01989,138,Psychology,BS in Psychology,6,Promoted,3.27,3.3,
+STU01990,138,Psychology,BS in Psychology,7,Promoted,3.13,3.04,
+STU01991,138,Psychology,BS in Psychology,8,Promoted,3.53,2.83,
+STU01992,138,Psychology,BS in Psychology,9,Promoted,3.47,3.22,
+STU01993,138,Psychology,BS in Psychology,10,Promoted,3.3,3.42,
+STU01994,138,Psychology,BS in Psychology,11,Promoted,3.05,2.67,
+STU01995,138,Psychology,BS in Psychology,12,Promoted,3.67,3.55,
+STU01996,138,Psychology,BS in Psychology,13,Promoted,3.95,3.5,
+STU01997,138,Psychology,BS in Psychology,14,Promoted,1.54,1.98,"PSY-316, PSY-325, PSY-406"
+STU01998,138,Psychology,BS in Psychology,15,Promoted,3.63,3.57,
+STU01999,138,Psychology,BS in Psychology,16,Promoted,3.55,3.39,
+STU02000,138,Psychology,BS in Psychology,17,Promoted,3.45,3.03,
+STU02001,138,Psychology,BS in Psychology,18,Promoted,3.43,2.9,
+STU02002,138,Psychology,BS in Psychology,19,Promoted,3.58,2.99,
+STU02003,138,Psychology,BS in Psychology,20,Promoted,0.75,2.36,"PSY-407, PSY-408, PSY-413, PSY- 416"
+STU02004,138,Psychology,BS in Psychology,21,Promoted,3.85,3.23,
+STU02005,138,Psychology,BS in Psychology,22,Promoted,3.7,3.44,
+STU02006,138,Psychology,BS in Psychology,23,Promoted,3.58,3.22,
+STU02007,138,Psychology,BS in Psychology,24,Promoted,3.47,3.21,
+STU02008,138,Psychology,BS in Psychology,25,Promoted,2.26,2.08,
+STU02009,138,Psychology,BS in Psychology,26,Promoted,3.02,2.92,
+STU02010,138,Psychology,BS in Psychology,27,Promoted,3.63,3.01,
+STU02011,138,Psychology,BS in Psychology,28,Promoted,3.4,3.13,
+STU02012,138,Psychology,BS in Psychology,29,Promoted,3.25,3.18,
+STU02013,138,Psychology,BS in Psychology,30,Promoted,3.33,3.1,
+STU02014,138,Psychology,BS in Psychology,31,Promoted,3.35,3.23,
+STU02015,138,Psychology,BS in Psychology,32,Promoted,3.32,3.43,
+STU02016,138,Psychology,BS in Psychology,33,Promoted,2.69,2.64,
+STU02017,138,Psychology,BS in Psychology,34,Promoted,3.7,3.6,
+STU02018,138,Psychology,BS in Psychology,35,Promoted,1.99,1.7,
+STU02019,138,Psychology,BS in Psychology,36,Promoted,2.82,2.66,
+STU02020,138,Psychology,BS in Psychology,37,Promoted,2.47,2.07,
+STU02021,138,Psychology,BS in Psychology,38,Promoted,3.9,3.65,
+STU02022,138,Psychology,BS in Psychology,39,Promoted,2.4,2.0,PSY-406
+STU02023,138,Psychology,BS in Psychology,40,Promoted,3.23,2.82,
+STU02024,138,Psychology,BS in Psychology,41,Promoted,2.97,2.94,
+STU02025,138,Psychology,BS in Psychology,42,Promoted,1.86,2.11,PSY-406
+STU02026,138,Psychology,BS in Psychology,43,Promoted,2.83,2.62,
+STU02027,140,Psychology,BS in Psychology,1,Promoted,3.05,2.97,
+STU02028,140,Psychology,BS in Psychology,2,Promoted,3.13,2.8,
+STU02029,140,Psychology,BS in Psychology,3,Promoted,3.75,3.32,
+STU02030,140,Psychology,BS in Psychology,4,Promoted,3.3,2.93,
+STU02031,140,Psychology,BS in Psychology,5,Promoted,3.95,3.72,
+STU02032,140,Psychology,BS in Psychology,6,Promoted,2.63,2.55,
+STU02033,140,Psychology,BS in Psychology,7,Promoted,3.58,2.95,
+STU02034,140,Psychology,BS in Psychology,8,Promoted,3.75,3.58,
+STU02035,140,Psychology,BS in Psychology,9,Promoted,3.23,3.27,
+STU02036,140,Psychology,BS in Psychology,10,Promoted,3.02,2.46,
+STU02037,140,Psychology,BS in Psychology,11,Promoted,3.64,2.42,
+STU02038,140,Psychology,BS in Psychology,12,Promoted,3.9,3.55,
+STU02039,140,Psychology,BS in Psychology,13,Promoted,3.13,2.23,
+STU02040,140,Psychology,BS in Psychology,14,Promoted,3.65,3.34,
+STU02041,140,Psychology,BS in Psychology,15,Promoted,3.12,2.77,
+STU02042,140,Psychology,BS in Psychology,16,Promoted,3.53,2.89,
+STU02043,140,Psychology,BS in Psychology,17,Promoted,3.33,2.73,
+STU02044,140,Psychology,BS in Psychology,18,Promoted,3.27,2.93,
+STU02045,140,Psychology,BS in Psychology,19,Promoted,2.78,1.89,
+STU02046,140,Psychology,BS in Psychology,20,Promoted,3.63,3.21,
+STU02047,140,Psychology,BS in Psychology,21,Promoted,3.33,2.91,
+STU02048,140,Psychology,BS in Psychology,22,Promoted,3.3,2.35,
+STU02049,140,Psychology,BS in Psychology,23,Promoted,3.27,2.64,
+STU02050,141,Psychology,BS in Psychology,1,Promoted,2.67,1.99,
+STU02051,142,Psychology,BS in Psychology,1,Promoted,2.84,2.75,
+STU02052,142,Psychology,BS in Psychology,2,Promoted,1.8,1.95,
+STU02053,142,Psychology,BS in Psychology,3,Promoted,2.33,2.11,
+STU02054,142,Psychology,BS in Psychology,4,Promoted,2.46,2.64,
+STU02055,142,Psychology,BS in Psychology,5,Promoted,2.78,2.87,
+STU02056,142,Psychology,BS in Psychology,6,Promoted,2.33,2.77,
+STU02057,142,Psychology,BS in Psychology,7,Promoted,4.0,3.7,
+STU02058,142,Psychology,BS in Psychology,8,Promoted,2.8,2.45,
+STU02059,142,Psychology,BS in Psychology,9,Promoted,3.52,3.71,
+STU02060,142,Psychology,BS in Psychology,10,Promoted,3.76,3.41,
+STU02061,142,Psychology,BS in Psychology,11,Promoted,2.58,3.19,
+STU02062,142,Psychology,BS in Psychology,12,Promoted,2.54,2.59,
+STU02063,142,Psychology,BS in Psychology,13,Promoted,3.28,3.21,
+STU02064,142,Psychology,BS in Psychology,14,Promoted,2.8,2.78,
+STU02065,142,Psychology,BS in Psychology,15,Promoted,2.98,2.81,
+STU02066,142,Psychology,BS in Psychology,16,Promoted,3.62,3.59,
+STU02067,142,Psychology,BS in Psychology,17,Promoted,3.56,3.56,
+STU02068,142,Psychology,BS in Psychology,18,Promoted,2.66,2.59,
+STU02069,142,Psychology,BS in Psychology,19,Promoted,3.62,3.23,
+STU02070,142,Psychology,BS in Psychology,20,Promoted,3.18,3.1,
+STU02071,142,Psychology,BS in Psychology,21,Promoted,3.04,3.18,
+STU02072,142,Psychology,BS in Psychology,22,Promoted,2.3,2.9,
+STU02073,142,Psychology,BS in Psychology,23,Promoted,1.5,1.67,PSY-325
+STU02074,142,Psychology,BS in Psychology,24,Promoted,1.7,1.99,
+STU02075,142,Psychology,BS in Psychology,25,Promoted,3.62,3.36,
+STU02076,142,Psychology,BS in Psychology,26,Promoted,3.46,3.6,
+STU02077,142,Psychology,BS in Psychology,27,Promoted,3.06,2.9,
+STU02078,142,Psychology,BS in Psychology,28,Promoted,2.86,2.98,
+STU02079,142,Psychology,BS in Psychology,29,Promoted,3.06,3.0,
+STU02080,142,Psychology,BS in Psychology,30,Promoted,2.0,2.14,PSY-327
+STU02081,142,Psychology,BS in Psychology,31,Promoted,3.1,2.95,
+STU02082,142,Psychology,BS in Psychology,32,Promoted,2.5,2.58,
+STU02083,143,Psychology,BS in Psychology,1,Promoted,2.17,2.42,
+STU02084,144,Psychology,BS in Psychology,1,Promoted,2.07,2.01,
+STU02085,144,Psychology,BS in Psychology,2,Promoted,3.58,3.1,
+STU02086,144,Psychology,BS in Psychology,3,Promoted,3.19,2.66,
+STU02087,144,Psychology,BS in Psychology,4,Promoted,3.36,3.03,
+STU02088,144,Psychology,BS in Psychology,5,Promoted,2.57,2.39,
+STU02089,144,Psychology,BS in Psychology,6,Promoted,2.57,1.9,
+STU02090,144,Psychology,BS in Psychology,7,Promoted,1.17,1.93,"PSY-312, PSY-316"
+STU02091,144,Psychology,BS in Psychology,8,Promoted,2.49,2.32,
+STU02092,144,Psychology,BS in Psychology,9,Promoted,2.99,2.75,
+STU02093,144,Psychology,BS in Psychology,10,Promoted,2.85,2.98,
+STU02094,144,Psychology,BS in Psychology,11,Promoted,3.7,3.43,
+STU02095,144,Psychology,BS in Psychology,12,Promoted,2.59,2.49,
+STU02096,144,Psychology,BS in Psychology,13,Promoted,1.58,2.0,PSY-321
+STU02097,144,Psychology,BS in Psychology,14,Promoted,2.83,2.8,
+STU02098,144,Psychology,BS in Psychology,15,Promoted,1.91,1.82,
+STU02099,144,Psychology,BS in Psychology,16,Promoted,3.55,3.15,
+STU02100,144,Psychology,BS in Psychology,17,Promoted,3.1,2.72,
+STU02101,144,Psychology,BS in Psychology,18,Promoted,2.85,2.79,
+STU02102,144,Psychology,BS in Psychology,19,Dropped,0.0,1.49,"PSY-205, PSY-302, PSY-312, PSY-316, PSY-321, SOC-102"
+STU02103,144,Psychology,BS in Psychology,20,Promoted,3.38,3.25,
+STU02104,144,Psychology,BS in Psychology,21,Promoted,3.01,2.78,
+STU02105,144,Psychology,BS in Psychology,22,Promoted,3.09,2.71,
+STU02106,144,Psychology,BS in Psychology,23,Promoted,2.23,2.19,
+STU02107,144,Psychology,BS in Psychology,24,Promoted,2.25,1.95,
+STU02108,144,Psychology,BS in Psychology,25,Promoted,2.4,2.0,
+STU02109,144,Psychology,BS in Psychology,26,Promoted,2.88,2.48,
+STU02110,144,Psychology,BS in Psychology,27,Promoted,2.38,2.15,
+STU02111,144,Psychology,BS in Psychology,28,Promoted,3.53,3.14,
+STU02112,144,Psychology,BS in Psychology,29,Promoted,3.28,3.3,PSY-302
+STU02113,144,Psychology,BS in Psychology,30,Promoted,2.91,2.82,
+STU02114,144,Psychology,BS in Psychology,31,Promoted,2.79,2.25,
+STU02115,144,Psychology,BS in Psychology,32,Promoted,3.55,3.19,
+STU02116,144,Psychology,BS in Psychology,33,Promoted,3.35,2.7,
+STU02117,144,Psychology,BS in Psychology,34,Promoted,2.29,2.37,
+STU02118,144,Psychology,BS in Psychology,35,Promoted,3.38,3.13,
+STU02119,144,Psychology,BS in Psychology,36,Promoted,1.86,2.1,GE-102
+STU02120,144,Psychology,BS in Psychology,37,Promoted,2.49,2.18,
+STU02121,144,Psychology,BS in Psychology,38,Promoted,2.57,2.19,
+STU02122,144,Psychology,BS in Psychology,39,Promoted,2.53,2.35,
+STU02123,144,Psychology,BS in Psychology,40,Promoted,3.53,2.92,
+STU02124,144,Psychology,BS in Psychology,41,Promoted,3.65,2.91,
+STU02125,144,Psychology,BS in Psychology,42,Promoted,2.88,2.38,
+STU02126,144,Psychology,BS in Psychology,43,Promoted,3.07,2.69,
+STU02127,144,Psychology,BS in Psychology,44,Promoted,1.29,1.82,"PSY-205, PSY-316"
+STU02128,144,Psychology,BS in Psychology,45,Promoted,1.93,2.01,
+STU02129,144,Psychology,BS in Psychology,46,Promoted,3.68,3.3,
+STU02130,146,Psychology,BS in Psychology,1,Promoted,3.7,3.31,
+STU02131,146,Psychology,BS in Psychology,2,Promoted,3.6,3.46,
+STU02132,146,Psychology,BS in Psychology,3,Promoted,3.25,2.67,
+STU02133,146,Psychology,BS in Psychology,4,Promoted,3.38,3.18,
+STU02134,146,Psychology,BS in Psychology,5,Promoted,3.9,3.53,
+STU02135,146,Psychology,BS in Psychology,6,Promoted,3.41,3.05,
+STU02136,146,Psychology,BS in Psychology,7,Promoted,3.3,2.96,
+STU02137,146,Psychology,BS in Psychology,8,Promoted,3.6,3.3,
+STU02138,146,Psychology,BS in Psychology,9,Promoted,2.87,2.59,
+STU02139,147,Psychology,BS in Psychology,1,Promoted,2.84,2.39,
+STU02140,148,Psychology,BS in Psychology,1,Promoted,2.93,3.14,
+STU02141,148,Psychology,BS in Psychology,2,Promoted,2.48,2.79,
+STU02142,148,Psychology,BS in Psychology,3,Promoted,3.75,3.66,
+STU02143,148,Psychology,BS in Psychology,4,Dropped,1.29,1.49,PSY-207
+STU02144,148,Psychology,BS in Psychology,5,Promoted,1.64,2.11,"GE-106, PSY-207"
+STU02145,148,Psychology,BS in Psychology,6,Promoted,2.16,2.3,
+STU02146,148,Psychology,BS in Psychology,7,Promoted,3.22,2.81,
+STU02147,148,Psychology,BS in Psychology,8,Promoted,2.26,2.4,"GE-106, PSY-207"
+STU02148,148,Psychology,BS in Psychology,9,Promoted,2.77,2.65,
+STU02149,148,Psychology,BS in Psychology,10,Promoted,3.96,3.93,
+STU02150,148,Psychology,BS in Psychology,11,Promoted,3.62,3.7,
+STU02151,148,Psychology,BS in Psychology,12,Promoted,2.65,2.6,PSY-207
+STU02152,148,Psychology,BS in Psychology,13,Promoted,3.63,3.53,
+STU02153,148,Psychology,BS in Psychology,14,Promoted,2.28,2.31,PSY-207
+STU02154,148,Psychology,BS in Psychology,15,Promoted,3.46,3.06,
+STU02155,148,Psychology,BS in Psychology,16,Promoted,2.28,2.32,GE-106
+STU02156,148,Psychology,BS in Psychology,17,Promoted,3.19,3.2,
+STU02157,148,Psychology,BS in Psychology,18,Dropped,1.27,1.45,"GE-106, PSY-207, SOC-101"
+STU02158,148,Psychology,BS in Psychology,19,Promoted,1.89,1.98,"GE-106, PSY-207"
+STU02159,148,Psychology,BS in Psychology,20,Promoted,3.72,3.7,
+STU02160,148,Psychology,BS in Psychology,21,Promoted,2.7,2.96,PSY-207
+STU02161,148,Psychology,BS in Psychology,22,Promoted,2.94,2.71,
+STU02162,148,Psychology,BS in Psychology,23,Promoted,2.24,2.63,PSY-207
+STU02163,148,Psychology,BS in Psychology,24,Promoted,2.37,2.25,PSY-207
+STU02164,148,Psychology,BS in Psychology,25,Promoted,3.52,3.49,
+STU02165,148,Psychology,BS in Psychology,26,Promoted,2.42,2.34,
+STU02166,148,Psychology,BS in Psychology,27,Promoted,3.39,3.05,
+STU02167,148,Psychology,BS in Psychology,28,Promoted,2.53,2.31,PSY-207
+STU02168,148,Psychology,BS in Psychology,29,Promoted,1.84,1.86,"GE-106, PSY-207"
+STU02169,148,Psychology,BS in Psychology,30,Promoted,2.18,2.28,PSY-207
+STU02170,148,Psychology,BS in Psychology,31,Promoted,3.41,3.09,
+STU02171,148,Psychology,BS in Psychology,32,Promoted,1.98,1.96,PSY-207
+STU02172,148,Psychology,BS in Psychology,33,Promoted,3.39,3.22,
+STU02173,148,Psychology,BS in Psychology,34,Promoted,2.25,2.22,"GE-106, PSY-207"
+STU02174,148,Psychology,BS in Psychology,35,Promoted,2.38,2.66,PSY-207
+STU02175,148,Psychology,BS in Psychology,36,Promoted,3.5,3.53,
+STU02176,148,Psychology,BS in Psychology,37,Promoted,2.73,2.74,
+STU02177,148,Psychology,BS in Psychology,38,Promoted,3.68,3.7,
+STU02178,148,Psychology,BS in Psychology,39,Promoted,2.04,1.94,PSY-207
+STU02179,148,Psychology,BS in Psychology,40,Promoted,1.92,1.94,"GE-106, PSY-207"
+STU02180,148,Psychology,BS in Psychology,41,Promoted,2.69,2.85,
+STU02181,148,Psychology,BS in Psychology,42,Promoted,3.82,3.67,
+STU02182,148,Psychology,BS in Psychology,43,Promoted,3.8,3.62,
+STU02183,148,Psychology,BS in Psychology,44,Promoted,3.26,3.11,
+STU02184,148,Psychology,BS in Psychology,45,Promoted,3.13,2.98,
+STU02185,148,Psychology,BS in Psychology,46,Promoted,1.92,1.76,PSY-207
+STU02186,148,Psychology,BS in Psychology,47,Promoted,2.86,2.85,
+STU02187,148,Psychology,BS in Psychology,48,Promoted,3.83,3.75,
+STU02188,149,Psychology,BS in Psychology,49,Promoted,2.39,2.14,
+STU02189,149,Psychology,BS in Psychology,50,Promoted,3.5,3.39,
+STU02190,149,Psychology,BS in Psychology,51,Promoted,2.47,2.64,PSY-207
+STU02191,149,Psychology,BS in Psychology,52,Promoted,2.49,2.41,PSY-207
+STU02192,149,Psychology,BS in Psychology,53,Promoted,2.83,2.61,
+STU02193,149,Psychology,BS in Psychology,54,Promoted,3.24,3.24,
+STU02194,149,Psychology,BS in Psychology,55,Promoted,2.93,3.15,
+STU02195,149,Psychology,BS in Psychology,56,Promoted,2.01,2.38,PSY-207
+STU02196,149,Psychology,BS in Psychology,57,Promoted,3.88,3.64,
+STU02197,149,Psychology,BS in Psychology,58,Promoted,2.21,2.19,
+STU02198,149,Psychology,BS in Psychology,59,Promoted,2.77,2.56,PSY-207
+STU02199,149,Psychology,BS in Psychology,60,Promoted,2.32,2.02,PSY-207
+STU02200,149,Psychology,BS in Psychology,61,Promoted,2.76,2.52,GE-106
+STU02201,149,Psychology,BS in Psychology,62,Promoted,1.38,1.55,"GE-106, PSY-207, SOC-101"
+STU02202,150,Psychology,BS in Psychology,1,Dropped,1.17,1.17,"GE-106, GE-205, PSY-207"
+STU02203,150,Psychology,BS in Psychology,2,Promoted,1.71,1.71,PSY-207
+STU02204,150,Psychology,BS in Psychology,3,Promoted,1.61,1.61,"GE-205, PSY-207"
+STU02205,150,Psychology,BS in Psychology,4,Promoted,1.57,1.57,"GE-106, PSY-207"
+STU02206,151,Statistics,BS in Statistics,1,Promoted,3.89,3.29,
+STU02207,151,Statistics,BS in Statistics,2,Promoted,3.7,2.42,
+STU02208,152,Statistics,BS in Statistics,1,Promoted,3.4,2.47,
+STU02209,153,Statistics,BS in Statistics,1,Promoted,3.54,3.01,
+STU02210,153,Statistics,BS in Statistics,2,Promoted,3.71,3.35,
+STU02211,153,Statistics,BS in Statistics,3,Promoted,2.94,1.95,STAT-417
+STU02212,153,Statistics,BS in Statistics,4,Promoted,3.75,3.04,
+STU02213,153,Statistics,BS in Statistics,5,Promoted,3.43,2.6,
+STU02214,153,Statistics,BS in Statistics,6,Promoted,3.58,2.95,
+STU02215,153,Statistics,BS in Statistics,7,Promoted,3.77,3.33,
+STU02216,153,Statistics,BS in Statistics,8,Promoted,3.36,2.54,
+STU02217,153,Statistics,BS in Statistics,9,Promoted,3.72,3.17,
+STU02218,153,Statistics,BS in Statistics,10,Promoted,3.66,2.92,
+STU02219,153,Statistics,BS in Statistics,11,Promoted,3.66,2.91,
+STU02220,153,Statistics,BS in Statistics,12,Promoted,3.28,1.99,
+STU02221,154,Statistics,BS in Statistics,1,Promoted,3.18,2.75,
+STU02222,154,Statistics,BS in Statistics,2,Promoted,2.32,2.1,STS-307
+STU02223,154,Statistics,BS in Statistics,3,Promoted,3.64,2.98,
+STU02224,154,Statistics,BS in Statistics,4,Promoted,3.52,2.89,
+STU02225,154,Statistics,BS in Statistics,5,Promoted,3.82,3.14,
+STU02226,154,Statistics,BS in Statistics,6,Promoted,2.98,2.85,
+STU02227,154,Statistics,BS in Statistics,7,Promoted,3.5,2.95,
+STU02228,154,Statistics,BS in Statistics,8,Promoted,2.94,2.81,
+STU02229,154,Statistics,BS in Statistics,9,Promoted,3.15,2.61,
+STU02230,154,Statistics,BS in Statistics,10,Promoted,3.07,2.42,
+STU02231,155,Statistics,BS in Statistics,1,Promoted,2.78,2.9,STS-307
+STU02232,156,Statistics,BS in Statistics,1,Promoted,3.12,2.68,
+STU02233,156,Statistics,BS in Statistics,2,Promoted,3.15,3.21,
+STU02234,156,Statistics,BS in Statistics,3,Promoted,2.58,2.51,
+STU02235,156,Statistics,BS in Statistics,4,Promoted,2.95,2.56,
+STU02236,156,Statistics,BS in Statistics,5,Promoted,2.71,2.54,
+STU02237,156,Statistics,BS in Statistics,6,Promoted,3.03,3.21,
+STU02238,156,Statistics,BS in Statistics,7,Promoted,3.29,3.19,
+STU02239,156,Statistics,BS in Statistics,8,Promoted,3.46,3.33,
+STU02240,156,Statistics,BS in Statistics,9,Promoted,3.31,2.83,
+STU02241,156,Statistics,BS in Statistics,10,Promoted,3.06,2.54,
+STU02242,156,Statistics,BS in Statistics,11,Promoted,3.64,3.37,
+STU02243,157,Statistics,BS in Statistics,1,Dropped,1.16,1.42,"GE-205, STS-204"
+STU02244,158,Statistics,BS in Statistics,1,Promoted,3.15,3.31,
+STU02245,158,Statistics,BS in Statistics,2,Promoted,2.92,2.94,
+STU02246,158,Statistics,BS in Statistics,3,Promoted,3.56,3.41,
+STU02247,158,Statistics,BS in Statistics,4,Promoted,3.46,3.47,
+STU02248,158,Statistics,BS in Statistics,5,Promoted,2.97,2.93,
+STU02249,158,Statistics,BS in Statistics,6,Promoted,3.16,3.28,
+STU02250,158,Statistics,BS in Statistics,7,Promoted,2.64,2.76,
+STU02251,158,Statistics,BS in Statistics,8,Promoted,3.19,3.09,
+STU02252,158,Statistics,BS in Statistics,9,Promoted,3.47,3.46,
+STU02253,158,Statistics,BS in Statistics,10,Promoted,3.25,3.33,
+STU02254,158,Statistics,BS in Statistics,11,Promoted,2.96,2.88,
+STU02255,158,Statistics,BS in Statistics,12,Promoted,3.47,3.3,
+STU02256,158,Statistics,BS in Statistics,13,Promoted,3.19,3.0,
+STU02257,158,Statistics,BS in Statistics,14,Promoted,3.19,3.31,
+STU02258,158,Statistics,BS in Statistics,15,Promoted,3.16,3.07,
+STU02259,158,Statistics,BS in Statistics,16,Promoted,3.33,3.37,
+STU02260,158,Statistics,BS in Statistics,17,Promoted,2.49,2.24,STS-103
+STU02261,159,Statistics,BS in Statistics,1,Promoted,2.39,2.39,
+STU02262,160,Urdu,BS in Urdu,1,Promoted,2.42,2.6,POL-101
+STU02263,161,Urdu,BS in Urdu,1,Promoted,3.1,2.9,
+STU02264,161,Urdu,BS in Urdu,2,Promoted,3.56,2.92,
+STU02265,162,Urdu,BS in Urdu,1,Promoted,3.22,3.41,
+STU02266,163,Urdu,BS in Urdu,1,Promoted,2.95,2.96,
+STU02267,163,Urdu,BS in Urdu,2,Promoted,1.9,2.6,
+STU02268,163,Urdu,BS in Urdu,3,Promoted,2.5,2.82,
+STU02269,163,Urdu,BS in Urdu,4,Promoted,3.4,2.66,
+STU02270,163,Urdu,BS in Urdu,5,Promoted,2.64,2.59,
+STU02271,164,Urdu,BS in Urdu,1,Promoted,2.0,2.7,
+STU02272,164,Urdu,BS in Urdu,2,Promoted,1.5,2.74,
+STU02273,164,Urdu,BS in Urdu,3,Promoted,2.84,2.93,
+STU02274,165,Urdu,BS in Urdu,1,Promoted,3.47,2.76,
+STU02275,165,Urdu,BS in Urdu,2,Promoted,3.65,3.15,
+STU02276,165,Urdu,BS in Urdu,3,Promoted,3.95,3.26,
+STU02277,165,Urdu,BS in Urdu,4,Promoted,4.0,3.52,
+STU02278,165,Urdu,BS in Urdu,5,Promoted,4.0,3.53,
+STU02279,165,Urdu,BS in Urdu,6,Promoted,3.55,3.07,
+STU02280,165,Urdu,BS in Urdu,7,Promoted,4.0,3.59,
+STU02281,165,Urdu,BS in Urdu,8,Promoted,3.25,2.48,
+STU02282,165,Urdu,BS in Urdu,9,Promoted,3.9,3.38,
+STU02283,165,Urdu,BS in Urdu,10,Promoted,3.85,3.18,
+STU02284,165,Urdu,BS in Urdu,11,Promoted,3.8,3.27,
+STU02285,165,Urdu,BS in Urdu,12,Promoted,3.53,2.91,
+STU02286,165,Urdu,BS in Urdu,13,Promoted,3.8,3.42,
+STU02287,165,Urdu,BS in Urdu,14,Promoted,3.45,3.01,
+STU02288,165,Urdu,BS in Urdu,15,Promoted,3.85,3.22,
+STU02289,165,Urdu,BS in Urdu,16,Promoted,3.58,2.69,
+STU02290,165,Urdu,BS in Urdu,17,Promoted,3.74,3.29,
+STU02291,165,Urdu,BS in Urdu,18,Promoted,3.8,3.18,
+STU02292,165,Urdu,BS in Urdu,19,Promoted,3.43,3.23,
+STU02293,165,Urdu,BS in Urdu,20,Promoted,3.75,2.88,
+STU02294,165,Urdu,BS in Urdu,21,Promoted,3.75,3.08,
+STU02295,165,Urdu,BS in Urdu,22,Promoted,3.55,3.07,
+STU02296,165,Urdu,BS in Urdu,23,Promoted,3.9,3.55,
+STU02297,165,Urdu,BS in Urdu,24,Promoted,3.8,3.07,
+STU02298,165,Urdu,BS in Urdu,25,Promoted,3.7,3.22,
+STU02299,165,Urdu,BS in Urdu,26,Promoted,3.65,3.03,
+STU02300,165,Urdu,BS in Urdu,27,Promoted,3.22,2.77,
+STU02301,165,Urdu,BS in Urdu,28,Promoted,3.63,3.36,
+STU02302,165,Urdu,BS in Urdu,29,Promoted,3.28,3.07,
+STU02303,165,Urdu,BS in Urdu,30,Promoted,3.65,3.38,
+STU02304,166,Urdu,BS in Urdu,1,Promoted,2.67,2.58,URDU-407
+STU02305,166,Urdu,BS in Urdu,2,Promoted,3.95,3.58,
+STU02306,166,Urdu,BS in Urdu,3,Promoted,3.53,3.25,
+STU02307,166,Urdu,BS in Urdu,4,Promoted,3.68,3.25,
+STU02308,166,Urdu,BS in Urdu,5,Promoted,3.65,2.88,
+STU02309,166,Urdu,BS in Urdu,6,Promoted,3.38,2.6,
+STU02310,166,Urdu,BS in Urdu,7,Promoted,3.6,2.76,
+STU02311,166,Urdu,BS in Urdu,8,Promoted,3.75,3.04,
+STU02312,167,Urdu,BS in Urdu,1,Promoted,3.95,3.15,
+STU02313,167,Urdu,BS in Urdu,2,Promoted,3.03,2.67,
+STU02314,168,Zoology,BS in Zoology,1,Promoted,4.0,3.13,
+STU02315,168,Zoology,BS in Zoology,2,Promoted,1.0,2.78,
+STU02316,168,Zoology,BS in Zoology,3,Promoted,3.13,2.49,
+STU02317,169,Zoology,BS in Zoology,1,Promoted,3.3,2.88,
+STU02318,169,Zoology,BS in Zoology,2,Promoted,2.73,2.69,
+STU02319,170,Zoology,BS in Zoology,1,Promoted,3.64,3.6,
+STU02320,170,Zoology,BS in Zoology,2,Promoted,3.6,3.27,
+STU02321,170,Zoology,BS in Zoology,3,Promoted,3.62,3.5,
+STU02322,170,Zoology,BS in Zoology,4,Promoted,3.03,3.15,
+STU02323,170,Zoology,BS in Zoology,5,Promoted,3.64,3.55,
+STU02324,170,Zoology,BS in Zoology,6,Promoted,3.88,3.52,
+STU02325,170,Zoology,BS in Zoology,7,Promoted,3.94,3.64,
+STU02326,170,Zoology,BS in Zoology,8,Promoted,3.3,3.02,
+STU02327,170,Zoology,BS in Zoology,9,Promoted,2.87,2.62,
+STU02328,170,Zoology,BS in Zoology,10,Promoted,3.56,3.47,
+STU02329,170,Zoology,BS in Zoology,11,Promoted,3.52,3.32,
+STU02330,170,Zoology,BS in Zoology,12,Promoted,3.58,3.22,
+STU02331,170,Zoology,BS in Zoology,13,Promoted,3.2,3.06,
+STU02332,170,Zoology,BS in Zoology,14,Promoted,3.48,3.04,
+STU02333,170,Zoology,BS in Zoology,15,Promoted,3.73,3.06,
+STU02334,170,Zoology,BS in Zoology,16,Promoted,3.94,3.65,
+STU02335,170,Zoology,BS in Zoology,17,Promoted,3.68,3.29,
+STU02336,170,Zoology,BS in Zoology,18,Promoted,3.82,3.67,
+STU02337,170,Zoology,BS in Zoology,19,Promoted,3.68,3.68,
+STU02338,170,Zoology,BS in Zoology,20,Promoted,3.66,3.49,
+STU02339,170,Zoology,BS in Zoology,21,Promoted,3.86,3.54,
+STU02340,170,Zoology,BS in Zoology,22,Promoted,3.94,3.4,
+STU02341,170,Zoology,BS in Zoology,23,Promoted,3.94,3.54,
+STU02342,170,Zoology,BS in Zoology,24,Promoted,3.86,3.37,
+STU02343,170,Zoology,BS in Zoology,25,Promoted,3.82,3.64,
+STU02344,170,Zoology,BS in Zoology,26,Promoted,3.74,3.36,
+STU02345,170,Zoology,BS in Zoology,27,Promoted,3.68,3.31,
+STU02346,170,Zoology,BS in Zoology,28,Promoted,3.54,3.31,
+STU02347,170,Zoology,BS in Zoology,29,Promoted,3.47,3.18,
+STU02348,170,Zoology,BS in Zoology,30,Promoted,3.76,3.7,
+STU02349,170,Zoology,BS in Zoology,31,Promoted,3.58,3.4,
+STU02350,170,Zoology,BS in Zoology,32,Promoted,3.8,3.25,
+STU02351,170,Zoology,BS in Zoology,33,Promoted,3.39,2.76,
+STU02352,170,Zoology,BS in Zoology,34,Promoted,3.66,3.05,
+STU02353,170,Zoology,BS in Zoology,35,Promoted,3.7,3.43,
+STU02354,170,Zoology,BS in Zoology,36,Promoted,3.76,3.32,
+STU02355,170,Zoology,BS in Zoology,37,Promoted,3.46,3.01,
+STU02356,170,Zoology,BS in Zoology,38,Promoted,3.38,3.05,
+STU02357,170,Zoology,BS in Zoology,39,Promoted,3.6,3.41,
+STU02358,170,Zoology,BS in Zoology,40,Promoted,3.68,3.34,
+STU02359,170,Zoology,BS in Zoology,41,Promoted,3.8,3.51,
+STU02360,170,Zoology,BS in Zoology,42,Promoted,3.33,3.23,
+STU02361,170,Zoology,BS in Zoology,43,Promoted,3.7,3.57,
+STU02362,170,Zoology,BS in Zoology,44,Promoted,3.82,3.15,
+STU02363,172,Zoology,BS in Zoology,1,Promoted,3.78,3.14,
+STU02364,172,Zoology,BS in Zoology,2,Promoted,3.83,3.33,
+STU02365,172,Zoology,BS in Zoology,3,Promoted,3.17,2.93,
+STU02366,172,Zoology,BS in Zoology,4,Promoted,2.95,2.77,ZOO-361
+STU02367,172,Zoology,BS in Zoology,5,Promoted,3.56,2.95,
+STU02368,172,Zoology,BS in Zoology,6,Promoted,3.52,2.61,
+STU02369,172,Zoology,BS in Zoology,7,Promoted,2.95,2.63,ZOO-466
+STU02370,172,Zoology,BS in Zoology,8,Promoted,3.66,3.32,
+STU02371,172,Zoology,BS in Zoology,9,Promoted,3.89,3.63,
+STU02372,172,Zoology,BS in Zoology,10,Promoted,3.94,3.52,
+STU02373,172,Zoology,BS in Zoology,11,Promoted,3.15,2.65,
+STU02374,172,Zoology,BS in Zoology,12,Promoted,3.19,2.95,ZOO-361
+STU02375,172,Zoology,BS in Zoology,13,Promoted,3.76,3.1,
+STU02376,172,Zoology,BS in Zoology,14,Promoted,3.76,3.47,
+STU02377,172,Zoology,BS in Zoology,15,Promoted,3.83,3.42,
+STU02378,172,Zoology,BS in Zoology,16,Promoted,3.89,3.32,
+STU02379,172,Zoology,BS in Zoology,17,Promoted,3.81,3.17,
+STU02380,172,Zoology,BS in Zoology,18,Promoted,3.64,3.14,
+STU02381,172,Zoology,BS in Zoology,19,Promoted,3.55,3.09,
+STU02382,172,Zoology,BS in Zoology,20,Promoted,3.94,3.37,
+STU02383,172,Zoology,BS in Zoology,21,Promoted,3.94,3.49,
+STU02384,173,Zoology,BS in Zoology,1,Promoted,3.11,2.65,
+STU02385,173,Zoology,BS in Zoology,2,Promoted,3.42,2.77,
+STU02386,173,Zoology,BS in Zoology,3,Promoted,3.74,3.15,
+STU02387,174,Zoology,BS in Zoology,1,Promoted,3.8,3.16,
+STU02388,175,Zoology,BS in Zoology,1,Promoted,3.78,3.24,
+STU02389,175,Zoology,BS in Zoology,2,Promoted,3.9,3.47,
+STU02390,175,Zoology,BS in Zoology,3,Promoted,3.62,2.87,
+STU02391,175,Zoology,BS in Zoology,4,Promoted,3.72,3.3,
+STU02392,175,Zoology,BS in Zoology,5,Promoted,3.56,2.66,
+STU02393,175,Zoology,BS in Zoology,6,Promoted,3.86,3.2,
+STU02394,175,Zoology,BS in Zoology,7,Promoted,3.52,2.68,
+STU02395,175,Zoology,BS in Zoology,8,Promoted,3.83,3.38,
+STU02396,175,Zoology,BS in Zoology,9,Promoted,3.75,3.43,
+STU02397,175,Zoology,BS in Zoology,10,Promoted,3.67,3.19,
+STU02398,175,Zoology,BS in Zoology,11,Promoted,3.37,2.89,
+STU02399,175,Zoology,BS in Zoology,12,Promoted,3.44,2.96,ZOO-412
+STU02400,175,Zoology,BS in Zoology,13,Promoted,3.43,2.74,
+STU02401,175,Zoology,BS in Zoology,14,Promoted,3.85,3.22,
+STU02402,175,Zoology,BS in Zoology,15,Promoted,3.44,2.73,
+STU02403,175,Zoology,BS in Zoology,16,Promoted,3.82,3.42,
+STU02404,175,Zoology,BS in Zoology,17,Promoted,3.5,2.89,
+STU02405,175,Zoology,BS in Zoology,18,Promoted,3.61,3.01,
+STU02406,175,Zoology,BS in Zoology,19,Promoted,3.6,2.98,
+STU02407,175,Zoology,BS in Zoology,20,Promoted,3.85,3.2,
+STU02408,175,Zoology,BS in Zoology,21,Promoted,3.78,3.4,
+STU02409,175,Zoology,BS in Zoology,22,Promoted,3.69,2.92,
+STU02410,175,Zoology,BS in Zoology,23,Promoted,3.65,2.89,
+STU02411,175,Zoology,BS in Zoology,24,Promoted,3.72,3.13,
+STU02412,175,Zoology,BS in Zoology,25,Promoted,3.93,3.72,
+STU02413,175,Zoology,BS in Zoology,26,Promoted,3.29,2.75,
+STU02414,175,Zoology,BS in Zoology,27,Promoted,3.66,3.07,
+STU02415,175,Zoology,BS in Zoology,28,Promoted,2.98,2.03,
+STU02416,175,Zoology,BS in Zoology,29,Promoted,3.79,3.29,
+STU02417,175,Zoology,BS in Zoology,30,Promoted,3.81,3.48,
+STU02418,175,Zoology,BS in Zoology,31,Promoted,2.74,2.28,"ZOO-312, ZOO-358"
+STU02419,175,Zoology,BS in Zoology,32,Promoted,3.72,3.1,
+STU02420,175,Zoology,BS in Zoology,33,Promoted,3.58,2.87,
+STU02421,175,Zoology,BS in Zoology,34,Promoted,3.65,2.98,
+STU02422,175,Zoology,BS in Zoology,35,Promoted,3.88,3.25,
+STU02423,175,Zoology,BS in Zoology,36,Promoted,3.72,3.24,
+STU02424,175,Zoology,BS in Zoology,37,Promoted,3.85,3.22,
+STU02425,175,Zoology,BS in Zoology,38,Promoted,3.87,3.52,
+STU02426,175,Zoology,BS in Zoology,39,Promoted,3.85,3.45,
+STU02427,175,Zoology,BS in Zoology,40,Promoted,3.87,3.45,
+STU02428,175,Zoology,BS in Zoology,41,Promoted,3.68,3.2,
+STU02429,175,Zoology,BS in Zoology,42,Promoted,3.84,3.43,
+STU02430,175,Zoology,BS in Zoology,43,Promoted,3.58,2.9,
+STU02431,175,Zoology,BS in Zoology,44,Promoted,3.82,3.44,
+STU02432,177,Zoology,BS in Zoology,1,Promoted,3.54,3.33,
+STU02433,177,Zoology,BS in Zoology,2,Promoted,2.97,3.23,
+STU02434,177,Zoology,BS in Zoology,3,Promoted,3.05,2.9,
+STU02435,177,Zoology,BS in Zoology,4,Promoted,3.34,3.33,
+STU02436,177,Zoology,BS in Zoology,5,Promoted,3.34,3.05,
+STU02437,177,Zoology,BS in Zoology,6,Promoted,3.44,3.36,
+STU02438,177,Zoology,BS in Zoology,7,Promoted,3.13,3.22,
+STU02439,177,Zoology,BS in Zoology,8,Promoted,2.75,2.91,
+STU02440,177,Zoology,BS in Zoology,9,Promoted,3.13,2.78,
+STU02441,177,Zoology,BS in Zoology,10,Promoted,3.41,3.21,
+STU02442,177,Zoology,BS in Zoology,11,Promoted,3.24,3.07,
+STU02443,177,Zoology,BS in Zoology,12,Promoted,2.65,2.53,
+STU02444,177,Zoology,BS in Zoology,13,Promoted,0.19,2.31,"GE-204, ZOO-207, ZOO-208, ZOO-306, ZOO-352, ZOO-466, ZOO-473"
+STU02445,177,Zoology,BS in Zoology,14,Promoted,2.64,2.78,
+STU02446,177,Zoology,BS in Zoology,15,Promoted,2.74,3.08,
+STU02447,177,Zoology,BS in Zoology,16,Promoted,2.88,2.15,ZOO-466
+STU02448,177,Zoology,BS in Zoology,17,Promoted,3.42,3.35,
+STU02449,177,Zoology,BS in Zoology,18,Promoted,3.39,3.26,
+STU02450,177,Zoology,BS in Zoology,19,Promoted,3.86,3.7,
+STU02451,177,Zoology,BS in Zoology,20,Promoted,3.48,3.45,
+STU02452,177,Zoology,BS in Zoology,21,Promoted,2.91,2.54,
+STU02453,177,Zoology,BS in Zoology,22,Promoted,2.83,2.63,
+STU02454,177,Zoology,BS in Zoology,23,Promoted,3.51,3.38,
+STU02455,177,Zoology,BS in Zoology,24,Promoted,2.9,2.52,
+STU02456,177,Zoology,BS in Zoology,25,Promoted,2.58,2.63,ZOO-352
+STU02457,177,Zoology,BS in Zoology,26,Promoted,3.05,2.8,
+STU02458,177,Zoology,BS in Zoology,27,Promoted,2.75,2.3,
+STU02459,177,Zoology,BS in Zoology,28,Promoted,3.76,3.42,
+STU02460,177,Zoology,BS in Zoology,29,Promoted,2.82,2.56,
+STU02461,177,Zoology,BS in Zoology,30,Promoted,3.27,2.8,
+STU02462,177,Zoology,BS in Zoology,31,Promoted,3.34,2.87,
+STU02463,178,Zoology,BS in Zoology,1,Promoted,2.13,2.06,ZOO-466
+STU02464,178,Zoology,BS in Zoology,2,Promoted,2.62,2.48,
+STU02465,178,Zoology,BS in Zoology,3,Promoted,2.48,2.42,
+STU02466,179,Zoology,BS in Zoology,1,Promoted,2.91,3.11,BOT-103
+STU02467,179,Zoology,BS in Zoology,2,Promoted,3.71,3.66,
+STU02468,179,Zoology,BS in Zoology,3,Promoted,3.24,2.86,
+STU02469,179,Zoology,BS in Zoology,4,Promoted,3.26,3.13,
+STU02470,179,Zoology,BS in Zoology,5,Promoted,3.37,3.11,
+STU02471,179,Zoology,BS in Zoology,6,Dropped,0.44,1.27,"BOT-103, CHEM-103, GE-201, GE-205, ZOO- 213, ZOO-474"
+STU02472,179,Zoology,BS in Zoology,7,Promoted,3.49,3.37,
+STU02473,179,Zoology,BS in Zoology,8,Promoted,3.45,3.4,
+STU02474,179,Zoology,BS in Zoology,9,Promoted,3.59,3.52,
+STU02475,179,Zoology,BS in Zoology,10,Promoted,3.65,3.6,
+STU02476,179,Zoology,BS in Zoology,11,Promoted,3.67,3.55,
+STU02477,179,Zoology,BS in Zoology,12,Promoted,3.35,3.34,
+STU02478,179,Zoology,BS in Zoology,13,Promoted,2.9,2.92,
+STU02479,179,Zoology,BS in Zoology,14,Promoted,3.66,3.55,
+STU02480,179,Zoology,BS in Zoology,15,Promoted,3.47,3.29,
+STU02481,179,Zoology,BS in Zoology,16,Promoted,3.63,3.52,
+STU02482,179,Zoology,BS in Zoology,17,Promoted,3.88,3.64,
+STU02483,179,Zoology,BS in Zoology,18,Promoted,3.58,3.53,
+STU02484,179,Zoology,BS in Zoology,19,Promoted,3.61,3.48,
+STU02485,179,Zoology,BS in Zoology,20,Promoted,3.51,3.48,
+STU02486,179,Zoology,BS in Zoology,21,Promoted,3.66,3.28,
+STU02487,179,Zoology,BS in Zoology,22,Promoted,3.67,3.47,
+STU02488,179,Zoology,BS in Zoology,23,Promoted,3.54,3.27,
+STU02489,179,Zoology,BS in Zoology,24,Promoted,3.74,3.67,
+STU02490,179,Zoology,BS in Zoology,25,Promoted,3.78,3.61,
+STU02491,180,Centre for Languages and Translation Studies,BS Urdu,1,Promoted,3.73,3.32,
+STU02492,180,Centre for Languages and Translation Studies,BS Urdu,2,Promoted,3.43,3.03,
+STU02493,180,Centre for Languages and Translation Studies,BS Urdu,3,Promoted,3.68,3.12,
+STU02494,180,Centre for Languages and Translation Studies,BS Urdu,4,Promoted,3.62,3.15,
+STU02495,180,Centre for Languages and Translation Studies,BS Urdu,5,Promoted,3.43,2.99,
+STU02496,180,Centre for Languages and Translation Studies,BS Urdu,6,Promoted,3.38,3.11,
+STU02497,180,Centre for Languages and Translation Studies,BS Urdu,7,Promoted,3.32,2.92,
+STU02498,180,Centre for Languages and Translation Studies,BS Urdu,8,Promoted,3.21,2.87,
+STU02499,180,Centre for Languages and Translation Studies,BS Urdu,9,Promoted,2.16,2.52,
+STU02500,180,Centre for Languages and Translation Studies,BS Urdu,10,Promoted,3.18,2.93,
+STU02501,180,Centre for Languages and Translation Studies,BS Urdu,11,Promoted,2.63,2.75,
+STU02502,180,Centre for Languages and Translation Studies,BS Urdu,12,Promoted,3.35,2.97,
+STU02503,180,Centre for Languages and Translation Studies,BS Urdu,13,Promoted,3.57,3.15,
+STU02504,180,Centre for Languages and Translation Studies,BS Urdu,14,Promoted,2.9,2.55,
+STU02505,180,Centre for Languages and Translation Studies,BS Urdu,15,Promoted,2.97,2.26,
+STU02506,180,Centre for Languages and Translation Studies,BS Urdu,16,Promoted,2.7,2.38,
+STU02507,180,Centre for Languages and Translation Studies,BS Urdu,17,Promoted,3.55,2.85,
+STU02508,180,Centre for Languages and Translation Studies,BS Urdu,18,Promoted,3.75,2.88,
+STU02509,180,Centre for Languages and Translation Studies,BS Urdu,19,Promoted,3.03,2.92,GE-205
+STU02510,180,Centre for Languages and Translation Studies,BS Urdu,20,Promoted,3.65,2.87,
+STU02511,180,Centre for Languages and Translation Studies,BS Urdu,21,Promoted,2.77,2.36,
+STU02512,180,Centre for Languages and Translation Studies,BS Urdu,22,Promoted,3.06,2.86,GE-205
+STU02513,180,Centre for Languages and Translation Studies,BS Urdu,23,Promoted,2.94,2.47,
+STU02514,180,Centre for Languages and Translation Studies,BS Urdu,24,Promoted,2.97,2.68,GE-205
+STU02515,180,Centre for Languages and Translation Studies,BS Urdu,25,Promoted,3.8,3.23,
+STU02516,180,Centre for Languages and Translation Studies,BS Urdu,26,Promoted,3.42,2.83,
+STU02517,180,Centre for Languages and Translation Studies,BS Urdu,27,Promoted,3.3,2.95,GE-205
+STU02518,180,Centre for Languages and Translation Studies,BS Urdu,28,Promoted,1.25,1.81,"URDU-306, URDU-309, URDU-311"
+STU02519,180,Centre for Languages and Translation Studies,BS Urdu,29,Promoted,3.14,2.53,
+STU02520,180,Centre for Languages and Translation Studies,BS Urdu,30,Promoted,3.0,2.45,
+STU02521,181,Centre for Languages and Translation Studies,BS Urdu,1,Promoted,2.84,2.44,
+STU02522,181,Centre for Languages and Translation Studies,BS Urdu,2,Promoted,2.73,2.58,
+STU02523,181,Centre for Languages and Translation Studies,BS Urdu,3,Promoted,2.14,2.26,
+STU02524,181,Centre for Languages and Translation Studies,BS Urdu,4,Promoted,2.65,2.75,
+STU02525,181,Centre for Languages and Translation Studies,BS Urdu,5,Dropped,0.25,0.25,"URDU-306, URDU-308, URDU-309, URDU- 310, URDU-311"
+STU02526,182,Centre for Languages and Translation Studies,BS Urdu,1,Promoted,2.77,2.74,GE-205
+STU02527,182,Centre for Languages and Translation Studies,BS Urdu,2,Promoted,2.68,2.21,GE-207
+STU02528,182,Centre for Languages and Translation Studies,BS Urdu,3,Promoted,2.09,1.85,URDU-203
+STU02529,182,Centre for Languages and Translation Studies,BS Urdu,4,Promoted,2.45,2.45,"GE-205, GE-207"
+STU02530,182,Centre for Languages and Translation Studies,BS Urdu,5,Promoted,3.09,2.66,
+STU02531,182,Centre for Languages and Translation Studies,BS Urdu,6,Promoted,3.27,2.76,
+STU02532,182,Centre for Languages and Translation Studies,BS Urdu,7,Promoted,3.82,3.57,
+STU02533,182,Centre for Languages and Translation Studies,BS Urdu,8,Promoted,3.5,3.35,
+STU02534,182,Centre for Languages and Translation Studies,BS Urdu,9,Promoted,3.13,3.06,
+STU02535,182,Centre for Languages and Translation Studies,BS Urdu,10,Promoted,2.45,2.49,
+STU02536,182,Centre for Languages and Translation Studies,BS Urdu,11,Promoted,3.61,3.22,
+STU02537,182,Centre for Languages and Translation Studies,BS Urdu,12,Promoted,3.5,2.67,
+STU02538,182,Centre for Languages and Translation Studies,BS Urdu,13,Promoted,2.66,2.57,URDU-203
+STU02539,183,Centre for Languages and Translation Studies,BS Urdu,1,Promoted,3.73,3.48,
+STU02540,183,Centre for Languages and Translation Studies,BS Urdu,2,Promoted,3.45,3.14,
